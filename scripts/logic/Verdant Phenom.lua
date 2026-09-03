@@ -15,5 +15,6 @@ function canReachFallrealmBerry()
 end
 
 function hasBagwormKey()
-    return ALL(HAS("bagwormkey",1),canReachFallrealmBerry())
+    return ALL(HAS("bagwormkey",1),canReachFallrealmBerry(),HAS("nullifymiasma",1))
 end
+

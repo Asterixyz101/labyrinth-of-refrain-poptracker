@@ -92,5 +92,13 @@
     "overlay_font_size": 20,
     "img": "images/items/witch_petition/progressiveleavelabyrinthatwill.png",
     "codes": "progressiveleavelabyrinthatwill"
+  },
+  {
+    "name": "Nullify Miasma",
+    "type": "toggle",
+    "img": "images/items/witch_petition/nullifymiasma.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "nullifymiasma"
   }
 ]

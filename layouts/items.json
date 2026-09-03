@@ -61,7 +61,6 @@
                 "progressiveseeenemiesonmini-map"
               ],
               [
-                "nullifymiasma",
                 "progressiveescapebattleseasier",
                 "revealtruenature",
                 "blackpage(astrom)",
@@ -165,7 +164,7 @@
         "item_size": "45,45",
         "rows": [
           [ "findmoreitems", "wallbreaker", "stockpilexp", "userfoffensively", "userfdefensively", "unsealingritual" ],
-          [ "treasure", "progressiveformations", "scapegoat", "progressiveleavelabyrinthatwill", "rebirthpuppetsoldiers" ],
+          [ "treasure", "progressiveformations", "scapegoat", "progressiveleavelabyrinthatwill", "rebirthpuppetsoldiers", "nullifymiasma" ],
           []
         ]
       }

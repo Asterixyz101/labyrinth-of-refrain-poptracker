@@ -374,14 +374,6 @@
     ]
   },
   {
-    "name": "nullifymiasma",
-    "type": "toggle",
-    "img": "images/items/nullifymiasma.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "nullifymiasma"
-  },
-  {
     "name": "progressiveescapebattleseasier",
     "type": "progressive",
     "loop": false,
