@@ -1,0 +1,101 @@
+[
+  {
+    "name": "Progressive Campanula",
+    "type": "consumable",
+    "img": "/images/items/dungeons/progressivecampanula.png",
+    "codes": "progressivecampanula",
+    "max_quantity": 7,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20
+  },
+  {
+    "name": "Progressive Ornit",
+    "type": "consumable",
+    "img": "/images/items/dungeons/progressiveornit.png",
+    "codes": "progressiveornit",
+    "max_quantity": 9,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20
+  },
+  {
+    "name": "Progressive Rosatempus",
+    "type": "consumable",
+    "img": "/images/items/dungeons/progressiverosatempusmemoria.png",
+    "codes": "progressiverosatempusmemoria",
+    "max_quantity": 7,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20
+  },
+  {
+    "name": "Progressive Tanis",
+    "type": "consumable",
+    "img": "/images/items/dungeons/progressivetanis.png",
+    "codes": "progressivetanis",
+    "max_quantity": 4,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20
+  },
+  {
+    "name": "Progressive Astrom",
+    "type": "consumable",
+    "img": "/images/items/dungeons/progressiveastrom.png",
+    "codes": "progressiveastrom",
+    "max_quantity": 4,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20
+  },
+  {
+    "name": "Progressive Melm",
+    "type": "consumable",
+    "img": "/images/items/dungeons/progressivemelm.png",
+    "codes": "progressivemelm",
+    "max_quantity": 6,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20
+  },
+  {
+    "name": "Progressive Amadeus",
+    "type": "consumable",
+    "img": "/images/items/dungeons/progressiveamadeus.png",
+    "codes": "progressiveamadeus",
+    "max_quantity": 5,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20
+  },
+  {
+    "name": "Progressive Verdant Phenom",
+    "type": "consumable",
+    "img": "/images/items/dungeons/progressiveverdantphenom.png",
+    "codes": "progressiveverdantphenom",
+    "max_quantity": 4,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20
+  },
+  {
+    "name": "Progressive Umbra",
+    "type": "consumable",
+    "img": "/images/items/dungeons/progressiveumbra.png",
+    "codes": "progressiveumbra",
+    "max_quantity": 10,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20
+  }
+]

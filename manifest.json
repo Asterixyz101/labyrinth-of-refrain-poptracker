@@ -1,0 +1,16 @@
+{
+    "name": "Labyrinth Of Refrain: Coven Of Dusk (Ishmael Manual)",
+    "game_name": "Manual_LabyrinthOfRefrainCovenOfDusk_Ishmael",
+    "package_version": "0.0.1",
+    "package_uid": "manual_labyrinthofrefraincovenofdusk_ishmael_ap",
+    "author": "Asterixyz",
+    "variants": {
+        "Map Tracker": {
+            "display_name": "Map Tracker",
+            "flags": [
+                "ap"
+            ]
+        }
+    },
+    "min_poptracker_version": "0.35.4"
+}

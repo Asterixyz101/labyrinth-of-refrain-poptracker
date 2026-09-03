@@ -1,0 +1,6 @@
+Tracker:AddItems("items/items.json")
+Tracker:AddItems("items/dungeons.json")
+Tracker:AddItems("items/facets.json")
+Tracker:AddItems("items/keys.json")
+Tracker:AddItems("items/petitions.json")
+Tracker:AddItems("items/labels.json")

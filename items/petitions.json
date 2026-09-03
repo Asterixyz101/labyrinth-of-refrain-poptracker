@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Wall Breaker",
+    "type": "toggle",
+    "img": "images/items/witch_petition/wallbreaker.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "wallbreaker"
+  },
+  {
+    "name": "Find More Items",
+    "type": "toggle",
+    "img": "images/items/witch_petition/findmoreitems.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "findmoreitems"
+  },
+  {
+    "name": "Stockpile Xp",
+    "type": "toggle",
+    "img": "images/items/witch_petition/stockpilexp.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "stockpilexp"
+  },
+  {
+    "name": "Use RF Offensively",
+    "type": "toggle",
+    "img": "images/items/witch_petition/userfoffensively.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "userfoffensively"
+  },
+  {
+    "name": "Use RF Defensively",
+    "type": "toggle",
+    "img": "images/items/witch_petition/userfdefensively.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "userfdefensively"
+  }
+]

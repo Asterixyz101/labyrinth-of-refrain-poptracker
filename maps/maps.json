@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Facet Menu",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/Misc/Facet Menu.png"
+  },
+  {
+    "name": "Start Menu",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/Misc/Start.png"
+  },
+  {
+    "name": "Campanula B1",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/Cobalt Campanula/B1.png"
+  },
+  {
+    "name": "Campanula B2",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/Cobalt Campanula/B2.png"
+  },
+  {
+    "name": "Campanula B3",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/Cobalt Campanula/B3.png"
+  },
+  {
+    "name": "Campanula B4",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/Cobalt Campanula/B4.png"
+  },
+  {
+    "name": "Campanula B5",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/Cobalt Campanula/B5.png"
+  },
+  {
+    "name": "Campanula B6",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/Cobalt Campanula/B6.png"
+  },
+  {
+    "name": "Campanula B7",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/Cobalt Campanula/B7.png"
+  },
+  {
+    "name": "South District",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/The Astrom Kingdom/South District.png"
+  },
+  {
+    "name": "East District",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/The Astrom Kingdom/East District.png"
+  },
+  {
+    "name": "West District",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/The Astrom Kingdom/West District.png"
+  },
+  {
+    "name": "North District",
+    "location_size": 6,
+    "location_border_thickness": 1,
+    "img": "/images/maps/The Astrom Kingdom/North District.png"
+  }
+]

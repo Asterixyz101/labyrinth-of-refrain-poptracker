@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Ornit Key",
+    "type": "toggle",
+    "img": "images/items/keys/special_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "ornitkey"
+  },
+  {
+    "name": "Mysterious Key",
+    "type": "toggle",
+    "img": "images/items/keys/chest_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "mysteriouskey"
+  },
+  {
+    "name": "Gnomish Key",
+    "type": "toggle",
+    "img": "images/items/keys/chest_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "gnomishkey"
+  },
+  {
+    "name": "Duchess's Key",
+    "type": "toggle",
+    "img": "images/items/keys/chest_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "duchessskey"
+  },
+  {
+    "name": "Campanula Key",
+    "type": "toggle",
+    "img": "images/items/keys/chest_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "campanulakey"
+  },
+  {
+    "name": "Tanis Key",
+    "type": "toggle",
+    "img": "images/items/keys/chest_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "taniskey"
+  },
+  {
+    "name": "Avianite Empire Key",
+    "type": "toggle",
+    "img": "images/items/keys/chest_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "avianiteempirekey"
+  },
+  {
+    "name": "Great Sage's Key",
+    "type": "toggle",
+    "img": "images/items/keys/special_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "greatsageskey"
+  },
+  {
+    "name": "Fairy King's Pardon",
+    "type": "toggle",
+    "img": "images/items/keys/chest_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "fairykingspardon"
+  },
+  {
+    "name": "Holy King's Key",
+    "type": "toggle",
+    "img": "images/items/keys/chest_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "holykingskey"
+  },
+  {
+    "name": "Troll Playroom Key",
+    "type": "toggle",
+    "img": "images/items/keys/chest_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "trollplayroomkey"
+  },
+  {
+    "name": "Bagworm Key",
+    "type": "toggle",
+    "img": "images/items/keys/chest_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "bagwormkey"
+  },
+  {
+    "name": "Furia's Key",
+    "type": "toggle",
+    "img": "images/items/keys/special_key.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "furiaskey"
+  }
+]

@@ -1,0 +1,633 @@
+{
+  "tabbed_maps_horizontal": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Start",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Start Menu"
+          ]
+        }
+      },
+      {
+        "title": "Cobalt Campanula",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "B1",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Campanula B1"
+                ]
+              }
+            },
+            {
+              "title": "B2",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Campanula B2"
+                ]
+              }
+            },
+            {
+              "title": "B3",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Campanula B3"
+                ]
+              }
+            },
+            {
+              "title": "B4",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Campanula B4"
+                ]
+              }
+            },
+            {
+              "title": "B5",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Campanula B5"
+                ]
+              }
+            },
+            {
+              "title": "B6",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Campanula B6"
+                ]
+              }
+            },
+            {
+              "title": "B7",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Campanula B7"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "The Astrom Kingdom",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "South District",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "South District"
+                ]
+              }
+            },
+            {
+              "title": "East District",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "East District"
+                ]
+              }
+            },
+            {
+              "title": "West District",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "West District"
+                ]
+              }
+            },
+            {
+              "title": "North District",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "North District"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Melm, The Buried Empire",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Food Storehouse",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Food Storehouse"
+                ]
+              }
+            },
+            {
+              "title": "Hall of Champions",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Hall of Champions"
+                ]
+              }
+            },
+            {
+              "title": "Livestock Pen",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Livestock Pen"
+                ]
+              }
+            },
+            {
+              "title": "Hero's Revelry",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Heros Revelry"
+                ]
+              }
+            },
+            {
+              "title": "Temple of Wings",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Temple of Wings"
+                ]
+              }
+            },
+            {
+              "title": "Divine Mausoleum",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Divine Mausoleum"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Verdant Phenom",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Springrealm Bare Flower",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Springrealm Bare Flower"
+                ]
+              }
+            },
+            {
+              "title": "Springrealm Mutton",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Springrealm Mutton"
+                ]
+              }
+            },
+            {
+              "title": "Fallrealm Gem",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Fallrealm Gem"
+                ]
+              }
+            },
+            {
+              "title": "Fallrealm Berry",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Fallrealm Berry"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Three Towers Of Umbra",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "1F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Umbra 1F"
+                ]
+              }
+            },
+            {
+              "title": "2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Umbra 2F"
+                ]
+              }
+            },
+            {
+              "title": "3F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Umbra 3F"
+                ]
+              }
+            },
+            {
+              "title": "4F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Umbra 4F"
+                ]
+              }
+            },
+            {
+              "title": "5F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Umbra 5F"
+                ]
+              }
+            },
+            {
+              "title": "6F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Umbra 6F"
+                ]
+              }
+            },
+            {
+              "title": "7F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Umbra 7F"
+                ]
+              }
+            },
+            {
+              "title": "8F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Umbra 8F"
+                ]
+              }
+            },
+            {
+              "title": "Top",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Umbra Top"
+                ]
+              }
+            },
+            {
+              "title": "Subterra",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Umbra Subterra"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Rosatempus Memoria",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Unus I",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Unus I"
+                ]
+              }
+            },
+            {
+              "title": "Duo II",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Duo II"
+                ]
+              }
+            },
+            {
+              "title": "Tres III",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Tres III"
+                ]
+              }
+            },
+            {
+              "title": "Quattuor IV",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Quattuor IV"
+                ]
+              }
+            },
+            {
+              "title": "Quinque V",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Quinque V"
+                ]
+              }
+            },
+            {
+              "title": "Sex VI",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Sex VI"
+                ]
+              }
+            },
+            {
+              "title": "Septem VII",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Septem VII"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Amadeus Necropolis",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Sea Passage",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Sea Passage"
+                ]
+              }
+            },
+            {
+              "title": "2F",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "2F"
+                ]
+              }
+            },
+            {
+              "title": "B1",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "B1"
+                ]
+              }
+            },
+            {
+              "title": "B2",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "B2"
+                ]
+              }
+            },
+            {
+              "title": "Bottom",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Bottom"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Dusken Tanis",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "West District",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Refrain West District"
+                ]
+              }
+            },
+            {
+              "title": "North District",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Refrain North District"
+                ]
+              }
+            },
+            {
+              "title": "South District",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Refrain South District"
+                ]
+              }
+            },
+            {
+              "title": "East District",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Refrain East District"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Unclean Ornit",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "Azu-Melm",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Azu-Melm"
+                ]
+              }
+            },
+            {
+              "title": "Azu-Amadeus",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Azu-Amadeus"
+                ]
+              }
+            },
+            {
+              "title": "Azu-Campanula",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Azu-Campanula"
+                ]
+              }
+            },
+            {
+              "title": "Azu-Umbra",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Azu-Umbra"
+                ]
+              }
+            },
+            {
+              "title": "Azu-Astrom",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Azu-Astrom"
+                ]
+              }
+            },
+            {
+              "title": "Azu-Phenom",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Azu-Phenom"
+                ]
+              }
+            },
+            {
+              "title": "Azu-Magia",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Azu-Magia"
+                ]
+              }
+            },
+            {
+              "title": "Azu-Tanis",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Azu-Tanis"
+                ]
+              }
+            },
+            {
+              "title": "Azu-Cardia",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "Azu-Cardia"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Request Memos",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Request Memos"
+          ]
+        }
+      }
+    ]
+  },
+  "petition_grid": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Progression",
+        "content": {
+          "type": "layout",
+          "h_alignment": "center",
+          "v_alignment": "center",
+          "key": "progression_grid"
+        }
+      },
+      {
+        "title": "Useful",
+        "content": {
+          "type": "layout",
+          "h_alignment": "center",
+          "v_alignment": "center",
+          "key": "useful_grid"
+        }
+      },
+      {
+        "title": "Filler",
+        "content": {
+          "type": "layout",
+          "h_alignment": "center",
+          "v_alignment": "center",
+          "key": "filler_grid"
+        }
+      }
+    ]
+  }
+}

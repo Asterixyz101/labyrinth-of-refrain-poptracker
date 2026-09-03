@@ -1,0 +1,114 @@
+[
+  {
+    "name": "Theatrical Star (M)",
+    "type": "toggle",
+    "img": "images/items/facets/theatricalstar(m).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "theatricalstar(m), facet"
+  },
+  {
+    "name": "Mad Raptor (F)",
+    "type": "toggle",
+    "img": "images/items/facets/madraptor(f).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "madraptor(f), facet"
+  },
+  {
+    "name": "Mad Raptor (M)",
+    "type": "toggle",
+    "img": "images/items/facets/madraptor(m).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "madraptor(m), facet"
+  },
+  {
+    "name": "Shinobushi (M)",
+    "type": "toggle",
+    "img": "images/items/facets/shinobushi(m).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "shinobushi(m), facet"
+  },
+  {
+    "name": "Shinobushi (F)",
+    "type": "toggle",
+    "img": "images/items/facets/shinobushi(f).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "shinobushi(f), facet"
+  },
+  {
+    "name": "Gothic Coppelia",
+    "type": "toggle",
+    "img": "images/items/facets/gothiccoppelia.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "gothiccoppelia, facet"
+  },
+  {
+    "name": "Demon Reaper",
+    "type": "toggle",
+    "img": "images/items/facets/demonreaper.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "demonreaper, facet"
+  },
+  {
+    "name": "Marginal Maze (M)",
+    "type": "toggle",
+    "img": "images/items/facets/marginalmaze(m).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "marginalmaze(m), facet"
+  },
+  {
+    "name": "Aster Knight (M)",
+    "type": "toggle",
+    "img": "images/items/facets/asterknight(m).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "asterknight(m), facet"
+  },
+  {
+    "name": "Aster Knight (F)",
+    "type": "toggle",
+    "img": "images/items/facets/asterknight(f).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "asterknight(f), facet"
+  },
+  {
+    "name": "Peer Fortress(F)",
+    "type": "toggle",
+    "img": "images/items/facets/peerfortress(f).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "peerfortress(f), facet"
+  },
+  {
+    "name": "Peer Fortress (M)",
+    "type": "toggle",
+    "img": "images/items/facets/peerfortress(m).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "peerfortress(m), facet"
+  },
+  {
+    "name": "Marginal Maze (F)",
+    "type": "toggle",
+    "img": "images/items/facets/marginalmaze(f).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "marginalmaze(f), facet"
+  },
+  {
+    "name": "Theatrical Star (F)",
+    "type": "toggle",
+    "img": "images/items/facets/theatricalstar(f).png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "theatricalstar(f), facet"
+  }
+]

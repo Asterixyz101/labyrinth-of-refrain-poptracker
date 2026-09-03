@@ -1,0 +1,179 @@
+{
+  "shared_item_grid_horizontal": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "array",
+        "orientation": "horizontal",
+        "margin": "0,0",
+        "content": [
+          {
+            "type": "itemgrid",
+            "item_margin": "2, 2",
+            "h_alignment": "left",
+            "item_h_alignment": "center",
+            "item_v_alignment": "center",
+            "item_height": 5,
+            "item_width": 5,
+            "rows": [
+              [
+                "progressiveitemstorage",
+                "duskentanisspoilslist",
+                "blackpage(phenom)",
+                "progressivestartleenemies"
+              ],
+              [
+                "rosatempusspoilslist",
+                "astromspoilslist",
+                "blackpage(melm)",
+                "progressivehidefromenemies",
+                "progressivepuppetstorage",
+                "progressiveleavelabyrinthatwill",
+                "ornit1fspoilslist",
+                "uncleanornitspoilslist",
+                "decentshield",
+                "renamepuppetsoldiers"
+              ],
+              [
+                "progressiveformations",
+                "blackpage(amadeus)",
+                "morestatgrowthoptions",
+                "ornit2fspoilslist",
+                "dpboostinggear",
+                "blackpage(umbra)",
+                "ornit0fspoilslist",
+                "visitagentleworld"
+              ],
+              [
+                "footwear",
+                "progressivedistinguishenemies",
+                "rebirthpuppetsoldiers",
+                "morenatureoptions",
+              ],
+              [
+                "ornit5fspoilslist",
+                "lightcrossbow",
+                "decentarmor",
+                "puppetparts",
+                "melmspoilslist",
+                "amadeusspoilslist",
+                "lureenemies",
+                "progressiveseeenemiesonmini-map"
+              ],
+              [
+                "nullifymiasma",
+                "progressiveescapebattleseasier",
+                "scapegoat",
+                "revealtruenature",
+                "blackpage(astrom)",
+                "renamesoulpacts",
+                "soulpactii",
+                "umbraspoilslist"
+              ],
+              [
+                "bringmanaintolabyrinth",
+                "ornit4fspoilslist",
+                "campanulaspoilslist",
+                "campanulaspoilslistii"
+              ],
+              [
+                "ornit6fspoilslist",
+                "avoidenemiesaltogether",
+                "unsealingritual",
+                "luckboostinggear",
+                "blackpage(campanula)",
+                "soulpact",
+                "ornit3fspoilslist"
+              ],
+              [
+                "progressivepost-battlerecovery",
+                "ornit7fspoilslist",
+                "visitanightmareworld",
+                "treasure",
+                "phenomspoilslist"
+              ],
+              [
+                "stenchprotection",
+                "update"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "facet_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "margin": "0,0",
+        "item_margin": "0,0",
+        "item_size": "41,78",
+        "rows": [
+          [ "asterknight(m)", "shinobushi(m)", "theatricalstar(m)", "marginalmaze(m)", "peerfortress(m)", "madraptor(m)" ],
+          [ "asterknight(f)", "shinobushi(f)", "theatricalstar(f)", "marginalmaze(f)", "peerfortress(f)", "madraptor(f)" ],
+          [ "gothiccoppelia", "demonreaper" ]
+        ]
+      }
+    ]
+  },
+  "dungeon_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "margin": "0,0",
+        "item_margin": "0,0",
+        "item_size": "78,49",
+        "rows": [
+          [ "progressivecampanula", "progressiveastrom", "progressivemelm" ],
+          [ "progressiveverdantphenom", "progressiveumbra", "progressiverosatempusmemoria" ],
+          [ "progressiveamadeus", "progressivetanis", "progressiveornit" ]
+        ]
+      }
+    ]
+  },
+  "key_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "margin": "0,0",
+        "item_margin": "0,0",
+        "item_size": "35,35",
+        "rows": [
+          [ "campanulakey", "gnomishkey", "avianiteempirekey", "trollplayroomkey" ],
+          [ "bagwormkey", "duchessskey", "mysteriouskey", "holykingskey" ],
+          [ "fairykingspardon", "taniskey", "greatsageskey", "furiaskey", "ornitkey" ]
+        ]
+      }
+    ]
+  },
+  "progression_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "margin": "0,0",
+        "item_margin": "0,0",
+        "item_size": "73,73",
+        "rows": [
+          [ "findmoreitems", "wallbreaker", "stockpilexp", "userfoffensively", "userfdefensively" ],
+          [],
+          []
+        ]
+      }
+    ]
+  }
+}
