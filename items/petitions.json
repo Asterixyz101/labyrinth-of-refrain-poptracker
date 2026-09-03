@@ -38,5 +38,59 @@
     "initial_active_state": false,
     "overlay_align": "right",
     "codes": "userfdefensively"
+  },
+  {
+    "name": "Unsealing Ritual",
+    "type": "toggle",
+    "img": "images/items/witch_petition/unsealingritual.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "unsealingritual"
+  },
+  {
+    "name": "Treasure",
+    "type": "toggle",
+    "img": "images/items/witch_petition/treasure.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "treasure"
+  },
+  {
+    "name": "Progressive Formations",
+    "type": "consumable",
+    "max_quantity": 4,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20,
+    "img": "images/items/witch_petition/progressiveformations.png",
+    "codes": "progressiveformations"
+  },
+  {
+    "name": "Scapegoat",
+    "type": "toggle",
+    "img": "images/items/witch_petition/scapegoat.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "scapegoat"
+  },
+  {
+    "name": "Rebirth Puppet Soldiers",
+    "type": "toggle",
+    "img": "images/items/witch_petition/rebirthpuppetsoldiers.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "rebirthpuppetsoldiers"
+  },
+  {
+    "name": "Progressive Leave Labyrinth At Will",
+    "type": "consumable",
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_font_size": 20,
+    "img": "images/items/witch_petition/progressiveleavelabyrinthatwill.png",
+    "codes": "progressiveleavelabyrinthatwill"
   }
 ]

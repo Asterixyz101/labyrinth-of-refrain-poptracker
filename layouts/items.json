@@ -37,7 +37,6 @@
                 "renamepuppetsoldiers"
               ],
               [
-                "progressiveformations",
                 "blackpage(amadeus)",
                 "morestatgrowthoptions",
                 "ornit2fspoilslist",
@@ -49,7 +48,6 @@
               [
                 "footwear",
                 "progressivedistinguishenemies",
-                "rebirthpuppetsoldiers",
                 "morenatureoptions",
               ],
               [
@@ -65,7 +63,6 @@
               [
                 "nullifymiasma",
                 "progressiveescapebattleseasier",
-                "scapegoat",
                 "revealtruenature",
                 "blackpage(astrom)",
                 "renamesoulpacts",
@@ -81,7 +78,6 @@
               [
                 "ornit6fspoilslist",
                 "avoidenemiesaltogether",
-                "unsealingritual",
                 "luckboostinggear",
                 "blackpage(campanula)",
                 "soulpact",
@@ -91,7 +87,6 @@
                 "progressivepost-battlerecovery",
                 "ornit7fspoilslist",
                 "visitanightmareworld",
-                "treasure",
                 "phenomspoilslist"
               ],
               [
@@ -167,10 +162,10 @@
         "type": "itemgrid",
         "margin": "0,0",
         "item_margin": "0,0",
-        "item_size": "73,73",
+        "item_size": "45,45",
         "rows": [
-          [ "findmoreitems", "wallbreaker", "stockpilexp", "userfoffensively", "userfdefensively" ],
-          [],
+          [ "findmoreitems", "wallbreaker", "stockpilexp", "userfoffensively", "userfdefensively", "unsealingritual" ],
+          [ "treasure", "progressiveformations", "scapegoat", "progressiveleavelabyrinthatwill", "rebirthpuppetsoldiers" ],
           []
         ]
       }

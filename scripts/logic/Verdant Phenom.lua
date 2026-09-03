@@ -1,3 +1,19 @@
+function canReachSpringrealmBareFlower()
+    return ALL(HAS("progressiveleavelabyrinthatwill",1),HAS("progressiveverdantphenom",1))
+end
+
+function canReachSpringrealmMutton()
+    return ALL(canReachSpringrealmBareFlower(),HAS("progressiveverdantphenom",2))
+end
+
+function canReachFallrealmGem()
+    return ALL(canReachSpringrealmMutton(),HAS("scapegoat",1),HAS("progressiveverdantphenom",3))
+end
+
 function canReachFallrealmBerry()
-   return false
+    return ALL(canReachFallrealmGem(),HAS("progressiveverdantphenom",4))
+end
+
+function hasBagwormKey()
+    return ALL(HAS("bagwormkey",1),canReachFallrealmBerry())
 end

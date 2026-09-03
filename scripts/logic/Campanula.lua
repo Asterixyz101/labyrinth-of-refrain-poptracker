@@ -15,19 +15,19 @@ function canReachCampanulaB3()
 end
 
 function canReachCampanulaB4()
-    return false
+    return ALL(canReachCampanulaB3(),canReachFallrealmBerry(),HAS("nullifymiasma",1),HAS("progressivecampanula",4))
 end
 
 function canReachCampanulaB5()
-    return false
+    return ALL(canReachCampanulaB4(),HAS("progressivecampanula",5))
 end
 
 function canReachCampanulaB6()
-    return false
+    return ALL(canReachCampanulaB5(),HAS("progressivecampanula",6))
 end
 
 function canReachCampanulaB7()
-    return false
+    return ALL(canReachCampanulaB6(),HAS("progressivecampanula",7))
 end
 
 function hasCampanulaKey()
