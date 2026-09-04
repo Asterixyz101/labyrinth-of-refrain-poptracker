@@ -1,592 +1,480 @@
 [
-  {
-    "name": "progressiveitemstorage",
-    "type": "progressive",
-    "loop": false,
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "overlay_align": "right",
-    "stages": [
-      {
-        "name": "progressiveitemstorage stage1",
-        "inherit_codes": true,
-        "img": "/images/items/progressiveitemstorage.png",
-        "codes": "progressiveitemstorage, progressiveitemstorage_stage1"
-      },
-      {
-        "name": "progressiveitemstorage stage2",
-        "inherit_codes": true,
-        "img": "/images/items/progressiveitemstorage.png",
-        "codes": "progressiveitemstorage_stage2"
-      },
-      {
-        "name": "progressiveitemstorage stage3",
-        "inherit_codes": true,
-        "img": "/images/items/progressiveitemstorage.png",
-        "codes": "progressiveitemstorage_stage3"
-      }
-    ]
-  },
-  {
-    "name": "duskentanisspoilslist",
-    "type": "toggle",
-    "img": "images/items/duskentanisspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "duskentanisspoilslist"
-  },
-  {
-    "name": "blackpage(phenom)",
-    "type": "toggle",
-    "img": "images/items/blackpage(phenom).png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "blackpage(phenom)"
-  },
-  {
-    "name": "progressivestartleenemies",
-    "type": "progressive",
-    "loop": false,
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "overlay_align": "right",
-    "stages": [
-      {
-        "name": "progressivestartleenemies stage1",
-        "inherit_codes": true,
-        "img": "/images/items/progressivestartleenemies.png",
-        "codes": "progressivestartleenemies, progressivestartleenemies_stage1"
-      },
-      {
-        "name": "progressivestartleenemies stage2",
-        "inherit_codes": true,
-        "img": "/images/items/progressivestartleenemies.png",
-        "codes": "progressivestartleenemies_stage2"
-      },
-      {
-        "name": "progressivestartleenemies stage3",
-        "inherit_codes": true,
-        "img": "/images/items/progressivestartleenemies.png",
-        "codes": "progressivestartleenemies_stage3"
-      }
-    ]
-  },
-  {
-    "name": "rosatempusspoilslist",
-    "type": "toggle",
-    "img": "images/items/rosatempusspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "rosatempusspoilslist"
-  },
-  {
-    "name": "astromspoilslist",
-    "type": "toggle",
-    "img": "images/items/astromspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "astromspoilslist"
-  },
-  {
-    "name": "blackpage(melm)",
-    "type": "toggle",
-    "img": "images/items/blackpage(melm).png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "blackpage(melm)"
-  },
-  {
-    "name": "progressivehidefromenemies",
-    "type": "progressive",
-    "loop": false,
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "overlay_align": "right",
-    "stages": [
-      {
-        "name": "progressivehidefromenemies stage1",
-        "inherit_codes": true,
-        "img": "/images/items/progressivehidefromenemies.png",
-        "codes": "progressivehidefromenemies, progressivehidefromenemies_stage1"
-      },
-      {
-        "name": "progressivehidefromenemies stage2",
-        "inherit_codes": true,
-        "img": "/images/items/progressivehidefromenemies.png",
-        "codes": "progressivehidefromenemies_stage2"
-      },
-      {
-        "name": "progressivehidefromenemies stage3",
-        "inherit_codes": true,
-        "img": "/images/items/progressivehidefromenemies.png",
-        "codes": "progressivehidefromenemies_stage3"
-      }
-    ]
-  },
-  {
-    "name": "progressivepuppetstorage",
-    "type": "progressive",
-    "loop": false,
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "overlay_align": "right",
-    "stages": [
-      {
-        "name": "progressivepuppetstorage stage1",
-        "inherit_codes": true,
-        "img": "/images/items/progressivepuppetstorage.png",
-        "codes": "progressivepuppetstorage, progressivepuppetstorage_stage1"
-      },
-      {
-        "name": "progressivepuppetstorage stage2",
-        "inherit_codes": true,
-        "img": "/images/items/progressivepuppetstorage.png",
-        "codes": "progressivepuppetstorage_stage2"
-      },
-      {
-        "name": "progressivepuppetstorage stage3",
-        "inherit_codes": true,
-        "img": "/images/items/progressivepuppetstorage.png",
-        "codes": "progressivepuppetstorage_stage3"
-      }
-    ]
-  },
-  {
-    "name": "ornit1fspoilslist",
-    "type": "toggle",
-    "img": "images/items/ornit1fspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "ornit1fspoilslist"
-  },
-  {
-    "name": "uncleanornitspoilslist",
-    "type": "toggle",
-    "img": "images/items/uncleanornitspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "uncleanornitspoilslist"
-  },
-  {
-    "name": "decentshield",
-    "type": "toggle",
-    "img": "images/items/decentshield.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "decentshield"
-  },
-  {
-    "name": "renamepuppetsoldiers",
-    "type": "toggle",
-    "img": "images/items/renamepuppetsoldiers.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "renamepuppetsoldiers"
-  },
-  {
-    "name": "blackpage(amadeus)",
-    "type": "toggle",
-    "img": "images/items/blackpage(amadeus).png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "blackpage(amadeus)"
-  },
-  {
-    "name": "morestatgrowthoptions",
-    "type": "toggle",
-    "img": "images/items/morestatgrowthoptions.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "morestatgrowthoptions"
-  },
-  {
-    "name": "ornit2fspoilslist",
-    "type": "toggle",
-    "img": "images/items/ornit2fspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "ornit2fspoilslist"
-  },
-  {
-    "name": "dpboostinggear",
-    "type": "toggle",
-    "img": "images/items/dpboostinggear.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "dpboostinggear"
-  },
-  {
-    "name": "blackpage(umbra)",
-    "type": "toggle",
-    "img": "images/items/blackpage(umbra).png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "blackpage(umbra)"
-  },
-  {
-    "name": "ornit0fspoilslist",
-    "type": "toggle",
-    "img": "images/items/ornit0fspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "ornit0fspoilslist"
-  },
-  {
-    "name": "visitagentleworld",
-    "type": "toggle",
-    "img": "images/items/visitagentleworld.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "visitagentleworld"
-  },
-  {
-    "name": "footwear",
-    "type": "toggle",
-    "img": "images/items/footwear.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "footwear"
-  },
-  {
-    "name": "progressivedistinguishenemies",
-    "type": "progressive",
-    "loop": false,
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "overlay_align": "right",
-    "stages": [
-      {
-        "name": "progressivedistinguishenemies stage1",
-        "inherit_codes": true,
-        "img": "/images/items/progressivedistinguishenemies.png",
-        "codes": "progressivedistinguishenemies, progressivedistinguishenemies_stage1"
-      },
-      {
-        "name": "progressivedistinguishenemies stage2",
-        "inherit_codes": true,
-        "img": "/images/items/progressivedistinguishenemies.png",
-        "codes": "progressivedistinguishenemies_stage2"
-      },
-      {
-        "name": "progressivedistinguishenemies stage3",
-        "inherit_codes": true,
-        "img": "/images/items/progressivedistinguishenemies.png",
-        "codes": "progressivedistinguishenemies_stage3"
-      }
-    ]
-  },
-  {
-    "name": "morenatureoptions",
-    "type": "toggle",
-    "img": "images/items/morenatureoptions.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "morenatureoptions"
-  },
-  {
-    "name": "ornit5fspoilslist",
-    "type": "toggle",
-    "img": "images/items/ornit5fspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "ornit5fspoilslist"
-  },
-  {
-    "name": "lightcrossbow",
-    "type": "toggle",
-    "img": "images/items/lightcrossbow.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "lightcrossbow"
-  },
-  {
-    "name": "decentarmor",
-    "type": "toggle",
-    "img": "images/items/decentarmor.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "decentarmor"
-  },
-  {
-    "name": "Puppet Parts",
-    "type": "consumable",
-    "img": "images/items/puppetparts.png",
-    "min_quantity": 0,
-    "max_quantity": 1000,
-    "increment": 1,
-    "decrement": 1,
-    "initial_quantity": 0,
-    "overlay_align": "right",
-    "overlay_font_size": 14,
-    "overlay_background": "#000000",
-    "codes": "puppetparts"
-  },
-  {
-    "name": "melmspoilslist",
-    "type": "toggle",
-    "img": "images/items/melmspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "melmspoilslist"
-  },
-  {
-    "name": "amadeusspoilslist",
-    "type": "toggle",
-    "img": "images/items/amadeusspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "amadeusspoilslist"
-  },
-  {
-    "name": "lureenemies",
-    "type": "toggle",
-    "img": "images/items/lureenemies.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "lureenemies"
-  },
-  {
-    "name": "progressiveseeenemiesonmini-map",
-    "type": "progressive",
-    "loop": false,
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "overlay_align": "right",
-    "stages": [
-      {
-        "name": "progressiveseeenemiesonmini-map stage1",
-        "inherit_codes": true,
-        "img": "/images/items/progressiveseeenemiesonmini-map.png",
-        "codes": "progressiveseeenemiesonmini-map, progressiveseeenemiesonmini-map_stage1"
-      },
-      {
-        "name": "progressiveseeenemiesonmini-map stage2",
-        "inherit_codes": true,
-        "img": "/images/items/progressiveseeenemiesonmini-map.png",
-        "codes": "progressiveseeenemiesonmini-map_stage2"
-      },
-      {
-        "name": "progressiveseeenemiesonmini-map stage3",
-        "inherit_codes": true,
-        "img": "/images/items/progressiveseeenemiesonmini-map.png",
-        "codes": "progressiveseeenemiesonmini-map_stage3"
-      }
-    ]
-  },
-  {
-    "name": "progressiveescapebattleseasier",
-    "type": "progressive",
-    "loop": false,
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "overlay_align": "right",
-    "stages": [
-      {
-        "name": "progressiveescapebattleseasier stage1",
-        "inherit_codes": true,
-        "img": "/images/items/progressiveescapebattleseasier.png",
-        "codes": "progressiveescapebattleseasier, progressiveescapebattleseasier_stage1"
-      },
-      {
-        "name": "progressiveescapebattleseasier stage2",
-        "inherit_codes": true,
-        "img": "/images/items/progressiveescapebattleseasier.png",
-        "codes": "progressiveescapebattleseasier_stage2"
-      },
-      {
-        "name": "progressiveescapebattleseasier stage3",
-        "inherit_codes": true,
-        "img": "/images/items/progressiveescapebattleseasier.png",
-        "codes": "progressiveescapebattleseasier_stage3"
-      }
-    ]
-  },
-  {
-    "name": "revealtruenature",
-    "type": "toggle",
-    "img": "images/items/revealtruenature.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "revealtruenature"
-  },
-  {
-    "name": "blackpage(astrom)",
-    "type": "toggle",
-    "img": "images/items/blackpage(astrom).png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "blackpage(astrom)"
-  },
-  {
-    "name": "renamesoulpacts",
-    "type": "toggle",
-    "img": "images/items/renamesoulpacts.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "renamesoulpacts"
-  },
-  {
-    "name": "soulpactii",
-    "type": "toggle",
-    "img": "images/items/soulpactii.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "soulpactii"
-  },
-  {
-    "name": "umbraspoilslist",
-    "type": "toggle",
-    "img": "images/items/umbraspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "umbraspoilslist"
-  },
-  {
-    "name": "bringmanaintolabyrinth",
-    "type": "toggle",
-    "img": "images/items/bringmanaintolabyrinth.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "bringmanaintolabyrinth"
-  },
-  {
-    "name": "ornit4fspoilslist",
-    "type": "toggle",
-    "img": "images/items/ornit4fspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "ornit4fspoilslist"
-  },
-  {
-    "name": "campanulaspoilslist",
-    "type": "toggle",
-    "img": "images/items/campanulaspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "campanulaspoilslist"
-  },
-  {
-    "name": "campanulaspoilslistii",
-    "type": "toggle",
-    "img": "images/items/campanulaspoilslistii.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "campanulaspoilslistii"
-  },
-  {
-    "name": "ornit6fspoilslist",
-    "type": "toggle",
-    "img": "images/items/ornit6fspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "ornit6fspoilslist"
-  },
-  {
-    "name": "avoidenemiesaltogether",
-    "type": "toggle",
-    "img": "images/items/avoidenemiesaltogether.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "avoidenemiesaltogether"
-  },
-  {
-    "name": "luckboostinggear",
-    "type": "toggle",
-    "img": "images/items/luckboostinggear.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "luckboostinggear"
-  },
-  {
-    "name": "blackpage(campanula)",
-    "type": "toggle",
-    "img": "images/items/blackpage(campanula).png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "blackpage(campanula)"
-  },
-  {
-    "name": "soulpact",
-    "type": "toggle",
-    "img": "images/items/soulpact.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "soulpact"
-  },
-  {
-    "name": "ornit3fspoilslist",
-    "type": "toggle",
-    "img": "images/items/ornit3fspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "ornit3fspoilslist"
-  },
-  {
-    "name": "progressivepost-battlerecovery",
-    "type": "progressive",
-    "loop": false,
-    "allow_disabled": true,
-    "initial_stage_idx": 0,
-    "overlay_align": "right",
-    "stages": [
-      {
-        "name": "progressivepost-battlerecovery stage1",
-        "inherit_codes": true,
-        "img": "/images/items/progressivepost-battlerecovery.png",
-        "codes": "progressivepost-battlerecovery, progressivepost-battlerecovery_stage1"
-      },
-      {
-        "name": "progressivepost-battlerecovery stage2",
-        "inherit_codes": true,
-        "img": "/images/items/progressivepost-battlerecovery.png",
-        "codes": "progressivepost-battlerecovery_stage2"
-      },
-      {
-        "name": "progressivepost-battlerecovery stage3",
-        "inherit_codes": true,
-        "img": "/images/items/progressivepost-battlerecovery.png",
-        "codes": "progressivepost-battlerecovery_stage3"
-      }
-    ]
-  },
-  {
-    "name": "ornit7fspoilslist",
-    "type": "toggle",
-    "img": "images/items/ornit7fspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "ornit7fspoilslist"
-  },
-  {
-    "name": "visitanightmareworld",
-    "type": "toggle",
-    "img": "images/items/visitanightmareworld.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "visitanightmareworld"
-  },
-  {
-    "name": "phenomspoilslist",
-    "type": "toggle",
-    "img": "images/items/phenomspoilslist.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "phenomspoilslist"
-  },
-  {
-    "name": "stenchprotection",
-    "type": "toggle",
-    "img": "images/items/stenchprotection.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "stenchprotection"
-  },
-  {
-    "name": "update",
-    "type": "toggle",
-    "img": "images/items/update.png",
-    "initial_active_state": false,
-    "overlay_align": "right",
-    "codes": "update"
-  }
+    {
+        "name": "progressiveescapebattleseasier",
+        "type": "consumable",
+        "img": "images/items/progressiveescapebattleseasier.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveescapebattleseasier"
+    },
+    {
+        "name": "ornit1fspoilslist",
+        "type": "toggle",
+        "img": "images/items/ornit1fspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ornit1fspoilslist"
+    },
+    {
+        "name": "campanulaspoilslistii",
+        "type": "toggle",
+        "img": "images/items/campanulaspoilslistii.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "campanulaspoilslistii"
+    },
+    {
+        "name": "ornit0fspoilslist",
+        "type": "toggle",
+        "img": "images/items/ornit0fspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ornit0fspoilslist"
+    },
+    {
+        "name": "blackpage(umbra)",
+        "type": "toggle",
+        "img": "images/items/blackpage(umbra).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(umbra)"
+    },
+    {
+        "name": "progressivehidefromenemies",
+        "type": "consumable",
+        "img": "images/items/progressivehidefromenemies.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivehidefromenemies"
+    },
+    {
+        "name": "stenchprotection",
+        "type": "toggle",
+        "img": "images/items/stenchprotection.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "stenchprotection"
+    },
+    {
+        "name": "morestatgrowthoptions",
+        "type": "toggle",
+        "img": "images/items/morestatgrowthoptions.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "morestatgrowthoptions"
+    },
+    {
+        "name": "uncleanornitspoilslist",
+        "type": "toggle",
+        "img": "images/items/uncleanornitspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "uncleanornitspoilslist"
+    },
+    {
+        "name": "ornit7fspoilslist",
+        "type": "toggle",
+        "img": "images/items/ornit7fspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ornit7fspoilslist"
+    },
+    {
+        "name": "decentarmor",
+        "type": "toggle",
+        "img": "images/items/decentarmor.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "decentarmor"
+    },
+    {
+        "name": "ornit2fspoilslist",
+        "type": "toggle",
+        "img": "images/items/ornit2fspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ornit2fspoilslist"
+    },
+    {
+        "name": "renamepuppetsoldiers",
+        "type": "toggle",
+        "img": "images/items/renamepuppetsoldiers.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "renamepuppetsoldiers"
+    },
+    {
+        "name": "rosatempusspoilslist",
+        "type": "toggle",
+        "img": "images/items/rosatempusspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "rosatempusspoilslist"
+    },
+    {
+        "name": "footwear",
+        "type": "toggle",
+        "img": "images/items/footwear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "footwear"
+    },
+    {
+        "name": "soulpactii",
+        "type": "toggle",
+        "img": "images/items/soulpactii.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "soulpactii"
+    },
+    {
+        "name": "melmspoilslist",
+        "type": "toggle",
+        "img": "images/items/melmspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "melmspoilslist"
+    },
+    {
+        "name": "umbraspoilslist",
+        "type": "toggle",
+        "img": "images/items/umbraspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "umbraspoilslist"
+    },
+    {
+        "name": "astromspoilslist",
+        "type": "toggle",
+        "img": "images/items/astromspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "astromspoilslist"
+    },
+    {
+        "name": "progressivestartleenemies",
+        "type": "consumable",
+        "img": "images/items/progressivestartleenemies.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivestartleenemies"
+    },
+    {
+        "name": "progressivedistinguishenemies",
+        "type": "consumable",
+        "img": "images/items/progressivedistinguishenemies.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivedistinguishenemies"
+    },
+    {
+        "name": "campanulaspoilslist",
+        "type": "toggle",
+        "img": "images/items/campanulaspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "campanulaspoilslist"
+    },
+    {
+        "name": "blackpage(campanula)",
+        "type": "toggle",
+        "img": "images/items/blackpage(campanula).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(campanula)"
+    },
+    {
+        "name": "bringmanaintolabyrinth",
+        "type": "toggle",
+        "img": "images/items/bringmanaintolabyrinth.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "bringmanaintolabyrinth"
+    },
+    {
+        "name": "renamesoulpacts",
+        "type": "toggle",
+        "img": "images/items/renamesoulpacts.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "renamesoulpacts"
+    },
+    {
+        "name": "visitanightmareworld",
+        "type": "toggle",
+        "img": "images/items/visitanightmareworld.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "visitanightmareworld"
+    },
+    {
+        "name": "dpboostinggear",
+        "type": "toggle",
+        "img": "images/items/dpboostinggear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "dpboostinggear"
+    },
+    {
+        "name": "ornit3fspoilslist",
+        "type": "toggle",
+        "img": "images/items/ornit3fspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ornit3fspoilslist"
+    },
+    {
+        "name": "decentshield",
+        "type": "toggle",
+        "img": "images/items/decentshield.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "decentshield"
+    },
+    {
+        "name": "phenomspoilslist",
+        "type": "toggle",
+        "img": "images/items/phenomspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "phenomspoilslist"
+    },
+    {
+        "name": "progressivepuppetstorage",
+        "type": "consumable",
+        "img": "images/items/progressivepuppetstorage.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivepuppetstorage"
+    },
+    {
+        "name": "blackpage(astrom)",
+        "type": "toggle",
+        "img": "images/items/blackpage(astrom).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(astrom)"
+    },
+    {
+        "name": "soulpact",
+        "type": "toggle",
+        "img": "images/items/soulpact.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "soulpact"
+    },
+    {
+        "name": "revealtruenature",
+        "type": "toggle",
+        "img": "images/items/revealtruenature.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "revealtruenature"
+    },
+    {
+        "name": "progressivepost-battlerecovery",
+        "type": "consumable",
+        "img": "images/items/progressivepost-battlerecovery.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressivepost-battlerecovery"
+    },
+    {
+        "name": "progressiveseeenemiesonmini-map",
+        "type": "consumable",
+        "img": "images/items/progressiveseeenemiesonmini-map.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveseeenemiesonmini-map"
+    },
+    {
+        "name": "lureenemies",
+        "type": "toggle",
+        "img": "images/items/lureenemies.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lureenemies"
+    },
+    {
+        "name": "amadeusspoilslist",
+        "type": "toggle",
+        "img": "images/items/amadeusspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "amadeusspoilslist"
+    },
+    {
+        "name": "ornit5fspoilslist",
+        "type": "toggle",
+        "img": "images/items/ornit5fspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ornit5fspoilslist"
+    },
+    {
+        "name": "progressiveitemstorage",
+        "type": "consumable",
+        "img": "images/items/progressiveitemstorage.png",
+        "min_quantity": 0,
+        "max_quantity": 10,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 1,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "progressiveitemstorage"
+    },
+    {
+        "name": "morenatureoptions",
+        "type": "toggle",
+        "img": "images/items/morenatureoptions.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "morenatureoptions"
+    },
+    {
+        "name": "lightcrossbow",
+        "type": "toggle",
+        "img": "images/items/lightcrossbow.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "lightcrossbow"
+    },
+    {
+        "name": "blackpage(melm)",
+        "type": "toggle",
+        "img": "images/items/blackpage(melm).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(melm)"
+    },
+    {
+        "name": "visitagentleworld",
+        "type": "toggle",
+        "img": "images/items/visitagentleworld.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "visitagentleworld"
+    },
+    {
+        "name": "blackpage(phenom)",
+        "type": "toggle",
+        "img": "images/items/blackpage(phenom).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(phenom)"
+    },
+    {
+        "name": "avoidenemiesaltogether",
+        "type": "toggle",
+        "img": "images/items/avoidenemiesaltogether.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "avoidenemiesaltogether"
+    },
+    {
+        "name": "luckboostinggear",
+        "type": "toggle",
+        "img": "images/items/luckboostinggear.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "luckboostinggear"
+    },
+    {
+        "name": "ornit4fspoilslist",
+        "type": "toggle",
+        "img": "images/items/ornit4fspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ornit4fspoilslist"
+    },
+    {
+        "name": "puppetparts",
+        "type": "consumable",
+        "img": "images/items/puppetparts.png",
+        "min_quantity": 0,
+        "max_quantity": 999,
+        "increment": 1,
+        "decrement": 1,
+        "initial_quantity": 0,
+        "overlay_align": "right",
+        "overlay_font_size": 14,
+        "overlay_background": "#000000",
+        "codes": "puppetparts"
+    },
+    {
+        "name": "ornit6fspoilslist",
+        "type": "toggle",
+        "img": "images/items/ornit6fspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "ornit6fspoilslist"
+    },
+    {
+        "name": "duskentanisspoilslist",
+        "type": "toggle",
+        "img": "images/items/duskentanisspoilslist.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "duskentanisspoilslist"
+    },
+    {
+        "name": "blackpage(amadeus)",
+        "type": "toggle",
+        "img": "images/items/blackpage(amadeus).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(amadeus)"
+    },
+    {
+        "name": "update",
+        "type": "toggle",
+        "img": "images/items/update.png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "update"
+    }
 ]

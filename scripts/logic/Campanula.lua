@@ -1,7 +1,3 @@
-function hasWallbreaker()
-    return ALL(HAS("wallbreaker",1),canReachCampanulaB3())
-end
-
 function canReachCampanulaB1()
     return HAS("progressivecampanula",1)
 end
@@ -32,4 +28,8 @@ end
 
 function hasCampanulaKey()
     return ALL(HAS("campanulakey",1),canReachCampanulaB3())
+end
+
+function hasWallbreaker()
+    return ALL(HAS("wallbreaker",1),canReachCampanulaB3())
 end

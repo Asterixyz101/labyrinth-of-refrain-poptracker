@@ -1,2679 +1,1856 @@
 [
-    {
-        "name": "Amadeus Necropolis",
+  {
+    "name": "Amadeus Necropolis",
+    "children": [
+      {
+        "name": "Sea Passage",
+        "children": [
+          {
+            "name": "Sea Passage Chest 18X 6Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 24X 6Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 19X 9Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 4X 14Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 12X 14Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 26X 13Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 16X 18Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 23X 18Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 3X 23Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 13X 24Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 3X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 6X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 25X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Sea Passage Chest 29X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bad Ending 3",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "map_locations": [
+              {
+                "map": "Start Menu",
+                "x": 294,
+                "y": 249,
+                "size": 40,
+                "shape": "rect"
+              }
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          }
+        ],
+        "access_rules": [
+          " "
+        ],
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "overlay_background": "#000000"
+      },
+      {
+        "name": "Final Morgue 2F",
         "children": [
-            {
-                "name": "Sea Passage",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Sea Passage Chest 18X 6Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2441,
-                                "y": 906,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 24X 6Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 303,
-                                "y": 1546,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 19X 9Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1503,
-                                "y": 2209,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 4X 14Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1055,
-                                "y": 114,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 12X 14Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1316,
-                                "y": 1240,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 26X 13Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1972,
-                                "y": 828,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 16X 18Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2382,
-                                "y": 2121,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 23X 18Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 781,
-                                "y": 2369,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 3X 23Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1237,
-                                "y": 163,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 13X 24Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1846,
-                                "y": 384,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 3X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 50,
-                                "y": 33,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 6X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1340,
-                                "y": 226,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 25X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1288,
-                                "y": 645,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Sea Passage Chest 29X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 715,
-                                "y": 171,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bad Ending 3",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 746,
-                                "y": 1263,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Final Morgue 2F",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "2F Chest 12X 12Y (Holy Kings Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1146,
-                                "y": 1922,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 13X 12Y (Furias Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1569,
-                                "y": 739,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 14X 12Y (Holy Kings Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1018,
-                                "y": 2126,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 23X 13Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1258,
-                                "y": 252,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 4X 14Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2352,
-                                "y": 2144,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 9X 14Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 154,
-                                "y": 1963,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 18X 14Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2112,
-                                "y": 1891,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 26X 17Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2072,
-                                "y": 903,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 4X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 502,
-                                "y": 1279,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 8X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 521,
-                                "y": 928,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 11X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1385,
-                                "y": 2452,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 19X 21Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1041,
-                                "y": 926,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 24X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1836,
-                                "y": 301,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 13X 25Y (Great Sages Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2297,
-                                "y": 293,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 8X 27Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2090,
-                                "y": 1474,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 8X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1286,
-                                "y": 2394,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 25X 27Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2258,
-                                "y": 426,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "2F Chest 26X 27Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1963,
-                                "y": 1382,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Final Morgue B1",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "B1 Chest 8X 2Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 336,
-                                "y": 2070,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 29X 2Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2134,
-                                "y": 2099,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 28X 3Y (Holy Kings Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 710,
-                                "y": 953,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 29X 4Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1423,
-                                "y": 1560,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 8X 5Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1123,
-                                "y": 2428,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 18X 5Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 826,
-                                "y": 892,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 2X 6Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2238,
-                                "y": 1837,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 28X 6Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1190,
-                                "y": 1788,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 7X 8Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2238,
-                                "y": 2450,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 7X 9Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1111,
-                                "y": 2009,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 22X 9Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1226,
-                                "y": 2322,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 10X 10Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 391,
-                                "y": 393,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 12X 10Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 367,
-                                "y": 1062,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 17X 17Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1308,
-                                "y": 2427,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 20X 25Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 773,
-                                "y": 1601,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 10X 26Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2296,
-                                "y": 2215,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 10X 27Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1373,
-                                "y": 1476,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 11X 27Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 167,
-                                "y": 1481,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 5X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 476,
-                                "y": 1889,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 5X 29Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 702,
-                                "y": 1325,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B1 Chest 25X 29Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1284,
-                                "y": 299,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Final Morgue B2",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "B2 Chest 13X 2Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2460,
-                                "y": 360,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 6X 6Y (Great Sages Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1860,
-                                "y": 344,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 12X 7Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1923,
-                                "y": 524,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 13X 7Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1893,
-                                "y": 1836,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 14X 7Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1463,
-                                "y": 2326,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 3X 12Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 228,
-                                "y": 917,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 8X 15Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 613,
-                                "y": 2425,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 12X 15Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2449,
-                                "y": 1021,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 13X 15Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1762,
-                                "y": 819,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 14X 15Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 882,
-                                "y": 1487,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 13X 19Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1936,
-                                "y": 1240,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 11X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 163,
-                                "y": 1680,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 15X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1493,
-                                "y": 69,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 24X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 564,
-                                "y": 887,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 3X 25Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2008,
-                                "y": 1610,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 4X 25Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2133,
-                                "y": 2161,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 23X 24Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 684,
-                                "y": 2476,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 23X 25Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 982,
-                                "y": 2406,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 19X 26Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 950,
-                                "y": 1799,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 20X 26Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2174,
-                                "y": 1588,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 12X 27Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1943,
-                                "y": 477,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 15X 27Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 48,
-                                "y": 2411,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "B2 Chest 28X 29Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 61,
-                                "y": 2402,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Final Morgue Bottom",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Bottom Chest 27X 2Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1798,
-                                "y": 2303,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 12X 4Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 784,
-                                "y": 247,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 4X 5Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2279,
-                                "y": 333,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 8X 5Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 436,
-                                "y": 1065,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 18X 7Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 831,
-                                "y": 2335,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 19X 7Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1044,
-                                "y": 165,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 24X 9Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 594,
-                                "y": 1830,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 10X 10Y (Holy Kings Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1843,
-                                "y": 1057,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 12X 10Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1652,
-                                "y": 1791,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 21X 10Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 180,
-                                "y": 509,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 29X 10Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1040,
-                                "y": 426,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 2X 13Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 92,
-                                "y": 1445,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 14X 13Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1905,
-                                "y": 2083,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 6X 14Y (Holy Kings Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 171,
-                                "y": 1686,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 7X 17Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 31,
-                                "y": 942,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 13X 17Y (Holy Kings Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1236,
-                                "y": 43,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 24X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 550,
-                                "y": 1315,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 20X 21Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2142,
-                                "y": 1261,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 5X 22Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 153,
-                                "y": 1762,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 16X 23Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1441,
-                                "y": 219,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 21X 26Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 2242,
-                                "y": 1966,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 2X 27Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1997,
-                                "y": 1889,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 9X 27Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 692,
-                                "y": 1157,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 24X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 493,
-                                "y": 25,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Bottom Chest 8X 29Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 1620,
-                                "y": 365,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "B3",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "Beat Zlavec",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 574,
-                                "y": 2049,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Beat Zlavec Event",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Amadeus Necropolis",
-                                "x": 570,
-                                "y": 1155,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
+          {
+            "name": "2F Chest 12X 12Y (Holy Kings Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 13X 12Y (Furias Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 14X 12Y (Holy Kings Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 23X 13Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 4X 14Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 9X 14Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 18X 14Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 26X 17Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 4X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 8X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 11X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 19X 21Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 24X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 13X 25Y (Great Sages Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 8X 27Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 8X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 25X 27Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "2F Chest 26X 27Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          }
+        ],
+        "access_rules": [
+          " "
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+      },
+      {
+        "name": "Final Morgue B1",
+        "children": [
+          {
+            "name": "B1 Chest 8X 2Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 29X 2Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 28X 3Y (Holy Kings Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 29X 4Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 8X 5Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 18X 5Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 2X 6Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 28X 6Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 7X 8Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 7X 9Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 22X 9Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 10X 10Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 12X 10Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 17X 17Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 20X 25Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 10X 26Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 10X 27Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 11X 27Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 5X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 5X 29Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B1 Chest 25X 29Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          }
+        ],
+        "access_rules": [
+          " "
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+      },
+      {
+        "name": "Final Morgue B2",
+        "children": [
+          {
+            "name": "B2 Chest 13X 2Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 6X 6Y (Great Sages Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 12X 7Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 13X 7Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 14X 7Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 3X 12Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 8X 15Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 12X 15Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 13X 15Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 14X 15Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 13X 19Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 11X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 15X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 24X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 3X 25Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 4X 25Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 23X 24Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 23X 25Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 19X 26Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 20X 26Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 12X 27Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 15X 27Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "B2 Chest 28X 29Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          }
+        ],
+        "access_rules": [
+          " "
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+      },
+      {
+        "name": "Final Morgue Bottom",
+        "children": [
+          {
+            "name": "Bottom Chest 27X 2Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 12X 4Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 4X 5Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 8X 5Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 18X 7Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 19X 7Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 24X 9Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 10X 10Y (Holy Kings Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 12X 10Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 21X 10Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 29X 10Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 2X 13Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 14X 13Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 6X 14Y (Holy Kings Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 7X 17Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 13X 17Y (Holy Kings Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 24X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 20X 21Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 5X 22Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 16X 23Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 21X 26Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 2X 27Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 9X 27Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 24X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Bottom Chest 8X 29Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          }
+        ],
+        "access_rules": [
+          " "
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+      },
+      {
+        "name": "B3",
+        "children": [
+          {
+            "name": "Beat Zlavec",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Beat Zlavec Event",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          }
+        ],
+        "access_rules": [
+          " "
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+      }
+    ],
+    "access_rules": [
+      " "
+    ],
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000"
+  }
 ]

@@ -1,350 +1,356 @@
 [
-  {
-    "name": "Facet Menu",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Misc/Facet Menu.png"
-  },
-  {
-    "name": "Start Menu",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Misc/Start.png"
-  },
-  {
-    "name": "Campanula B1",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Cobalt Campanula/B1.png"
-  },
-  {
-    "name": "Campanula B2",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Cobalt Campanula/B2.png"
-  },
-  {
-    "name": "Campanula B3",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Cobalt Campanula/B3.png"
-  },
-  {
-    "name": "Campanula B4",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Cobalt Campanula/B4.png"
-  },
-  {
-    "name": "Campanula B5",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Cobalt Campanula/B5.png"
-  },
-  {
-    "name": "Campanula B6",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Cobalt Campanula/B6.png"
-  },
-  {
-    "name": "Campanula B7",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Cobalt Campanula/B7.png"
-  },
-  {
-    "name": "South District",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/The Astrom Kingdom/South District.png"
-  },
-  {
-    "name": "East District",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/The Astrom Kingdom/East District.png"
-  },
-  {
-    "name": "West District",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/The Astrom Kingdom/West District.png"
-  },
-  {
-    "name": "North District",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/The Astrom Kingdom/North District.png"
-  },
-  {
-    "name": "Food Storehouse",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Melm The Buried Empire/Food Storehouse.png"
-  },
-  {
-    "name": "Hall of Champions",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Melm The Buried Empire/Hall of Champions.png"
-  },
-  {
-    "name": "Livestock Pen",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Melm The Buried Empire/Livestock Pen.png"
-  },
-  {
-    "name": "Heros Revelry",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Melm The Buried Empire/Heros Revelry.png"
-  },
-  {
-    "name": "Temple of Wings",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Melm The Buried Empire/Temple of Wings.png"
-  },
-  {
-    "name": "Divine Mausoleum",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Melm The Buried Empire/Divine Mausoleum.png"
-  },
-  {
-    "name": "Springrealm Bare Flower",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Verdant Phenom/Springrealm Bare Flower.png"
-  },
-  {
-    "name": "Springrealm Mutton",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Verdant Phenom/Springrealm Mutton.png"
-  },
-  {
-    "name": "Fallrealm Gem",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Verdant Phenom/Fallrealm Gem.png"
-  },
-  {
-    "name": "Fallrealm Berry",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Verdant Phenom/Fallrealm Berry.png"
-  },
-  {
-    "name": "Umbra 1F",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Three Towers Of Umbra/Umbra 1F.png"
-  },
-  {
-    "name": "Umbra 2F",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Three Towers Of Umbra/Umbra 2F.png"
-  },
-  {
-    "name": "Umbra 3F",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Three Towers Of Umbra/Umbra 3F.png"
-  },
-  {
-    "name": "Umbra 4F",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Three Towers Of Umbra/Umbra 4F.png"
-  },
-  {
-    "name": "Umbra 5F",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Three Towers Of Umbra/Umbra 5F.png"
-  },
-  {
-    "name": "Umbra 6F",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Three Towers Of Umbra/Umbra 6F.png"
-  },
-  {
-    "name": "Umbra 7F",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Three Towers Of Umbra/Umbra 7F.png"
-  },
-  {
-    "name": "Umbra 8F",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Three Towers Of Umbra/Umbra 8F.png"
-  },
-  {
-    "name": "Umbra Top",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Three Towers Of Umbra/Umbra Top.png"
-  },
-  {
-    "name": "Umbra Subterra",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Three Towers Of Umbra/Umbra Subterra.png"
-  },
-  {
-    "name": "Unus I",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Rosatempus Memoria/Unus I.png"
-  },
-  {
-    "name": "Duo II",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Rosatempus Memoria/Duo II.png"
-  },
-  {
-    "name": "Tres III",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Rosatempus Memoria/Tres III.png"
-  },
-  {
-    "name": "Quattuor IV",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Rosatempus Memoria/Quattuor IV.png"
-  },
-  {
-    "name": "Quinque V",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Rosatempus Memoria/Quinque V.png"
-  },
-  {
-    "name": "Sex VI",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Rosatempus Memoria/Sex VI.png"
-  },
-  {
-    "name": "Septem VII",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Rosatempus Memoria/Septem VII.png"
-  },
-  {
-    "name": "Sea Passage",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Amadeus Necropolis/Sea Passage.png"
-  },
-  {
-    "name": "2F",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Amadeus Necropolis/Final Morgue 2F.png"
-  },
-  {
-    "name": "B1",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Amadeus Necropolis/Final Morgue B1.png"
-  },
-  {
-    "name": "B2",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Amadeus Necropolis/Final Morgue B2.png"
-  },
-  {
-    "name": "Bottom",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Amadeus Necropolis/Final Morgue Bottom.png"
-  },
-  {
-    "name": "Refrain West District",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Dusken Tanis/Refrain West District.png"
-  },
-  {
-    "name": "Refrain North District",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Dusken Tanis/Refrain North District.png"
-  },
-  {
-    "name": "Refrain South District",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Dusken Tanis/Refrain South District.png"
-  },
-  {
-    "name": "Refrain East District",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Dusken Tanis/Refrain East District.png"
-  },
-  {
-    "name": "Azu-Melm",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Unclean Ornit/Azu-Melm.png"
-  },
-  {
-    "name": "Azu-Amadeus",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Unclean Ornit/Azu-Amadeus.png"
-  },
-  {
-    "name": "Azu-Campanula",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Unclean Ornit/Azu-Campanula.png"
-  },
-  {
-    "name": "Azu-Umbra",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Unclean Ornit/Azu-Umbra.png"
-  },
-  {
-    "name": "Azu-Astrom",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Unclean Ornit/Azu-Astrom.png"
-  },
-  {
-    "name": "Azu-Phenom",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Unclean Ornit/Azu-Phenom.png"
-  },
-  {
-    "name": "Azu-Magia",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Unclean Ornit/Azu-Magia.png"
-  },
-  {
-    "name": "Azu-Tanis",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Unclean Ornit/Azu-Tanis.png"
-  },
-  {
-    "name": "Azu-Cardia",
-    "location_size": 6,
-    "location_border_thickness": 1,
-    "img": "/images/maps/Unclean Ornit/Azu-Cardia.png"
-  }
+    {
+        "name": "Facet Menu",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Misc/Facet Menu.png"
+    },
+    {
+        "name": "Start Menu",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Misc/Start.png"
+    },
+    {
+        "name": "Dungeon Map",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Misc/dungeon_map.png"
+    },
+    {
+        "name": "Campanula B1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Cobalt Campanula/B1.png"
+    },
+    {
+        "name": "Campanula B2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Cobalt Campanula/B2.png"
+    },
+    {
+        "name": "Campanula B3",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Cobalt Campanula/B3.png"
+    },
+    {
+        "name": "Campanula B4",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Cobalt Campanula/B4.png"
+    },
+    {
+        "name": "Campanula B5",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Cobalt Campanula/B5.png"
+    },
+    {
+        "name": "Campanula B6",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Cobalt Campanula/B6.png"
+    },
+    {
+        "name": "Campanula B7",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Cobalt Campanula/B7.png"
+    },
+    {
+        "name": "South District",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/The Astrom Kingdom/South District.png"
+    },
+    {
+        "name": "East District",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/The Astrom Kingdom/East District.png"
+    },
+    {
+        "name": "West District",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/The Astrom Kingdom/West District.png"
+    },
+    {
+        "name": "North District",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/The Astrom Kingdom/North District.png"
+    },
+    {
+        "name": "Food Storehouse",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Melm The Buried Empire/Food Storehouse.png"
+    },
+    {
+        "name": "Hall of Champions",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Melm The Buried Empire/Hall of Champions.png"
+    },
+    {
+        "name": "Livestock Pen",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Melm The Buried Empire/Livestock Pen.png"
+    },
+    {
+        "name": "Heros Revelry",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Melm The Buried Empire/Heros Revelry.png"
+    },
+    {
+        "name": "Temple of Wings",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Melm The Buried Empire/Temple of Wings.png"
+    },
+    {
+        "name": "Divine Mausoleum",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Melm The Buried Empire/Divine Mausoleum.png"
+    },
+    {
+        "name": "Springrealm Bare Flower",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Verdant Phenom/Springrealm Bare Flower.png"
+    },
+    {
+        "name": "Springrealm Mutton",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Verdant Phenom/Springrealm Mutton.png"
+    },
+    {
+        "name": "Fallrealm Gem",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Verdant Phenom/Fallrealm Gem.png"
+    },
+    {
+        "name": "Fallrealm Berry",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Verdant Phenom/Fallrealm Berry.png"
+    },
+    {
+        "name": "Umbra 1F",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Three Towers Of Umbra/Umbra 1F.png"
+    },
+    {
+        "name": "Umbra 2F",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Three Towers Of Umbra/Umbra 2F.png"
+    },
+    {
+        "name": "Umbra 3F",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Three Towers Of Umbra/Umbra 3F.png"
+    },
+    {
+        "name": "Umbra 4F",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Three Towers Of Umbra/Umbra 4F.png"
+    },
+    {
+        "name": "Umbra 5F",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Three Towers Of Umbra/Umbra 5F.png"
+    },
+    {
+        "name": "Umbra 6F",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Three Towers Of Umbra/Umbra 6F.png"
+    },
+    {
+        "name": "Umbra 7F",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Three Towers Of Umbra/Umbra 7F.png"
+    },
+    {
+        "name": "Umbra 8F",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Three Towers Of Umbra/Umbra 8F.png"
+    },
+    {
+        "name": "Umbra Top",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Three Towers Of Umbra/Umbra Top.png"
+    },
+    {
+        "name": "Umbra Subterra",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Three Towers Of Umbra/Umbra Subterra.png"
+    },
+    {
+        "name": "Unus I",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Rosatempus Memoria/Unus I.png"
+    },
+    {
+        "name": "Duo II",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Rosatempus Memoria/Duo II.png"
+    },
+    {
+        "name": "Tres III",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Rosatempus Memoria/Tres III.png"
+    },
+    {
+        "name": "Quattuor IV",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Rosatempus Memoria/Quattuor IV.png"
+    },
+    {
+        "name": "Quinque V",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Rosatempus Memoria/Quinque V.png"
+    },
+    {
+        "name": "Sex VI",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Rosatempus Memoria/Sex VI.png"
+    },
+    {
+        "name": "Septem VII",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Rosatempus Memoria/Septem VII.png"
+    },
+    {
+        "name": "Sea Passage",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Amadeus Necropolis/Sea Passage.png"
+    },
+    {
+        "name": "2F",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Amadeus Necropolis/Final Morgue 2F.png"
+    },
+    {
+        "name": "B1",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Amadeus Necropolis/Final Morgue B1.png"
+    },
+    {
+        "name": "B2",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Amadeus Necropolis/Final Morgue B2.png"
+    },
+    {
+        "name": "Bottom",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Amadeus Necropolis/Final Morgue Bottom.png"
+    },
+    {
+        "name": "Refrain West District",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Dusken Tanis/Refrain West District.png"
+    },
+    {
+        "name": "Refrain North District",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Dusken Tanis/Refrain North District.png"
+    },
+    {
+        "name": "Refrain South District",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Dusken Tanis/Refrain South District.png"
+    },
+    {
+        "name": "Refrain East District",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Dusken Tanis/Refrain East District.png"
+    },
+    {
+        "name": "Azu-Melm",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Unclean Ornit/Azu-Melm.png"
+    },
+    {
+        "name": "Azu-Amadeus",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Unclean Ornit/Azu-Amadeus.png"
+    },
+    {
+        "name": "Azu-Campanula",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Unclean Ornit/Azu-Campanula.png"
+    },
+    {
+        "name": "Azu-Umbra",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Unclean Ornit/Azu-Umbra.png"
+    },
+    {
+        "name": "Azu-Astrom",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Unclean Ornit/Azu-Astrom.png"
+    },
+    {
+        "name": "Azu-Phenom",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Unclean Ornit/Azu-Phenom.png"
+    },
+    {
+        "name": "Azu-Magia",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Unclean Ornit/Azu-Magia.png"
+    },
+    {
+        "name": "Azu-Tanis",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Unclean Ornit/Azu-Tanis.png"
+    },
+    {
+        "name": "Azu-Cardia",
+        "location_size": 6,
+        "location_border_thickness": 1,
+        "img": "/images/maps/Unclean Ornit/Azu-Cardia.png"
+    }
 ]

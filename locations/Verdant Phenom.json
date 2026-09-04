@@ -17,13 +17,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1121,
-                "y": 1627,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 1857,
                 "y": 237,
@@ -49,13 +42,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2299,
-                "y": 1665,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 2199,
@@ -83,13 +69,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2398,
-                "y": 1341,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 2327,
                 "y": 237,
@@ -115,13 +94,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1778,
-                "y": 1146,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 1131,
@@ -149,13 +121,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 976,
-                "y": 1937,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 2283,
                 "y": 409,
@@ -182,13 +147,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1648,
-                "y": 2252,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 1345,
                 "y": 450,
@@ -208,19 +166,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["$canReachSpringrealmMutton"],
+                "access_rules": [
+                  "$canReachSpringrealmMutton"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2067,
-                "y": 770,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 1985,
@@ -248,13 +201,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 960,
-                "y": 839,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 1474,
                 "y": 536,
@@ -274,19 +220,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["$canReachSpringrealmMutton"],
+                "access_rules": [
+                  "$canReachSpringrealmMutton"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 760,
-                "y": 643,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 2071,
@@ -307,19 +248,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "$canReachSpringrealmMutton" ],
+                "access_rules": [
+                  "$canReachSpringrealmMutton"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 478,
-                "y": 753,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 2112,
@@ -340,19 +276,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "$canReachSpringrealmMutton" ],
+                "access_rules": [
+                  "$canReachSpringrealmMutton"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 224,
-                "y": 1209,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 2284,
@@ -380,13 +311,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1197,
-                "y": 2109,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 1090,
                 "y": 792,
@@ -413,13 +337,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1564,
-                "y": 686,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 1470,
                 "y": 791,
@@ -439,19 +356,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "$canReachSpringrealmMutton" ],
+                "access_rules": [
+                  "$canReachSpringrealmMutton"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 752,
-                "y": 217,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 2283,
@@ -472,19 +384,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["$canReachSpringrealmMutton"],
+                "access_rules": [
+                  "$canReachSpringrealmMutton"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1039,
-                "y": 1887,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 2284,
@@ -512,13 +419,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2485,
-                "y": 1127,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 1643,
                 "y": 961,
@@ -544,13 +444,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1362,
-                "y": 765,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 1301,
@@ -578,13 +471,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2375,
-                "y": 2297,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 1345,
                 "y": 1092,
@@ -610,13 +496,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2210,
-                "y": 1004,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 1473,
@@ -644,13 +523,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2261,
-                "y": 409,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 2029,
                 "y": 1090,
@@ -677,13 +549,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2151,
-                "y": 846,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Bare Flower",
                 "x": 1430,
                 "y": 1177,
@@ -703,19 +568,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["$hasBagwormKey"],
+                "access_rules": [
+                  "$hasBagwormKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 908,
-                "y": 1592,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 2028,
@@ -736,19 +596,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["scapegoat, $canReachSpringrealmMutton"],
+                "access_rules": [
+                  "scapegoat, $canReachSpringrealmMutton"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2362,
-                "y": 2292,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 1943,
@@ -769,19 +624,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["nullifymiasma, $canReachFallrealmBerry"],
+                "access_rules": [
+                  "nullifymiasma, $canReachFallrealmBerry"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 359,
-                "y": 1754,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Bare Flower",
                 "x": 1602,
@@ -820,13 +670,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 470,
-                "y": 1505,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Mutton",
                 "x": 1729,
                 "y": 195,
@@ -846,19 +689,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["$hasBagwormKey"],
+                "access_rules": [
+                  "$hasBagwormKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 74,
-                "y": 819,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Mutton",
                 "x": 1091,
@@ -886,13 +724,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1854,
-                "y": 397,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Mutton",
                 "x": 1089,
                 "y": 366,
@@ -912,19 +743,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["$hasBagwormKey"],
+                "access_rules": [
+                  "$hasBagwormKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2139,
-                "y": 547,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Mutton",
                 "x": 1091,
@@ -952,13 +778,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 171,
-                "y": 572,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Mutton",
                 "x": 2071,
                 "y": 493,
@@ -984,13 +803,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 507,
-                "y": 18,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Mutton",
                 "x": 2027,
@@ -1018,13 +830,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 257,
-                "y": 350,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Mutton",
                 "x": 2280,
                 "y": 663,
@@ -1050,13 +855,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 902,
-                "y": 369,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Mutton",
                 "x": 1430,
@@ -1084,13 +882,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2451,
-                "y": 2487,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Mutton",
                 "x": 1430,
                 "y": 749,
@@ -1116,13 +907,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 626,
-                "y": 1316,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Mutton",
                 "x": 1430,
@@ -1150,13 +934,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2247,
-                "y": 2479,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Mutton",
                 "x": 2325,
                 "y": 792,
@@ -1182,13 +959,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2251,
-                "y": 181,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Mutton",
                 "x": 1900,
@@ -1216,13 +986,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2114,
-                "y": 972,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Mutton",
                 "x": 1261,
                 "y": 965,
@@ -1242,19 +1005,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["scapegoat,$hasGreatSagesKey"],
+                "access_rules": [
+                  "scapegoat,$hasGreatSagesKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 715,
-                "y": 144,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Mutton",
                 "x": 1728,
@@ -1282,13 +1040,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1288,
-                "y": 2159,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Mutton",
                 "x": 1685,
                 "y": 1133,
@@ -1315,13 +1066,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2365,
-                "y": 1545,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Springrealm Mutton",
                 "x": 1683,
                 "y": 1261,
@@ -1347,13 +1091,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1038,
-                "y": 1396,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Springrealm Mutton",
                 "x": 2324,
@@ -1392,13 +1129,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 954,
-                "y": 2403,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1942,
                 "y": 195,
@@ -1424,13 +1154,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1549,
-                "y": 2394,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1472,
@@ -1458,13 +1181,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 953,
-                "y": 1302,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1643,
                 "y": 238,
@@ -1490,13 +1206,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 544,
-                "y": 788,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 2239,
@@ -1524,13 +1233,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 543,
-                "y": 2408,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1686,
                 "y": 322,
@@ -1556,13 +1258,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 988,
-                "y": 34,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1132,
@@ -1590,13 +1285,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 363,
-                "y": 2025,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1645,
                 "y": 451,
@@ -1622,13 +1310,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1535,
-                "y": 985,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1686,
@@ -1656,13 +1337,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 535,
-                "y": 2285,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1129,
                 "y": 494,
@@ -1688,13 +1362,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 394,
-                "y": 2017,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1258,
@@ -1722,13 +1389,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 486,
-                "y": 1817,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1856,
                 "y": 492,
@@ -1754,13 +1414,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 168,
-                "y": 1523,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1089,
@@ -1788,13 +1441,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 725,
-                "y": 1447,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1387,
                 "y": 578,
@@ -1820,13 +1466,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1575,
-                "y": 2439,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1131,
@@ -1854,13 +1493,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1224,
-                "y": 1561,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1557,
                 "y": 621,
@@ -1887,13 +1519,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 313,
-                "y": 1637,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1772,
                 "y": 620,
@@ -1913,19 +1538,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["nullifymiasma,$hasBagwormKey"],
+                "access_rules": [
+                  "nullifymiasma,$hasBagwormKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 903,
-                "y": 1617,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1814,
@@ -1946,19 +1566,12 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ ],
+                "access_rules": [],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 256,
-                "y": 1978,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1855,
@@ -1986,13 +1599,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1750,
-                "y": 2090,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1941,
                 "y": 664,
@@ -2018,13 +1624,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2234,
-                "y": 1145,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1257,
@@ -2052,13 +1651,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1717,
-                "y": 1775,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 2154,
                 "y": 794,
@@ -2084,13 +1676,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 961,
-                "y": 992,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1686,
@@ -2118,13 +1703,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2057,
-                "y": 2168,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1899,
                 "y": 1046,
@@ -2150,13 +1728,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1561,
-                "y": 2265,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1131,
@@ -2184,13 +1755,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 759,
-                "y": 790,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 2112,
                 "y": 1133,
@@ -2217,13 +1781,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1428,
-                "y": 425,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1260,
                 "y": 1176,
@@ -2243,19 +1800,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["$hasFuriasKey"],
+                "access_rules": [
+                  "$hasFuriasKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1854,
-                "y": 487,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1131,
@@ -2283,13 +1835,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1522,
-                "y": 689,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1558,
                 "y": 1304,
@@ -2315,13 +1860,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 944,
-                "y": 1808,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1599,
@@ -2349,13 +1887,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1726,
-                "y": 1614,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1769,
                 "y": 1303,
@@ -2382,13 +1913,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1124,
-                "y": 759,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Gem",
                 "x": 1685,
                 "y": 279,
@@ -2413,15 +1937,6 @@
                 "item_count": 1
               }
             ],
-            "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1426,
-                "y": 1694,
-                "size": 6,
-                "shape": "rect"
-              }
-            ],
             "access_rules": [
               " "
             ],
@@ -2440,13 +1955,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 533,
-                "y": 2413,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Gem",
                 "x": 1130,
@@ -2478,19 +1986,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": ["nullifymiasma"],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1673,
-                "y": 1414,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1386,
@@ -2511,19 +2014,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma,$hasBagwormKey" ],
+                "access_rules": [
+                  "nullifymiasma,$hasBagwormKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2140,
-                "y": 2010,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1427,
@@ -2544,19 +2042,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma" ],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2490,
-                "y": 1523,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1173,
@@ -2577,19 +2070,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma,$hasBagwormKey" ],
+                "access_rules": [
+                  "nullifymiasma,$hasBagwormKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 294,
-                "y": 2349,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1174,
@@ -2610,19 +2098,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma" ],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1440,
-                "y": 385,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1302,
@@ -2643,19 +2126,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma" ],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 887,
-                "y": 1768,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1088,
@@ -2676,19 +2154,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma" ],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 124,
-                "y": 1243,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1473,
@@ -2709,19 +2182,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma" ],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1543,
-                "y": 79,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1515,
@@ -2742,19 +2210,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma,$hasBagwormKey" ],
+                "access_rules": [
+                  "nullifymiasma,$hasBagwormKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1210,
-                "y": 482,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1643,
@@ -2775,19 +2238,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma,hasGreatSagesKey" ],
+                "access_rules": [
+                  "nullifymiasma,hasGreatSagesKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2024,
-                "y": 1187,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1728,
@@ -2808,19 +2266,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma" ],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1329,
-                "y": 1409,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1259,
@@ -2841,19 +2294,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma" ],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1275,
-                "y": 1399,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1473,
@@ -2874,19 +2322,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma" ],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1596,
-                "y": 594,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1515,
@@ -2914,13 +2357,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1630,
-                "y": 829,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Berry",
                 "x": 2283,
                 "y": 706,
@@ -2940,19 +2376,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma" ],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1074,
-                "y": 1240,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1386,
@@ -2980,13 +2411,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1822,
-                "y": 270,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Berry",
                 "x": 2111,
                 "y": 920,
@@ -3012,13 +2436,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1714,
-                "y": 2304,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1773,
@@ -3046,13 +2463,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1636,
-                "y": 1908,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Berry",
                 "x": 1814,
                 "y": 1004,
@@ -3078,13 +2488,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 813,
-                "y": 1791,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1644,
@@ -3112,13 +2515,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2309,
-                "y": 744,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Berry",
                 "x": 1897,
                 "y": 1218,
@@ -3144,13 +2540,6 @@
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 2023,
-                "y": 1138,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 2070,
@@ -3178,13 +2567,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 90,
-                "y": 443,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Berry",
                 "x": 2112,
                 "y": 1219,
@@ -3204,19 +2586,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma,$hasBagwormKey" ],
+                "access_rules": [
+                  "nullifymiasma,$hasBagwormKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 804,
-                "y": 2139,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1258,
@@ -3244,13 +2621,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 562,
-                "y": 1228,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Berry",
                 "x": 2071,
                 "y": 1260,
@@ -3277,13 +2647,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 1155,
-                "y": 576,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Berry",
                 "x": 2112,
                 "y": 1261,
@@ -3303,19 +2666,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma,$hasBagwormKey" ],
+                "access_rules": [
+                  "nullifymiasma,$hasBagwormKey"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1477,
-                "y": 677,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1983,
@@ -3343,13 +2701,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2130,
-                "y": 2493,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Berry",
                 "x": 1556,
                 "y": 1389,
@@ -3376,13 +2727,6 @@
             ],
             "map_locations": [
               {
-                "map": "Verdant Phenom",
-                "x": 2291,
-                "y": 1598,
-                "size": 6,
-                "shape": "rect"
-              },
-              {
                 "map": "Fallrealm Berry",
                 "x": 2283,
                 "y": 1389,
@@ -3402,19 +2746,14 @@
             "sections": [
               {
                 "name": "",
-                "access_rules": [ "nullifymiasma" ],
+                "access_rules": [
+                  "nullifymiasma"
+                ],
                 "visibility_rules": [],
                 "item_count": 1
               }
             ],
             "map_locations": [
-              {
-                "map": "Verdant Phenom",
-                "x": 1356,
-                "y": 1892,
-                "size": 6,
-                "shape": "rect"
-              },
               {
                 "map": "Fallrealm Berry",
                 "x": 1686,

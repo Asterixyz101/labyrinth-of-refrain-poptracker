@@ -58,12 +58,15 @@
   {
     "name": "Progressive Formations",
     "type": "consumable",
+    "img": "/images/items/witch_petition/progressiveformations.png",
+    "min_quantity": 0,
     "max_quantity": 4,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20,
-    "img": "images/items/witch_petition/progressiveformations.png",
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
     "codes": "progressiveformations"
   },
   {
@@ -85,12 +88,15 @@
   {
     "name": "Progressive Leave Labyrinth At Will",
     "type": "consumable",
+    "img": "/images/items/witch_petition/progressiveleavelabyrinthatwill.png",
+    "min_quantity": 0,
     "max_quantity": 3,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20,
-    "img": "images/items/witch_petition/progressiveleavelabyrinthatwill.png",
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
     "codes": "progressiveleavelabyrinthatwill"
   },
   {

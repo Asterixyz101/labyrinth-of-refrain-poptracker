@@ -16,7 +16,6 @@ require("scripts.logic.Rosatempus Memoria")
 require("scripts.logic.Amadeus Necropolis")
 require("scripts.logic.Dusken Tanis")
 require("scripts.logic.Unclean Ornit")
-require("scripts.logic.Request Memos")
 
 -- Maps
 Tracker:AddMaps("maps/maps.json")

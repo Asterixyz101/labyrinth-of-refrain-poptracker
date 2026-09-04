@@ -1,2207 +1,1528 @@
 [
-    {
-        "name": "Dusken Tanis",
+  {
+    "name": "Dusken Tanis",
+    "children": [
+      {
+        "name": "Refrain West District",
+        "children": [
+          {
+            "name": "West District Chest 5X 1Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 14X 1Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 25X 1Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 21X 4Y (Tanis Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 15X 5Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 21X 5Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 9X 11Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 1X 12Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 7X 16Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 15X 19Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 26X 21Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 6X 24Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 26X 27Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 26X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 10X 30Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "West District Chest 23X 30Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          }
+        ],
+        "access_rules": [
+          " "
+        ],
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000",
-        "access_rules": [
-            " "
-        ],
+        "overlay_background": "#000000"
+      },
+      {
+        "name": "Refrain North District",
         "children": [
-            {
-                "name": "Refrain West District",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "West District Chest 5X 1Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 37,
-                                "y": 348,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 14X 1Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1821,
-                                "y": 998,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 25X 1Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2037,
-                                "y": 333,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 21X 4Y (Tanis Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1194,
-                                "y": 1916,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 15X 5Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2286,
-                                "y": 475,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 21X 5Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1095,
-                                "y": 2283,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 9X 11Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1889,
-                                "y": 749,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 1X 12Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1534,
-                                "y": 1594,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 7X 16Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 128,
-                                "y": 1144,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 15X 19Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 118,
-                                "y": 356,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 26X 21Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 843,
-                                "y": 814,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 6X 24Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1542,
-                                "y": 1921,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 26X 27Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 172,
-                                "y": 1287,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 26X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1390,
-                                "y": 2473,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 10X 30Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 685,
-                                "y": 676,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "West District Chest 23X 30Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 59,
-                                "y": 479,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Refrain North District",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "North District Chest 11X 2Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2491,
-                                "y": 1728,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 6X 3Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2297,
-                                "y": 1499,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 3X 4Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1869,
-                                "y": 610,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 7X 6Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2072,
-                                "y": 1222,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 4X 7Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 745,
-                                "y": 833,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 13X 5Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 297,
-                                "y": 1890,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 23X 3Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2443,
-                                "y": 1692,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 27X 3Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 131,
-                                "y": 1645,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 30X 3Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 119,
-                                "y": 1420,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 22X 6Y (Tanis Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 985,
-                                "y": 1893,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 16X 12Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 700,
-                                "y": 2373,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 0X 13Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 384,
-                                "y": 2277,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 23X 14Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 124,
-                                "y": 1210,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 5X 16Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2273,
-                                "y": 1777,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 12X 16Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1297,
-                                "y": 530,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 4X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 349,
-                                "y": 1323,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 19X 18Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 129,
-                                "y": 1766,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 19X 22Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 711,
-                                "y": 1791,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 27X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2192,
-                                "y": 607,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 31X 24Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 126,
-                                "y": 1899,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 3X 29Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2098,
-                                "y": 1473,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 13X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1170,
-                                "y": 2201,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 25X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 796,
-                                "y": 1240,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 15X 31Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 319,
-                                "y": 1794,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "North District Chest 21X 30Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1858,
-                                "y": 2248,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Refrain South District",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "South District Chest 16X 0Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1324,
-                                "y": 251,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 10X 3Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1801,
-                                "y": 463,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 27X 3Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2156,
-                                "y": 1582,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 8X 5Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1194,
-                                "y": 1232,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 30X 5Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 226,
-                                "y": 31,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 28X 7Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 43,
-                                "y": 1612,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 0X 8Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 227,
-                                "y": 718,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 3X 9Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1176,
-                                "y": 755,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 7X 9Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 203,
-                                "y": 303,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 17X 11Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1051,
-                                "y": 244,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 1X 15Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2104,
-                                "y": 1720,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 7X 17Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2125,
-                                "y": 2039,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 19X 16Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1682,
-                                "y": 2326,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 19X 17Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 750,
-                                "y": 2331,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 28X 20Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2286,
-                                "y": 214,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 11X 21Y (Tanis Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1824,
-                                "y": 1967,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 16X 23Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1795,
-                                "y": 1815,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 2X 24Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 209,
-                                "y": 483,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 26X 24Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1308,
-                                "y": 932,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 28X 24Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 629,
-                                "y": 266,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 12X 28Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 78,
-                                "y": 2392,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "South District Chest 18X 30Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 280,
-                                "y": 2437,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            },
-            {
-                "name": "Refrain East District",
-                "chest_unopened_img": "/images/items/close.png",
-                "chest_opened_img": "/images/items/open.png",
-                "overlay_background": "#000000",
-                "access_rules": [
-                    " "
-                ],
-                "children": [
-                    {
-                        "name": "East District Chest 7X 1Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1665,
-                                "y": 1755,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 11X 2Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1960,
-                                "y": 1893,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 23X 4Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 796,
-                                "y": 1995,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 0X 5Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1549,
-                                "y": 1418,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 18X 7Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2363,
-                                "y": 664,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 4X 10Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2248,
-                                "y": 2242,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 25X 10Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1105,
-                                "y": 2071,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 18X 12Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 450,
-                                "y": 570,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 19X 13Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2195,
-                                "y": 1441,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 26X 14Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1057,
-                                "y": 1024,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 13X 15Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 337,
-                                "y": 833,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 16X 15Y (Great Sages Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 871,
-                                "y": 420,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 5X 16Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1524,
-                                "y": 1123,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 13X 18Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 605,
-                                "y": 737,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 29X 18Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1889,
-                                "y": 1978,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 3X 19Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2050,
-                                "y": 503,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 19X 20Y (Tanis Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 1665,
-                                "y": 176,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 2X 21Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2496,
-                                "y": 899,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 24X 23Y",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 744,
-                                "y": 2026,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "East District Chest 31X 30Y (Tanis Key)",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 165,
-                                "y": 1369,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Defeat Velkuvrana",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 684,
-                                "y": 1733,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Normal Ending",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 2450,
-                                "y": 278,
-                                "size": 6
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Unlock Post-Game",
-                        "chest_unopened_img": "/images/items/close.png",
-                        "chest_opened_img": "/images/items/open.png",
-                        "overlay_background": "#000000",
-                        "access_rules": [
-                            " "
-                        ],
-                        "sections": [
-                            {
-                                "name": "",
-                                "access_rules": [],
-                                "visibility_rules": [],
-                                "item_count": 1
-                            }
-                        ],
-                        "map_locations": [
-                            {
-                                "map": "Dusken Tanis",
-                                "x": 504,
-                                "y": 180,
-                                "size": 6
-                            }
-                        ]
-                    }
-                ]
-            }
-        ]
-    }
+          {
+            "name": "North District Chest 11X 2Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 6X 3Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 3X 4Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 7X 6Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 4X 7Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 13X 5Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 23X 3Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 27X 3Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 30X 3Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 22X 6Y (Tanis Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 16X 12Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 0X 13Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 23X 14Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 5X 16Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 12X 16Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 4X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 19X 18Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 19X 22Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 27X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 31X 24Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 3X 29Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 13X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 25X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 15X 31Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "North District Chest 21X 30Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          }
+        ],
+        "access_rules": [
+          " "
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+      },
+      {
+        "name": "Refrain South District",
+        "children": [
+          {
+            "name": "South District Chest 16X 0Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 10X 3Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 27X 3Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 8X 5Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 30X 5Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 28X 7Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 0X 8Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 3X 9Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 7X 9Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 17X 11Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 1X 15Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 7X 17Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 19X 16Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 19X 17Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 28X 20Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 11X 21Y (Tanis Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 16X 23Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 2X 24Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 26X 24Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 28X 24Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 12X 28Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "South District Chest 18X 30Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          }
+        ],
+        "access_rules": [
+          " "
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+      },
+      {
+        "name": "Refrain East District",
+        "children": [
+          {
+            "name": "East District Chest 7X 1Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 11X 2Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 23X 4Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 0X 5Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 18X 7Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 4X 10Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 25X 10Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 18X 12Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 19X 13Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 26X 14Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 13X 15Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 16X 15Y (Great Sages Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 5X 16Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 13X 18Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 29X 18Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 3X 19Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 19X 20Y (Tanis Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 2X 21Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 24X 23Y",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "East District Chest 31X 30Y (Tanis Key)",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Defeat Velkuvrana",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Normal Ending",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "map_locations": [
+              {
+                "map": "Start Menu",
+                "x": 230,
+                "y": 415,
+                "size": 40,
+                "shape": "rect"
+              }
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          },
+          {
+            "name": "Unlock Post-Game",
+            "sections": [
+              {
+                "name": "",
+                "access_rules": [],
+                "visibility_rules": [],
+                "item_count": 1
+              }
+            ],
+            "access_rules": [
+              " "
+            ],
+            "chest_unopened_img": "/images/items/close.png",
+            "chest_opened_img": "/images/items/open.png",
+            "overlay_background": "#000000"
+          }
+        ],
+        "access_rules": [
+          " "
+        ],
+        "chest_unopened_img": "/images/items/close.png",
+        "chest_opened_img": "/images/items/open.png",
+        "overlay_background": "#000000"
+      }
+    ],
+    "access_rules": [
+      " "
+    ],
+    "chest_unopened_img": "/images/items/close.png",
+    "chest_opened_img": "/images/items/open.png",
+    "overlay_background": "#000000"
+  }
 ]

@@ -3,99 +3,126 @@
     "name": "Progressive Campanula",
     "type": "consumable",
     "img": "/images/items/dungeons/progressivecampanula.png",
-    "codes": "progressivecampanula",
+    "min_quantity": 0,
     "max_quantity": 7,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressivecampanula"
   },
   {
     "name": "Progressive Ornit",
     "type": "consumable",
     "img": "/images/items/dungeons/progressiveornit.png",
-    "codes": "progressiveornit",
+    "min_quantity": 0,
     "max_quantity": 9,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressiveornit"
   },
   {
-    "name": "Progressive Rosatempus",
+    "name": "Progressive Rosatempus Memoria",
     "type": "consumable",
     "img": "/images/items/dungeons/progressiverosatempusmemoria.png",
-    "codes": "progressiverosatempusmemoria",
+    "min_quantity": 0,
     "max_quantity": 7,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressiverosatempusmemoria"
   },
   {
     "name": "Progressive Tanis",
     "type": "consumable",
     "img": "/images/items/dungeons/progressivetanis.png",
-    "codes": "progressivetanis",
+    "min_quantity": 0,
     "max_quantity": 4,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressivetanis"
   },
   {
     "name": "Progressive Astrom",
     "type": "consumable",
     "img": "/images/items/dungeons/progressiveastrom.png",
-    "codes": "progressiveastrom",
+    "min_quantity": 0,
     "max_quantity": 4,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressiveastrom"
   },
   {
     "name": "Progressive Melm",
     "type": "consumable",
     "img": "/images/items/dungeons/progressivemelm.png",
-    "codes": "progressivemelm",
+    "min_quantity": 0,
     "max_quantity": 6,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressivemelm"
   },
   {
     "name": "Progressive Amadeus",
     "type": "consumable",
     "img": "/images/items/dungeons/progressiveamadeus.png",
-    "codes": "progressiveamadeus",
+    "min_quantity": 0,
     "max_quantity": 5,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressiveamadeus"
   },
   {
     "name": "Progressive Verdant Phenom",
     "type": "consumable",
     "img": "/images/items/dungeons/progressiveverdantphenom.png",
-    "codes": "progressiveverdantphenom",
+    "min_quantity": 0,
     "max_quantity": 4,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressiveverdantphenom"
   },
   {
     "name": "Progressive Umbra",
     "type": "consumable",
     "img": "/images/items/dungeons/progressiveumbra.png",
-    "codes": "progressiveumbra",
+    "min_quantity": 0,
     "max_quantity": 10,
     "increment": 1,
     "decrement": 1,
     "initial_quantity": 0,
-    "overlay_font_size": 20
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressiveumbra"
   }
 ]

@@ -12,6 +12,15 @@
         }
       },
       {
+        "title": "World Map",
+        "content": {
+          "type": "map",
+          "maps": [
+            "Dungeon Map"
+          ]
+        }
+      },
+      {
         "title": "Cobalt Campanula",
         "content": {
           "type": "tabbed",

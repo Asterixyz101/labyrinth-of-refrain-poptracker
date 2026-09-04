@@ -1374,5 +1374,5 @@ LOCATION_MAPPING = {
 	[1373] = {"@Umbra/7F/7F Chest 19X 30Y/"},
 	[1374] = {"@Umbra/Top/Top Chest 30X 24Y/"},
 	[1375] = {"@Rosatempus Memoria/Septem VII/Septem VII Chest 8X 26Y/"},
-	[1376] = {"@Dusken Tanis/Refrain North District/North District Chest 21X 30Y/"},
+	[1376] = {"@Dusken Tanis/Refrain North District/North District Chest 21X 30Y/"}
 }
