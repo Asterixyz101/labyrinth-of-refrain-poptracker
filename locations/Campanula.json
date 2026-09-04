@@ -906,7 +906,7 @@
             "name": "B3 Chest 18X 6Y (Campanula Key)",
             "sections": [
               {
-                "name": " ",
+                "name": "",
                 "access_rules": [
                   "$hasWallbreaker, $hasCampanulaKey"
                 ],
