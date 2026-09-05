@@ -3,7 +3,8 @@ function canReachCampanulaB1()
 end
 
 function canReachCampanulaB2()
-    return ALL(canReachCampanulaB1(),HAS("progressivecampanula",2),HAS("facet",4))
+    return ALL(canReachCampanulaB1(),HAS("progressivecampanula",2),
+            HAS("facet",4))
 end
 
 function canReachCampanulaB3()

@@ -1,9 +1,11 @@
 function canReachFoodStorehouse()
-    return ALL(canReachAstromNorth(),HAS("unsealingritual",1),HAS("facet",7),HAS("treasure",1),HAS("progressivemelm",1))
+    return ALL(canReachAstromNorth(),HAS("unsealingritual",1),HAS("facet",7),
+            HAS("treasure",1),HAS("progressivemelm",1))
 end
 
 function canReachHallOfChampions()
-    return ALL(canReachFoodStorehouse(),HAS("progressiveformations",1),HAS("progressivemelm",2))
+    return ALL(canReachFoodStorehouse(),HAS("progressiveformations",1),
+            HAS("progressivemelm",2))
 end
 
 function canReachLivestockPen()
@@ -11,7 +13,8 @@ function canReachLivestockPen()
 end
 
 function canReachHerosRevelry()
-    return ALL(canReachLivestockPen(),HAS("userfdefensively",1),HAS("userfoffensively",1),HAS("progressivemelm",4))
+    return ALL(canReachLivestockPen(),HAS("userfdefensively",1),
+            HAS("userfoffensively",1),HAS("progressivemelm",4))
 end
 
 function canReachTempleOfWings()
@@ -19,7 +22,8 @@ function canReachTempleOfWings()
 end
 
 function canReachDivineMausoleum()
-    return ALL(canReachTempleOfWings(),HAS("scapegoat",1),HAS("progressiveleavelabyrinthatwill",1),HAS("progressivemelm",6))
+    return ALL(canReachTempleOfWings(),HAS("scapegoat",1),
+            HAS("progressiveleavelabyrinthatwill",1),HAS("progressivemelm",6))
 end
 
 function hasAvianiteEmpireKey()

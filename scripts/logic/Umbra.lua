@@ -1,5 +1,6 @@
 function canReachUmbra1F()
-    return ALL(canReachFallrealmBerry(),HAS("nullifymiasma",1),HAS("progressiveumbra",1))
+    return ALL(canReachFallrealmBerry(),HAS("nullifymiasma",1),
+            HAS("progressiveumbra",1))
 end
 
 function canReachUmbra2F()
@@ -11,7 +12,8 @@ function canReachUmbra3F()
 end
 
 function canReachUmbra4F()
-    return ALL(canReachUmbra3F(),HAS("progressiveformations",2),HAS("facet",9),HAS("progressiveumbra",4))
+    return ALL(canReachUmbra3F(),HAS("progressiveformations",2),HAS("facet",9),
+            HAS("progressiveumbra",4))
 end
 
 function canReachUmbra5F()
@@ -23,7 +25,8 @@ function canReachUmbra6F()
 end
 
 function canReachUmbra7F()
-    return ALL(canReachUmbra6F(),HAS("progressivepuppetstorage",1),HAS("progressiveumbra",7))
+    return ALL(canReachUmbra6F(),HAS("progressivepuppetstorage",1),
+            HAS("progressiveumbra",7))
 end
 
 function canReachUmbra8F()

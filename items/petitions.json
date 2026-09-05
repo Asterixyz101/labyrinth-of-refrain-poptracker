@@ -120,5 +120,33 @@
     "overlay_font_size": 14,
     "overlay_background": "#000000",
     "codes": "progressivepuppetstorage"
+  },
+  {
+    "name": "Progressive See Enemies On Mini-Map",
+    "type": "consumable",
+    "img": "images/items/witch_petition/progressiveseeenemiesonmini-map.png",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressiveseeenemiesonmini-map"
+  },
+  {
+    "name": "Progressive Distinguish Enemies",
+    "type": "consumable",
+    "img": "images/items/witch_petition/progressivedistinguishenemies.png",
+    "min_quantity": 0,
+    "max_quantity": 2,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressivedistinguishenemies"
   }
 ]

@@ -178,20 +178,6 @@
         "codes": "progressivestartleenemies"
     },
     {
-        "name": "progressivedistinguishenemies",
-        "type": "consumable",
-        "img": "images/items/progressivedistinguishenemies.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressivedistinguishenemies"
-    },
-    {
         "name": "campanulaspoilslist",
         "type": "toggle",
         "img": "images/items/campanulaspoilslist.png",
@@ -300,20 +286,6 @@
         "overlay_font_size": 14,
         "overlay_background": "#000000",
         "codes": "progressivepost-battlerecovery"
-    },
-    {
-        "name": "progressiveseeenemiesonmini-map",
-        "type": "consumable",
-        "img": "images/items/progressiveseeenemiesonmini-map.png",
-        "min_quantity": 0,
-        "max_quantity": 10,
-        "increment": 1,
-        "decrement": 1,
-        "initial_quantity": 1,
-        "overlay_align": "right",
-        "overlay_font_size": 14,
-        "overlay_background": "#000000",
-        "codes": "progressiveseeenemiesonmini-map"
     },
     {
         "name": "lureenemies",
