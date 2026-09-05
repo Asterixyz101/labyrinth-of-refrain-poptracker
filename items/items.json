@@ -38,14 +38,6 @@
         "codes": "ornit0fspoilslist"
     },
     {
-        "name": "blackpage(umbra)",
-        "type": "toggle",
-        "img": "images/items/blackpage(umbra).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blackpage(umbra)"
-    },
-    {
         "name": "progressivehidefromenemies",
         "type": "consumable",
         "img": "images/items/progressivehidefromenemies.png",
@@ -177,14 +169,7 @@
         "overlay_align": "right",
         "codes": "campanulaspoilslist"
     },
-    {
-        "name": "blackpage(campanula)",
-        "type": "toggle",
-        "img": "images/items/blackpage(campanula).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blackpage(campanula)"
-    },
+
     {
         "name": "bringmanaintolabyrinth",
         "type": "toggle",
@@ -240,14 +225,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "phenomspoilslist"
-    },
-    {
-        "name": "blackpage(astrom)",
-        "type": "toggle",
-        "img": "images/items/blackpage(astrom).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blackpage(astrom)"
     },
     {
         "name": "soulpact",
@@ -326,28 +303,12 @@
         "codes": "lightcrossbow"
     },
     {
-        "name": "blackpage(melm)",
-        "type": "toggle",
-        "img": "images/items/blackpage(melm).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blackpage(melm)"
-    },
-    {
         "name": "visitagentleworld",
         "type": "toggle",
         "img": "images/items/visitagentleworld.png",
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "visitagentleworld"
-    },
-    {
-        "name": "blackpage(phenom)",
-        "type": "toggle",
-        "img": "images/items/blackpage(phenom).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blackpage(phenom)"
     },
     {
         "name": "avoidenemiesaltogether",
@@ -402,14 +363,6 @@
         "initial_active_state": false,
         "overlay_align": "right",
         "codes": "duskentanisspoilslist"
-    },
-    {
-        "name": "blackpage(amadeus)",
-        "type": "toggle",
-        "img": "images/items/blackpage(amadeus).png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "blackpage(amadeus)"
     },
     {
         "name": "update",

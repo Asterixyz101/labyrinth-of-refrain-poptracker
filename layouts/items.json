@@ -70,5 +70,22 @@
         ]
       }
     ]
+  },
+    "pages_grid": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "margin": "0,0",
+        "item_margin": "0,0",
+        "item_size": "45,45",
+        "rows": [
+          [ "blackpage(campanula)", "blackpage(astrom)", "blackpage(melm)"],
+          [ "blackpage(phenom)", "blackpage(umbra)", "blackpage(amadeus)"]
+        ]
+      }
+    ]
   }
 }

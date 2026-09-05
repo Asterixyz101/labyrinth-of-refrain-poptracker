@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Blackpage (Melm)",
+        "type": "toggle",
+        "img": "images/items/blackpages/blackpage(melm).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(melm),blackpages"
+    },
+    {
+        "name": "Blackpage (Phenom)",
+        "type": "toggle",
+        "img": "images/items/blackpages/blackpage(phenom).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(phenom),blackpages"
+    },
+    {
+        "name": "Blackpage (Amadeus)",
+        "type": "toggle",
+        "img": "images/items/blackpages/blackpage(amadeus).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(amadeus),blackpages"
+    },
+    {
+        "name": "Blackpage (Umbra)",
+        "type": "toggle",
+        "img": "images/items/blackpages/blackpage(umbra).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(umbra),blackpages"
+    },
+    {
+        "name": "Blackpage (Campanula)",
+        "type": "toggle",
+        "img": "images/items/blackpages/blackpage(campanula).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(campanula),blackpages"
+    },
+    {
+        "name": "Blackpage (Astrom)",
+        "type": "toggle",
+        "img": "images/items/blackpages/blackpage(astrom).png",
+        "initial_active_state": false,
+        "overlay_align": "right",
+        "codes": "blackpage(astrom),blackpages"
+    }
+]
