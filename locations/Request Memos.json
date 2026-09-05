@@ -1,931 +1,1417 @@
 [
-  {
-    "name": "Request Memos",
-    "children": [
-      {
-        "name": "Bakers Request",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
+    {
+        "name": "Request Memos",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Bathtime Petals",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
+        "overlay_background": "#000000",
         "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Uncut Stone Needed",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "New Recipe",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Flirtatious Woman",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "A Gift Of Cologne",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Ill Mother And Daughter",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Seeking Suitable Match",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Great Potato Needed",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Convent Fieldwork",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Husky Husband",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "No Guts, No Glory",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Longing For A Bird",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Shallow Old Woman",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Love Lockdown",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "A Pet For My Daughter",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Ladys Lingerie",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "A Scriveners Request",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "A Fool And Her Fool",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "A Mothers Worries",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "In Search Of A Good Job",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Bonfire Kindling",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "H-H-Hot Springs!!!",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Sincere Fondness For Kids",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "A Drunk Nuns Desires",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "In Search Of New Flavors",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Flight Of Fancy",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Ultimate Honeysuckle",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Duck Stew",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Knitting Woman",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Milk Maiden",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Nobodys Listening",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "A Shepherds Job",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Sister Monicas Troubles",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "The Stars Above",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Intriguing Cheese",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Oddity Obsession",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "A Collectors Wish",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "South District Stench",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Unclean Moodkiller",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Thoughts Of Master",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Fashionista",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "She Sees Everything!",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Hungry For Mutton",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Skilled Clockworker",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Yummy Witch Pot-Au-Feu",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "In Memory Of Spina",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Dropped Memento 1",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Dropped Memento 2",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Epiphany!",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Another Epiphany!",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Too Many Epiphanies! >_<;",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Geniuses Are Scary!",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Witch Tome, Grand Guignol",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      }
-    ],
-    "access_rules": [
-      " "
-    ],
-    "chest_unopened_img": "/images/items/close.png",
-    "chest_opened_img": "/images/items/open.png",
-    "overlay_background": "#000000"
-  }
+            " "
+        ],
+        "children": [
+            {
+                "name": "Bakers Request",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAstromSouth"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 102,
+                        "y": 228,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bathtime Petals",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachCampanulaB3,$hasWallbreaker"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 166,
+                        "y": 232,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Uncut Stone Needed",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachCampanulaB3,$hasWallbreaker"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 228,
+                        "y": 215,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "New Recipe",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAstromSouth"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 312,
+                        "y": 205,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Flirtatious Woman",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAstromSouth"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 397,
+                        "y": 211,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "A Gift Of Cologne",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachFoodStorehouse"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 508,
+                        "y": 220,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Ill Mother And Daughter",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachFoodStorehouse"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 589,
+                        "y": 226,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Seeking Suitable Match",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAstromSouth"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 664,
+                        "y": 226,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Great Potato Needed",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachCampanulaB3,$hasWallbreaker"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 763,
+                        "y": 224,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Convent Fieldwork",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachFoodStorehouse"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 874,
+                        "y": 226,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Husky Husband",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachHerosRevelry"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 98,
+                        "y": 322,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "No Guts, No Glory",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachHerosRevelry"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 190,
+                        "y": 322,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Longing For A Bird",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachLivestockPen"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 256,
+                        "y": 324,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Shallow Old Woman",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAstromSouth"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 320,
+                        "y": 320,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Love Lockdown",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachHallOfChampions"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 397,
+                        "y": 307,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "A Pet For My Daughter",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachHallOfChampions"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 483,
+                        "y": 322,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Ladys Lingerie",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachSpringrealmBareFlower"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 585,
+                        "y": 324,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "A Scriveners Request",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachLiveStockPens"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 666,
+                        "y": 329,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "A Fool And Her Fool",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachFallrealmBerry"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 767,
+                        "y": 333,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "A Mothers Worries",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachLivestockPen"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 863,
+                        "y": 344,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "In Search Of A Good Job",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachFallrealmGem"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 91,
+                        "y": 448,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Bonfire Kindling",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachSpringrealmBareFlower"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 171,
+                        "y": 442,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "H-H-Hot Springs!!!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachDivineMausoleum"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 269,
+                        "y": 440,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sincere Fondness For Kids",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachUmbra1F"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 342,
+                        "y": 433,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "A Drunk Nuns Desires",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachUmbra7F"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 410,
+                        "y": 433,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "In Search Of New Flavors",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachUmbra5F"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 485,
+                        "y": 431,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Flight Of Fancy",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachUmbra6F"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 574,
+                        "y": 438,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Ultimate Honeysuckle",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachFallrealmBerry,nullifymiasma"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 669,
+                        "y": 440,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Duck Stew",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachCampanulaB5"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 763,
+                        "y": 448,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Knitting Woman",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachFallrealmGem"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 882,
+                        "y": 465,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Milk Maiden",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachQuinque"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 85,
+                        "y": 547,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Nobodys Listening",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachQuattuor"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 171,
+                        "y": 538,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "A Shepherds Job",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachQuinque"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 247,
+                        "y": 542,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Sister Monicas Troubles",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachUmbraSubterra"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 331,
+                        "y": 540,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "The Stars Above",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachQuattuor"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 401,
+                        "y": 540,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Intriguing Cheese",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachFinalMorgueB1"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 480,
+                        "y": 538,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Oddity Obsession",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachSeptem"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 568,
+                        "y": 534,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "A Collectors Wish",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachQuinque"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 662,
+                        "y": 542,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "South District Stench",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachTres"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 754,
+                        "y": 542,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Unclean Moodkiller",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachFinalMorgueBottom"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 880,
+                        "y": 551,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Thoughts Of Master",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachFinalMorgueBottom"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 81,
+                        "y": 671,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Fashionista",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachTanisWest"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 156,
+                        "y": 664,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "She Sees Everything!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachTanisEast"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 237,
+                        "y": 658,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Hungry For Mutton",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachCampanulaB7"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 327,
+                        "y": 641,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Skilled Clockworker",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachTanisEast,$hasFuriasKey"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 393,
+                        "y": 628,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Yummy Witch Pot-Au-Feu",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAzuMelm"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 483,
+                        "y": 628,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "In Memory Of Spina",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAzuMelm"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 572,
+                        "y": 632,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Dropped Memento 1",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAzuCampanula"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 656,
+                        "y": 645,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Dropped Memento 2",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAzuCampanula"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 763,
+                        "y": 645,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Epiphany!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAzuUmbra"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 882,
+                        "y": 641,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Another Epiphany!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAzuMagia"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 98,
+                        "y": 767,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Too Many Epiphanies! >_<;",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAzuMagia"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 166,
+                        "y": 743,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Geniuses Are Scary!",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAzuCardia"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 228,
+                        "y": 754,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Witch Tome, Grand Guignol",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAzuCardia"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Request Memos",
+                        "x": 312,
+                        "y": 755,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
 ]
