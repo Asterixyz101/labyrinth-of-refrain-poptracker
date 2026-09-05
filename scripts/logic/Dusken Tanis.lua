@@ -3,15 +3,25 @@ function canReachTanisWest()
 end
 
 function canReachTanisNorth()
-    return false
+    return ALL(canReachTanisWest(), HAS("progressiveformations",4),
+            HAS("progressivepuppetstorage",3), HAS("facet",14),
+            HAS("progressivetanis",4))
 end
 
 function canReachTanisSouth()
-    return false
+    return ALL(canReachTanisWest(), HAS("progressiveformations",4),
+            HAS("progressivepuppetstorage",3), HAS("facet",14),
+            HAS("progressivetanis",4))
 end
 
 function canReachTanisEast()
-    return false
+    return ALL(canReachTanisWest(), HAS("progressiveformations",4),
+            HAS("progressivepuppetstorage",3), HAS("facet",14),
+            HAS("progressivetanis",4))
+end
+
+function hasTanisKey()
+    return ALL(HAS("taniskey",1),canReachTanisEast())
 end
 
 function hasFuriasKey()

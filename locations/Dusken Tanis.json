@@ -1,1528 +1,2300 @@
 [
-  {
-    "name": "Dusken Tanis",
-    "children": [
-      {
-        "name": "Refrain West District",
-        "children": [
-          {
-            "name": "West District Chest 5X 1Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 14X 1Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 25X 1Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 21X 4Y (Tanis Key)",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 15X 5Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 21X 5Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 9X 11Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 1X 12Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 7X 16Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 15X 19Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 26X 21Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 6X 24Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 26X 27Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 26X 28Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 10X 30Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "West District Chest 23X 30Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
+    {
+        "name": "Dusken Tanis",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Refrain North District",
-        "children": [
-          {
-            "name": "North District Chest 11X 2Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 6X 3Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 3X 4Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 7X 6Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 4X 7Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 13X 5Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 23X 3Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 27X 3Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 30X 3Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 22X 6Y (Tanis Key)",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 16X 12Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 0X 13Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 23X 14Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 5X 16Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 12X 16Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 4X 20Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 19X 18Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 19X 22Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 27X 20Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 31X 24Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 3X 29Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 13X 28Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 25X 28Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 15X 31Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "North District Chest 21X 30Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          }
-        ],
+        "overlay_background": "#000000",
         "access_rules": [
-          " "
+            "$canReachCapanulaB7"
         ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Refrain South District",
         "children": [
-          {
-            "name": "South District Chest 16X 0Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 10X 3Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 27X 3Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 8X 5Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 30X 5Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 28X 7Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 0X 8Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 3X 9Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 7X 9Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 17X 11Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 1X 15Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 7X 17Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 19X 16Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 19X 17Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 28X 20Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 11X 21Y (Tanis Key)",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 16X 23Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 2X 24Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 26X 24Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 28X 24Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 12X 28Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "South District Chest 18X 30Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Refrain East District",
-        "children": [
-          {
-            "name": "East District Chest 7X 1Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 11X 2Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 23X 4Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 0X 5Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 18X 7Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 4X 10Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 25X 10Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 18X 12Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 19X 13Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 26X 14Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 13X 15Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 16X 15Y (Great Sages Key)",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 5X 16Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 13X 18Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 29X 18Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 3X 19Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 19X 20Y (Tanis Key)",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 2X 21Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 24X 23Y",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "East District Chest 31X 30Y (Tanis Key)",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "Defeat Velkuvrana",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "Normal Ending",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "map_locations": [
-              {
-                "map": "Start Menu",
-                "x": 230,
-                "y": 415,
-                "size": 40,
-                "shape": "rect"
-              }
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          },
-          {
-            "name": "Unlock Post-Game",
-            "sections": [
-              {
-                "name": "",
-                "access_rules": [],
-                "visibility_rules": [],
-                "item_count": 1
-              }
-            ],
-            "access_rules": [
-              " "
-            ],
-            "chest_unopened_img": "/images/items/close.png",
-            "chest_opened_img": "/images/items/open.png",
-            "overlay_background": "#000000"
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      }
-    ],
-    "access_rules": [
-      " "
-    ],
-    "chest_unopened_img": "/images/items/close.png",
-    "chest_opened_img": "/images/items/open.png",
-    "overlay_background": "#000000"
-  }
+            {
+                "name": "Refrain West District",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachTanisWest"
+                ],
+                "children": [
+                    {
+                        "name": "West District Chest 5X 1Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1259,
+                                "y": 193,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 14X 1Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1641,
+                                "y": 195,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 25X 1Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 2112,
+                                "y": 196,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 21X 4Y (Tanis Key)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "$hasTanisKey"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1939,
+                                "y": 322,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 15X 5Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1687,
+                                "y": 364,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 21X 5Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1939,
+                                "y": 364,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 9X 11Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1426,
+                                "y": 621,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 1X 12Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1089,
+                                "y": 664,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 7X 16Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1345,
+                                "y": 833,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 15X 19Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1683,
+                                "y": 962,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 26X 21Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 2154,
+                                "y": 1048,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 6X 24Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1300,
+                                "y": 1176,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 26X 27Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 2155,
+                                "y": 1303,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 26X 28Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 2156,
+                                "y": 1348,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 10X 30Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 1471,
+                                "y": 1430,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "West District Chest 23X 30Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain West District",
+                                "x": 2026,
+                                "y": 1433,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Refrain North District",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachTanisNorth"
+                ],
+                "children": [
+                    {
+                        "name": "North District Chest 11X 2Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1513,
+                                "y": 237,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 6X 3Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1300,
+                                "y": 280,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 3X 4Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1174,
+                                "y": 323,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 7X 6Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1345,
+                                "y": 407,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 4X 7Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1216,
+                                "y": 450,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 13X 5Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1601,
+                                "y": 365,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 23X 3Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 2026,
+                                "y": 279,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 27X 3Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 2196,
+                                "y": 279,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 30X 3Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 2326,
+                                "y": 280,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 22X 6Y (Tanis Key)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "$hasTanisKey"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1985,
+                                "y": 408,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 16X 12Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1728,
+                                "y": 662,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 0X 13Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1045,
+                                "y": 707,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 23X 14Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 2027,
+                                "y": 749,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 5X 16Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1258,
+                                "y": 833,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 12X 16Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1556,
+                                "y": 834,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 4X 20Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1216,
+                                "y": 1004,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 19X 18Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1856,
+                                "y": 920,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 19X 22Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1856,
+                                "y": 1091,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 27X 20Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 2153,
+                                "y": 1003,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 31X 24Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 2366,
+                                "y": 1174,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 3X 29Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1173,
+                                "y": 1390,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 13X 28Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1598,
+                                "y": 1346,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 25X 28Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 2109,
+                                "y": 1346,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 15X 31Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1684,
+                                "y": 1475,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "North District Chest 21X 30Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1942,
+                                "y": 1433,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Refrain South District",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachTanisSouth"
+                ],
+                "children": [
+                    {
+                        "name": "South District Chest 16X 0Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1728,
+                                "y": 150,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 10X 3Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1471,
+                                "y": 280,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 27X 3Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 2197,
+                                "y": 279,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 8X 5Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1386,
+                                "y": 363,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 30X 5Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 2326,
+                                "y": 367,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 28X 7Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 2240,
+                                "y": 450,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 0X 8Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1044,
+                                "y": 492,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 3X 9Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1174,
+                                "y": 536,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 7X 9Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1346,
+                                "y": 537,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 17X 11Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1772,
+                                "y": 620,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 1X 15Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1088,
+                                "y": 792,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 7X 17Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1343,
+                                "y": 876,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 19X 16Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1856,
+                                "y": 836,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 19X 17Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1855,
+                                "y": 877,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 28X 20Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 2239,
+                                "y": 1005,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 11X 21Y (Tanis Key)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "$hasTanisKey"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1515,
+                                "y": 1048,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 16X 23Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1727,
+                                "y": 1134,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 2X 24Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1130,
+                                "y": 1174,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 26X 24Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 2155,
+                                "y": 1175,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 28X 24Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 2242,
+                                "y": 1173,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 12X 28Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1560,
+                                "y": 1347,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "South District Chest 18X 30Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain South District",
+                                "x": 1812,
+                                "y": 1431,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Refrain East District",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachTanisEast"
+                ],
+                "children": [
+                    {
+                        "name": "East District Chest 7X 1Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1343,
+                                "y": 193,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 11X 2Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1517,
+                                "y": 237,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 23X 4Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 2026,
+                                "y": 321,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 0X 5Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1049,
+                                "y": 368,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 18X 7Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1814,
+                                "y": 449,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 4X 10Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1219,
+                                "y": 580,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 25X 10Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 2114,
+                                "y": 580,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 18X 12Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1813,
+                                "y": 664,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 19X 13Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1855,
+                                "y": 706,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 26X 14Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 2156,
+                                "y": 748,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 13X 15Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1599,
+                                "y": 789,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 16X 15Y (Great Sages Key)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "$hasGreatSagesKey"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1727,
+                                "y": 792,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 5X 16Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1261,
+                                "y": 832,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 13X 18Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1601,
+                                "y": 918,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 29X 18Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 2283,
+                                "y": 920,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 3X 19Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1173,
+                                "y": 963,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 19X 20Y (Tanis Key)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "$hasTanisKey"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1856,
+                                "y": 1005,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 2X 21Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 1131,
+                                "y": 1049,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 24X 23Y",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 2070,
+                                "y": 1132,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "East District Chest 31X 30Y (Tanis Key)",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            "$hasTanisKey"
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain East District",
+                                "x": 2368,
+                                "y": 1432,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Defeat Velkuvrana",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1643,
+                                "y": 535,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Normal Ending",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Start Menu",
+                                "x": 230,
+                                "y": 415,
+                                "size": 40,
+                                "shape": "rect"
+                            },
+                            {
+                                "map": "Refrain North District",
+                                "x": 1600,
+                                "y": 536,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Unlock Post-Game",
+                        "chest_unopened_img": "/images/items/close.png",
+                        "chest_opened_img": "/images/items/open.png",
+                        "overlay_background": "#000000",
+                        "access_rules": [
+                            " "
+                        ],
+                        "sections": [
+                            {
+                                "name": "",
+                                "access_rules": [],
+                                "visibility_rules": [],
+                                "item_count": 1
+                            }
+                        ],
+                        "map_locations": [
+                            {
+                                "map": "Refrain North District",
+                                "x": 1686,
+                                "y": 535,
+                                "size": 40,
+                                "shape": "rect"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
 ]
