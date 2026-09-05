@@ -1,5 +1,5 @@
 function canReachTanisWest()
-    return false
+    return ALL(canReachCampanulaB7(),HAS("facet",13),HAS("progressivetanis",1))
 end
 
 function canReachTanisNorth()

@@ -68,14 +68,6 @@
         "codes": "stenchprotection"
     },
     {
-        "name": "morestatgrowthoptions",
-        "type": "toggle",
-        "img": "images/items/morestatgrowthoptions.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "morestatgrowthoptions"
-    },
-    {
         "name": "uncleanornitspoilslist",
         "type": "toggle",
         "img": "images/items/uncleanornitspoilslist.png",
@@ -324,14 +316,6 @@
         "overlay_font_size": 14,
         "overlay_background": "#000000",
         "codes": "progressiveitemstorage"
-    },
-    {
-        "name": "morenatureoptions",
-        "type": "toggle",
-        "img": "images/items/morenatureoptions.png",
-        "initial_active_state": false,
-        "overlay_align": "right",
-        "codes": "morenatureoptions"
     },
     {
         "name": "lightcrossbow",

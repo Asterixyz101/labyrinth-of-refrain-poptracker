@@ -66,7 +66,7 @@
         "rows": [
           [ "findmoreitems", "wallbreaker", "stockpilexp", "userfoffensively", "userfdefensively", "unsealingritual" ],
           [ "treasure", "progressiveformations", "scapegoat", "progressiveleavelabyrinthatwill", "rebirthpuppetsoldiers", "nullifymiasma" ],
-          [ "progressivepuppetstorage", "progressiveseeenemiesonmini-map", "progressivedistinguishenemies"]
+          [ "progressivepuppetstorage", "progressiveseeenemiesonmini-map", "progressivedistinguishenemies", "morestatgrowthoptions", "morenatureoptions" ]
         ]
       }
     ]

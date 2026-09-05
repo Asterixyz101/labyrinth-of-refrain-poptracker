@@ -148,5 +148,21 @@
     "overlay_font_size": 14,
     "overlay_background": "#000000",
     "codes": "progressivedistinguishenemies"
+  },
+  {
+    "name": "More Stat Growth Options",
+    "type": "toggle",
+    "img": "images/items/witch_petition/morestatgrowthoptions.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "morestatgrowthoptions"
+  },
+  {
+    "name": "More Nature Options",
+    "type": "toggle",
+    "img": "images/items/witch_petition/morenatureoptions.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "morenatureoptions"
   }
 ]
