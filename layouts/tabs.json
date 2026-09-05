@@ -677,6 +677,15 @@
           "v_alignment": "center",
           "key": "key_grid"
         }
+      },
+      {
+        "title": "Pages",
+        "content": {
+          "type": "layout",
+          "h_alignment": "center",
+          "v_alignment": "center",
+          "key": "pages_grid"
+        }
       }
     ]
   }

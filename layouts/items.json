@@ -1,32 +1,31 @@
 {
   "facet_grid": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
         "type": "itemgrid",
         "margin": "0,0",
         "item_margin": "0,0",
-        "item_size": "41,78",
+        "item_size": "32,60",
         "rows": [
-          [ "asterknight(m)", "shinobushi(m)", "theatricalstar(m)", "marginalmaze(m)", "peerfortress(m)", "madraptor(m)" ],
-          [ "asterknight(f)", "shinobushi(f)", "theatricalstar(f)", "marginalmaze(f)", "peerfortress(f)", "madraptor(f)" ],
-          [ "gothiccoppelia", "demonreaper" ]
+          [ "asterknight(m)", "shinobushi(m)", "theatricalstar(m)", "marginalmaze(m)", "peerfortress(m)", "madraptor(m)", "gothiccoppelia" ],
+          [ "asterknight(f)", "shinobushi(f)", "theatricalstar(f)", "marginalmaze(f)", "peerfortress(f)", "madraptor(f)", "demonreaper"]
         ]
       }
     ]
   },
   "dungeon_grid": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
         "type": "itemgrid",
         "margin": "0,0",
         "item_margin": "0,0",
-        "item_size": "78,49",
+        "item_size": "72,45",
         "rows": [
           [ "progressivecampanula", "progressiveastrom", "progressivemelm" ],
           [ "progressiveverdantphenom", "progressiveumbra", "progressiverosatempusmemoria" ],
@@ -37,14 +36,14 @@
   },
   "key_grid": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
         "type": "itemgrid",
         "margin": "0,0",
         "item_margin": "0,0",
-        "item_size": "35,35",
+        "item_size": "40,40",
         "rows": [
           [ "campanulakey", "gnomishkey", "avianiteempirekey", "trollplayroomkey" ],
           [ "bagwormkey", "duchessskey", "mysteriouskey", "holykingskey" ],
@@ -55,14 +54,14 @@
   },
   "progression_grid": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
         "type": "itemgrid",
         "margin": "0,0",
         "item_margin": "0,0",
-        "item_size": "45,45",
+        "item_size": "40,40",
         "rows": [
           [ "findmoreitems", "wallbreaker", "stockpilexp", "userfoffensively", "userfdefensively", "unsealingritual" ],
           [ "treasure", "progressiveformations", "scapegoat", "progressiveleavelabyrinthatwill", "rebirthpuppetsoldiers", "nullifymiasma" ],
@@ -73,14 +72,14 @@
   },
   "useful_grid": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
         "type": "itemgrid",
         "margin": "0,0",
         "item_margin": "0,0",
-        "item_size": "45,45",
+        "item_size": "40,40",
         "rows": [
           ["visitagentleworld", "visitanightmareworld", "progressiveitemstorage", "progressivepost-battlerecovery", "progressiveescapebattleseasier", "progressivehidefromenemies"],
           [ "progressivestartleenemies", "lureenemies", "bringmanaintolabyrinth", "avoidenemiesaltogether"]
@@ -90,14 +89,14 @@
   },
   "filler_grid": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
         "type": "itemgrid",
         "margin": "0,0",
         "item_margin": "0,0",
-        "item_size": "45,45",
+        "item_size": "40,40",
         "rows": [
           ["renamepuppetsoldiers", "renamesoulpacts", "revealtruenature", "footwear", "stenchprotection", "decentshield"],
           ["lightcrossbow", "luckboostinggear", "dpboostinggear", "decentarmor", "soulpact", "soulpactii"]
@@ -107,33 +106,31 @@
   },
   "spoilslist_grid": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
         "type": "itemgrid",
         "margin": "0,0",
         "item_margin": "0,0",
-        "item_size": "45,45",
+        "item_size": "40,40",
         "rows": [
-          [ "campanulaspoilslist", "astromspoilslist", "melmspoilslist", "phenomspoilslist"],
-          ["umbraspoilslist", "rosatempusspoilslist", "amadeusspoilslist", "duskentanisspoilslist"],
-          ["ornit0fspoilslist", "ornit1fspoilslist", "ornit2fspoilslist", "ornit3fspoilslist"],
-          ["ornit4fspoilslist", "ornit5fspoilslist", "ornit6fspoilslist", "ornit7fspoilslist", "uncleanornitspoilslist"]
+          [ "campanulaspoilslist", "astromspoilslist", "melmspoilslist", "phenomspoilslist","umbraspoilslist", "rosatempusspoilslist", "amadeusspoilslist", "duskentanisspoilslist"],
+          ["ornit0fspoilslist", "ornit1fspoilslist", "ornit2fspoilslist", "ornit3fspoilslist","ornit4fspoilslist", "ornit5fspoilslist", "ornit6fspoilslist", "ornit7fspoilslist", "uncleanornitspoilslist"]
         ]
       }
     ]
   },
   "pages_grid": {
     "type": "array",
-    "orientation": "vertical",
+    "orientation": "horizontal",
     "margin": "0,0",
     "content": [
       {
         "type": "itemgrid",
         "margin": "0,0",
         "item_margin": "0,0",
-        "item_size": "52,52",
+        "item_size": "40,40",
         "rows": [
           [ "blackpage(campanula)", "blackpage(astrom)", "blackpage(melm)"],
           [ "blackpage(phenom)", "blackpage(umbra)", "blackpage(amadeus)"]
