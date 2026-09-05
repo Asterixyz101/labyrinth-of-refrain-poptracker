@@ -12,38 +12,14 @@
           "content": [
             {
               "type": "group",
-              "header": "Facets",
+              "header": "Facets & Dungeons",
               "dock": "left",
               "margin": "0,0,3,0",
               "content": {
                 "type": "layout",
                 "h_alignment": "center",
                 "v_alignment": "center",
-                "key": "facet_grid"
-              }
-            },
-            {
-              "type": "group",
-              "header": "Progressive Dungeons",
-              "dock": "left",
-              "margin": "0,0,3,0",
-              "content": {
-                "type": "layout",
-                "h_alignment": "center",
-                "v_alignment": "center",
-                "key": "dungeon_grid"
-              }
-            },
-            {
-              "type": "group",
-              "header": "Keys",
-              "dock": "left",
-              "margin": "0,0,3,0",
-              "content": {
-                "type": "layout",
-                "h_alignment": "center",
-                "v_alignment": "center",
-                "key": "key_grid"
+                "key": "facet_dungeon_grid"
               }
             },
             {

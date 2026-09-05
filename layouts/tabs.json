@@ -647,5 +647,37 @@
         }
       }
     ]
+  },
+  "facet_dungeon_grid": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Facets",
+        "content": {
+          "type": "layout",
+          "h_alignment": "center",
+          "v_alignment": "center",
+          "key": "facet_grid"
+        }
+      },
+      {
+        "title": "Dungeons",
+        "content": {
+          "type": "layout",
+          "h_alignment": "center",
+          "v_alignment": "center",
+          "key": "dungeon_grid"
+        }
+      },
+      {
+        "title": "Keys",
+        "content": {
+          "type": "layout",
+          "h_alignment": "center",
+          "v_alignment": "center",
+          "key": "key_grid"
+        }
+      }
+    ]
   }
 }
