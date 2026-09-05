@@ -1,5 +1,5 @@
 function canReachSpringrealmBareFlower()
-    return ALL(HAS("progressiveleavelabyrinthatwill",1),HAS("progressiveverdantphenom",1))
+    return ALL(canReachTempleOfWings(),HAS("progressiveleavelabyrinthatwill",1),HAS("progressiveverdantphenom",1))
 end
 
 function canReachSpringrealmMutton()

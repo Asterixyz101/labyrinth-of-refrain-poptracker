@@ -1,5 +1,5 @@
 function canReachAstromSouth()
-    return ALL(hasWallbreaker(),HAS("facet",6),HAS("progressiveastrom",1))
+    return ALL(canReachCampanulaB3(),hasWallbreaker(),HAS("facet",6),HAS("progressiveastrom",1))
 end
 
 function canReachAstromEast()

@@ -65,7 +65,8 @@
         "item_size": "45,45",
         "rows": [
           [ "findmoreitems", "wallbreaker", "stockpilexp", "userfoffensively", "userfdefensively", "unsealingritual" ],
-          [ "treasure", "progressiveformations", "scapegoat", "progressiveleavelabyrinthatwill", "rebirthpuppetsoldiers", "nullifymiasma" ]
+          [ "treasure", "progressiveformations", "scapegoat", "progressiveleavelabyrinthatwill", "rebirthpuppetsoldiers", "nullifymiasma" ],
+          [ "progressivepuppetstorage" ]
         ]
       }
     ]

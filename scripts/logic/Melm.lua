@@ -1,5 +1,5 @@
 function canReachFoodStorehouse()
-    return ALL(HAS("unsealingritual",1),HAS("facet",7),HAS("treasure",1),HAS("progressivemelm",1))
+    return ALL(canReachAstromNorth(),HAS("unsealingritual",1),HAS("facet",7),HAS("treasure",1),HAS("progressivemelm",1))
 end
 
 function canReachHallOfChampions()
