@@ -636,6 +636,15 @@
           "v_alignment": "center",
           "key": "filler_grid"
         }
+      },
+      {
+        "title": "Spoils Lists",
+        "content": {
+          "type": "layout",
+          "h_alignment": "center",
+          "v_alignment": "center",
+          "key": "spoilslist_grid"
+        }
       }
     ]
   }

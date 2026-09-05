@@ -164,5 +164,355 @@
     "initial_active_state": false,
     "overlay_align": "right",
     "codes": "morenatureoptions"
+  },
+  {
+    "name": "Visit A Gentle World",
+    "type": "toggle",
+    "img": "images/items/witch_petition/visitagentleworld.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "visitagentleworld"
+  },
+  {
+    "name": "Visit A Nightmare World",
+    "type": "toggle",
+    "img": "images/items/witch_petition/visitanightmareworld.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "visitanightmareworld"
+  },
+  {
+    "name": "Progressive Item Storage",
+    "type": "consumable",
+    "img": "images/items/witch_petition/progressiveitemstorage.png",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressiveitemstorage"
+  },
+  {
+    "name": "Progressive Post-Battle Recovery",
+    "type": "consumable",
+    "img": "images/items/witch_petition/progressivepost-battlerecovery.png",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressivepost-battlerecovery"
+  },
+  {
+    "name": "Progressive Escape Battles Easier",
+    "type": "consumable",
+    "img": "images/items/witch_petition/progressiveescapebattleseasier.png",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressiveescapebattleseasier"
+  },
+  {
+    "name": "Progressive Hide From Enemies",
+    "type": "consumable",
+    "img": "images/items/witch_petition/progressivehidefromenemies.png",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressivehidefromenemies"
+  },
+  {
+    "name": "Progressive Startle Enemies",
+    "type": "consumable",
+    "img": "images/items/witch_petition/progressivestartleenemies.png",
+    "min_quantity": 0,
+    "max_quantity": 3,
+    "increment": 1,
+    "decrement": 1,
+    "initial_quantity": 0,
+    "overlay_align": "right",
+    "overlay_font_size": 14,
+    "overlay_background": "#000000",
+    "codes": "progressivestartleenemies"
+  },
+  {
+    "name": "Lure Enemies",
+    "type": "toggle",
+    "img": "images/items/witch_petition/lureenemies.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "lureenemies"
+  },
+  {
+    "name": "Bring Mana Into Labyrinth",
+    "type": "toggle",
+    "img": "images/items/witch_petition/bringmanaintolabyrinth.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "bringmanaintolabyrinth"
+  },
+  {
+    "name": "Avoid Enemies Altogether",
+    "type": "toggle",
+    "img": "images/items/witch_petition/avoidenemiesaltogether.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "avoidenemiesaltogether"
+  },
+  {
+    "name": "Ornit 1F Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/ornit1fspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "ornit1fspoilslist"
+  },
+  {
+    "name": "Campanula Spoils List II",
+    "type": "toggle",
+    "img": "images/items/witch_petition/campanulaspoilslistii.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "campanulaspoilslistii"
+  },
+  {
+    "name": "Ornit 0F Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/ornit0fspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "ornit0fspoilslist"
+  },
+  {
+    "name": "Unclean Ornit Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/uncleanornitspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "uncleanornitspoilslist"
+  },
+  {
+    "name": "Ornit 7F Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/ornit7fspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "ornit7fspoilslist"
+  },
+  {
+    "name": "Ornit 2F Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/ornit2fspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "ornit2fspoilslist"
+  },
+  {
+    "name": "Rosatempus Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/rosatempusspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "rosatempusspoilslist"
+  },
+  {
+    "name": "Melm Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/melmspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "melmspoilslist"
+  },
+  {
+    "name": "Umbra Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/umbraspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "umbraspoilslist"
+  },
+  {
+    "name": "Astrom Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/astromspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "astromspoilslist"
+  },
+  {
+    "name": "Campanula Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/campanulaspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "campanulaspoilslist"
+  },
+  {
+    "name": "Ornit 3F Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/ornit3fspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "ornit3fspoilslist"
+  },
+  {
+    "name": "Phenom Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/phenomspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "phenomspoilslist"
+  },
+  {
+    "name": "Amadeus Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/amadeusspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "amadeusspoilslist"
+  },
+  {
+    "name": "Ornit 5F Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/ornit5fspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "ornit5fspoilslist"
+  },
+  {
+    "name": "Ornit 4F Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/ornit4fspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "ornit4fspoilslist"
+  },
+  {
+    "name": "Ornit 6F Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/ornit6fspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "ornit6fspoilslist"
+  },
+  {
+    "name": "Dusken Tanis Spoils List",
+    "type": "toggle",
+    "img": "images/items/witch_petition/duskentanisspoilslist.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "duskentanisspoilslist"
+  },
+  {
+    "name": "Stench Protection",
+    "type": "toggle",
+    "img": "images/items/witch_petition/stenchprotection.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "stenchprotection"
+  },
+  {
+    "name": "Decent Armor",
+    "type": "toggle",
+    "img": "images/items/witch_petition/decentarmor.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "decentarmor"
+  },
+  {
+    "name": "Rename Puppet Soldiers",
+    "type": "toggle",
+    "img": "images/items/witch_petition/renamepuppetsoldiers.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "renamepuppetsoldiers"
+  },
+  {
+    "name": "Footwear",
+    "type": "toggle",
+    "img": "images/items/witch_petition/footwear.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "footwear"
+  },
+  {
+    "name": "Soul Pact II",
+    "type": "toggle",
+    "img": "images/items/witch_petition/soulpactii.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "soulpactii"
+  },
+  {
+    "name": "Rename Soul Pacts",
+    "type": "toggle",
+    "img": "images/items/witch_petition/renamesoulpacts.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "renamesoulpacts"
+  },
+  {
+    "name": "DP Boosting Gear",
+    "type": "toggle",
+    "img": "images/items/witch_petition/dpboostinggear.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "dpboostinggear"
+  },
+  {
+    "name": "Decent Shield",
+    "type": "toggle",
+    "img": "images/items/witch_petition/decentshield.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "decentshield"
+  },
+  {
+    "name": "Soul Pact",
+    "type": "toggle",
+    "img": "images/items/witch_petition/soulpact.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "soulpact"
+  },
+  {
+    "name": "Reveal True Nature",
+    "type": "toggle",
+    "img": "images/items/witch_petition/revealtruenature.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "revealtruenature"
+  },
+  {
+    "name": "Light Crossbow",
+    "type": "toggle",
+    "img": "images/items/witch_petition/lightcrossbow.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "lightcrossbow"
+  },
+  {
+    "name": "Luck Boosting Gear",
+    "type": "toggle",
+    "img": "images/items/witch_petition/luckboostinggear.png",
+    "initial_active_state": false,
+    "overlay_align": "right",
+    "codes": "luckboostinggear"
   }
 ]
