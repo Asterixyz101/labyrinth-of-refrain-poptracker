@@ -1,168 +1,195 @@
 [
-  {
-    "name": "Misc",
-    "children": [
-      {
-        "name": "Superbosses",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
+    {
+        "name": "Misc",
         "chest_unopened_img": "/images/items/close.png",
         "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Superbosses & Final Boss",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
+        "overlay_background": "#000000",
         "access_rules": [
-          " "
+            " "
         ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "True Ending & Black Wanderer",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Starting Support Facet",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Start Menu",
-            "x": 294,
-            "y": 83,
-            "size": 40,
-            "shape": "rect"
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Starting Offensive Facet",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Start Menu",
-            "x": 38,
-            "y": 83,
-            "size": 40,
-            "shape": "rect"
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Starting Defensive Facet",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Start Menu",
-            "x": 165,
-            "y": 83,
-            "size": 40,
-            "shape": "rect"
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      },
-      {
-        "name": "Starting Campanula Floor",
-        "sections": [
-          {
-            "name": "",
-            "access_rules": [],
-            "visibility_rules": [],
-            "item_count": 1
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "Start Menu",
-            "x": 422,
-            "y": 83,
-            "size": 40,
-            "shape": "rect"
-          }
-        ],
-        "access_rules": [
-          " "
-        ],
-        "chest_unopened_img": "/images/items/close.png",
-        "chest_opened_img": "/images/items/open.png",
-        "overlay_background": "#000000"
-      }
-    ],
-    "access_rules": [
-      " "
-    ],
-    "chest_unopened_img": "/images/items/close.png",
-    "chest_opened_img": "/images/items/open.png",
-    "overlay_background": "#000000"
-  }
+        "children": [
+            {
+                "name": "Superbosses",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "blackpages:6"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Start Menu",
+                        "x": 38,
+                        "y": 332,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Superbosses & Final Boss",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "blackpages:6,$canReachTanisNorth"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Start Menu",
+                        "x": 230,
+                        "y": 332,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "True Ending & Black Wanderer",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    "$canReachAzuCardia"
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Start Menu",
+                        "x": 422,
+                        "y": 332,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Starting Support Facet",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Start Menu",
+                        "x": 294,
+                        "y": 83,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Starting Offensive Facet",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Start Menu",
+                        "x": 38,
+                        "y": 83,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Starting Defensive Facet",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Start Menu",
+                        "x": 165,
+                        "y": 83,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            },
+            {
+                "name": "Starting Campanula Floor",
+                "chest_unopened_img": "/images/items/close.png",
+                "chest_opened_img": "/images/items/open.png",
+                "overlay_background": "#000000",
+                "access_rules": [
+                    " "
+                ],
+                "sections": [
+                    {
+                        "name": "",
+                        "access_rules": [],
+                        "visibility_rules": [],
+                        "item_count": 1
+                    }
+                ],
+                "map_locations": [
+                    {
+                        "map": "Start Menu",
+                        "x": 422,
+                        "y": 83,
+                        "size": 40,
+                        "shape": "rect"
+                    }
+                ]
+            }
+        ]
+    }
 ]
