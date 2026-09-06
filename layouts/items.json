@@ -10,8 +10,9 @@
         "item_margin": "0,0",
         "item_size": "32,60",
         "rows": [
-          [ "asterknight(m)", "shinobushi(m)", "theatricalstar(m)", "marginalmaze(m)", "peerfortress(m)", "madraptor(m)", "gothiccoppelia" ],
-          [ "asterknight(f)", "shinobushi(f)", "theatricalstar(f)", "marginalmaze(f)", "peerfortress(f)", "madraptor(f)", "demonreaper"]
+          [ "asterknight(m)", "shinobushi(m)", "theatricalstar(m)", "marginalmaze(m)", "peerfortress(m)", "madraptor(m)" ],
+          [ "asterknight(f)", "shinobushi(f)", "theatricalstar(f)", "marginalmaze(f)", "peerfortress(f)", "madraptor(f)" ],
+          ["gothiccoppelia", "demonreaper"]
         ]
       }
     ]
