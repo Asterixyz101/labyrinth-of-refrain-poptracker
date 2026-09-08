@@ -473,9 +473,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1303,
-                "y": 409,
-                "size": 40,
+                "x": 976,
+                "y": 246,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -499,9 +499,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 2113,
-                "y": 450,
-                "size": 40,
+                "x": 1584,
+                "y": 278,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -527,9 +527,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1513,
-                "y": 493,
-                "size": 40,
+                "x": 1136,
+                "y": 310,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -555,9 +555,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1604,
-                "y": 491,
-                "size": 40,
+                "x": 1200,
+                "y": 310,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -581,9 +581,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1301,
-                "y": 581,
-                "size": 40,
+                "x": 976,
+                "y": 374,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -607,8 +607,8 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 2116,
-                "y": 749,
+                "x": 1584,
+                "y": 502,
                 "size": 40,
                 "shape": "rect"
               }
@@ -633,9 +633,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1726,
-                "y": 791,
-                "size": 40,
+                "x": 1296,
+                "y": 534,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -661,9 +661,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1516,
-                "y": 920,
-                "size": 40,
+                "x": 1136,
+                "y": 630,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -687,9 +687,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1643,
-                "y": 920,
-                "size": 40,
+                "x": 1232,
+                "y": 630,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -713,8 +713,8 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1773,
-                "y": 923,
+                "x": 1328,
+                "y": 630,
                 "size": 40,
                 "shape": "rect"
               }
@@ -739,9 +739,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1303,
-                "y": 1004,
-                "size": 40,
+                "x": 976,
+                "y": 694,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -767,9 +767,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1728,
-                "y": 1005,
-                "size": 40,
+                "x": 1296,
+                "y": 694,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -796,9 +796,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1430,
-                "y": 1176,
-                "size": 40,
+                "x": 1072,
+                "y": 822,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -824,9 +824,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1814,
-                "y": 1178,
-                "size": 40,
+                "x": 1360,
+                "y": 822,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -850,9 +850,9 @@
             "map_locations": [
               {
                 "map": "Campanula B2",
-                "x": 1944,
-                "y": 1176,
-                "size": 40,
+                "x": 1456,
+                "y": 822,
+                "size": 32,
                 "shape": "rect"
               }
             ],
