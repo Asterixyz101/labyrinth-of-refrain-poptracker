@@ -609,7 +609,7 @@
                 "map": "Campanula B2",
                 "x": 1584,
                 "y": 502,
-                "size": 40,
+                "size": 32,
                 "shape": "rect"
               }
             ],
@@ -715,7 +715,7 @@
                 "map": "Campanula B2",
                 "x": 1328,
                 "y": 630,
-                "size": 40,
+                "size": 32,
                 "shape": "rect"
               }
             ],
