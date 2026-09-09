@@ -1297,9 +1297,9 @@
                         "map_locations": [
                             {
                                 "map": "Campanula B3",
-                                "x": 2069,
-                                "y": 964,
-                                "size": 40,
+                                "x": 1552,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ],
@@ -1325,9 +1325,9 @@
                         "map_locations": [
                             {
                                 "map": "Campanula B3",
-                                "x": 1984,
-                                "y": 495,
-                                "size": 40,
+                                "x": 1488,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ],
@@ -1353,9 +1353,9 @@
                         "map_locations": [
                             {
                                 "map": "Campanula B3",
-                                "x": 1302,
-                                "y": 451,
-                                "size": 40,
+                                "x": 976,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ],
@@ -2252,9 +2252,9 @@
                         "map_locations": [
                             {
                                 "map": "Campanula B6",
-                                "x": 1985,
-                                "y": 451,
-                                "size": 40,
+                                "x": 1488,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ],
@@ -2700,9 +2700,9 @@
                         "map_locations": [
                             {
                                 "map": "Campanula B7",
-                                "x": 2069,
-                                "y": 451,
-                                "size": 40,
+                                "x": 1552,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ],
@@ -2726,9 +2726,9 @@
                         "map_locations": [
                             {
                                 "map": "Campanula B7",
-                                "x": 1941,
-                                "y": 537,
-                                "size": 40,
+                                "x": 1456,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ],
