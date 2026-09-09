@@ -36,9 +36,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1259,
-                                "y": 193,
-                                "size": 40,
+                                "x": 944,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -62,9 +62,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1641,
-                                "y": 195,
-                                "size": 40,
+                                "x": 1232,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -88,9 +88,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 2112,
-                                "y": 196,
-                                "size": 40,
+                                "x": 1584,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -114,9 +114,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1939,
-                                "y": 322,
-                                "size": 40,
+                                "x": 1456,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -140,9 +140,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1687,
-                                "y": 364,
-                                "size": 40,
+                                "x": 1264,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -166,9 +166,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1939,
-                                "y": 364,
-                                "size": 40,
+                                "x": 1456,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -192,9 +192,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1426,
-                                "y": 621,
-                                "size": 40,
+                                "x": 1072,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -218,9 +218,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1089,
-                                "y": 664,
-                                "size": 40,
+                                "x": 816,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -244,9 +244,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1345,
-                                "y": 833,
-                                "size": 40,
+                                "x": 1008,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -270,9 +270,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1683,
-                                "y": 962,
-                                "size": 40,
+                                "x": 1264,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -296,9 +296,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 2154,
-                                "y": 1048,
-                                "size": 40,
+                                "x": 1616,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -322,9 +322,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1300,
-                                "y": 1176,
-                                "size": 40,
+                                "x": 976,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -348,9 +348,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 2155,
-                                "y": 1303,
-                                "size": 40,
+                                "x": 1616,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -374,9 +374,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 2156,
-                                "y": 1348,
-                                "size": 40,
+                                "x": 1616,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -400,9 +400,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 1471,
-                                "y": 1430,
-                                "size": 40,
+                                "x": 1104,
+                                "y": 1014,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -426,9 +426,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain West District",
-                                "x": 2026,
-                                "y": 1433,
-                                "size": 40,
+                                "x": 1520,
+                                "y": 1014,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -463,9 +463,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1513,
-                                "y": 237,
-                                "size": 40,
+                                "x": 1136,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -489,9 +489,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1300,
-                                "y": 280,
-                                "size": 40,
+                                "x": 976,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -515,9 +515,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1174,
-                                "y": 323,
-                                "size": 40,
+                                "x": 880,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -541,9 +541,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1345,
-                                "y": 407,
-                                "size": 40,
+                                "x": 1008,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -567,9 +567,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1216,
-                                "y": 450,
-                                "size": 40,
+                                "x": 912,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -593,9 +593,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1601,
-                                "y": 365,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -619,9 +619,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 2026,
-                                "y": 279,
-                                "size": 40,
+                                "x": 1520,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -645,9 +645,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 2196,
-                                "y": 279,
-                                "size": 40,
+                                "x": 1648,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -671,9 +671,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 2326,
-                                "y": 280,
-                                "size": 40,
+                                "x": 1744,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -697,9 +697,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1985,
-                                "y": 408,
-                                "size": 40,
+                                "x": 1488,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -723,9 +723,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1728,
-                                "y": 662,
-                                "size": 40,
+                                "x": 1296,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -749,9 +749,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1045,
-                                "y": 707,
-                                "size": 40,
+                                "x": 784,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -775,9 +775,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 2027,
-                                "y": 749,
-                                "size": 40,
+                                "x": 1520,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -801,9 +801,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1258,
-                                "y": 833,
-                                "size": 40,
+                                "x": 944,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -827,9 +827,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1556,
-                                "y": 834,
-                                "size": 40,
+                                "x": 1168,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -853,9 +853,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1216,
-                                "y": 1004,
-                                "size": 40,
+                                "x": 912,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -879,9 +879,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1856,
-                                "y": 920,
-                                "size": 40,
+                                "x": 1392,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -905,9 +905,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1856,
-                                "y": 1091,
-                                "size": 40,
+                                "x": 1392,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -931,9 +931,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 2153,
-                                "y": 1003,
-                                "size": 40,
+                                "x": 1648,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -957,9 +957,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 2366,
-                                "y": 1174,
-                                "size": 40,
+                                "x": 1776,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -983,9 +983,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1173,
-                                "y": 1390,
-                                "size": 40,
+                                "x": 880,
+                                "y": 982,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1009,9 +1009,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1598,
-                                "y": 1346,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1035,9 +1035,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 2109,
-                                "y": 1346,
-                                "size": 40,
+                                "x": 1584,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1061,9 +1061,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1684,
-                                "y": 1475,
-                                "size": 40,
+                                "x": 1264,
+                                "y": 1046,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1087,9 +1087,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1942,
-                                "y": 1433,
-                                "size": 40,
+                                "x": 1456,
+                                "y": 1014,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1124,9 +1124,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1728,
-                                "y": 150,
-                                "size": 40,
+                                "x": 1296,
+                                "y": 54,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1150,9 +1150,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1471,
-                                "y": 280,
-                                "size": 40,
+                                "x": 1104,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1176,9 +1176,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 2197,
-                                "y": 279,
-                                "size": 40,
+                                "x": 1648,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1202,9 +1202,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1386,
-                                "y": 363,
-                                "size": 40,
+                                "x": 1040,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1228,9 +1228,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 2326,
-                                "y": 367,
-                                "size": 40,
+                                "x": 1744,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1254,9 +1254,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 2240,
-                                "y": 450,
-                                "size": 40,
+                                "x": 1680,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1280,9 +1280,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1044,
-                                "y": 492,
-                                "size": 40,
+                                "x": 784,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1306,9 +1306,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1174,
-                                "y": 536,
-                                "size": 40,
+                                "x": 880,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1332,9 +1332,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1346,
-                                "y": 537,
-                                "size": 40,
+                                "x": 1008,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1358,9 +1358,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1772,
-                                "y": 620,
-                                "size": 40,
+                                "x": 1328,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1384,9 +1384,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1088,
-                                "y": 792,
-                                "size": 40,
+                                "x": 816,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1410,9 +1410,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1343,
-                                "y": 876,
-                                "size": 40,
+                                "x": 1008,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1436,9 +1436,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1856,
-                                "y": 836,
-                                "size": 40,
+                                "x": 1392,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1462,9 +1462,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1855,
-                                "y": 877,
-                                "size": 40,
+                                "x": 1392,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1488,9 +1488,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 2239,
-                                "y": 1005,
-                                "size": 40,
+                                "x": 1680,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1514,9 +1514,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1515,
-                                "y": 1048,
-                                "size": 40,
+                                "x": 1136,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1540,9 +1540,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1727,
-                                "y": 1134,
-                                "size": 40,
+                                "x": 1296,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1566,9 +1566,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1130,
-                                "y": 1174,
-                                "size": 40,
+                                "x": 848,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1592,9 +1592,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 2155,
-                                "y": 1175,
-                                "size": 40,
+                                "x": 1616,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1618,9 +1618,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 2242,
-                                "y": 1173,
-                                "size": 40,
+                                "x": 1680,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1644,9 +1644,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1560,
-                                "y": 1347,
-                                "size": 40,
+                                "x": 1168,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1670,9 +1670,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain South District",
-                                "x": 1812,
-                                "y": 1431,
-                                "size": 40,
+                                "x": 1360,
+                                "y": 1014,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1707,9 +1707,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1343,
-                                "y": 193,
-                                "size": 40,
+                                "x": 1008,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1733,9 +1733,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1517,
-                                "y": 237,
-                                "size": 40,
+                                "x": 1136,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1759,9 +1759,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 2026,
-                                "y": 321,
-                                "size": 40,
+                                "x": 1520,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1785,9 +1785,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1049,
-                                "y": 368,
-                                "size": 40,
+                                "x": 784,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1811,9 +1811,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1814,
-                                "y": 449,
-                                "size": 40,
+                                "x": 1360,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1837,9 +1837,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1219,
-                                "y": 580,
-                                "size": 40,
+                                "x": 912,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1863,9 +1863,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 2114,
-                                "y": 580,
-                                "size": 40,
+                                "x": 1584,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1889,9 +1889,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1813,
-                                "y": 664,
-                                "size": 40,
+                                "x": 1360,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1915,9 +1915,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1855,
-                                "y": 706,
-                                "size": 40,
+                                "x": 1392,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1941,9 +1941,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 2156,
-                                "y": 748,
-                                "size": 40,
+                                "x": 1616,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1967,9 +1967,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1599,
-                                "y": 789,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1993,9 +1993,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1727,
-                                "y": 792,
-                                "size": 40,
+                                "x": 1296,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2019,9 +2019,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1261,
-                                "y": 832,
-                                "size": 40,
+                                "x": 944,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2045,9 +2045,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1601,
-                                "y": 918,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2071,9 +2071,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 2283,
-                                "y": 920,
-                                "size": 40,
+                                "x": 1712,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2097,9 +2097,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1173,
-                                "y": 963,
-                                "size": 40,
+                                "x": 880,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2123,9 +2123,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1856,
-                                "y": 1005,
-                                "size": 40,
+                                "x": 1392,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2149,9 +2149,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 1131,
-                                "y": 1049,
-                                "size": 40,
+                                "x": 848,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2175,9 +2175,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 2070,
-                                "y": 1132,
-                                "size": 40,
+                                "x": 1552,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2201,9 +2201,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain East District",
-                                "x": 2368,
-                                "y": 1432,
-                                "size": 40,
+                                "x": 1776,
+                                "y": 1014,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2227,9 +2227,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1643,
-                                "y": 535,
-                                "size": 40,
+                                "x": 1232,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2260,9 +2260,9 @@
                             },
                             {
                                 "map": "Refrain North District",
-                                "x": 1600,
-                                "y": 536,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2286,9 +2286,9 @@
                         "map_locations": [
                             {
                                 "map": "Refrain North District",
-                                "x": 1686,
-                                "y": 535,
-                                "size": 40,
+                                "x": 1264,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]

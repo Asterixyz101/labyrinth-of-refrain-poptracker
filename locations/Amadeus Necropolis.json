@@ -36,9 +36,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 1813,
-                                "y": 408,
-                                "size": 40,
+                                "x": 1360,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -62,9 +62,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 2071,
-                                "y": 406,
-                                "size": 40,
+                                "x": 1552,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -88,9 +88,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 1858,
-                                "y": 535,
-                                "size": 40,
+                                "x": 1392,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -114,9 +114,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 1217,
-                                "y": 748,
-                                "size": 40,
+                                "x": 912,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -140,9 +140,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 1557,
-                                "y": 750,
-                                "size": 40,
+                                "x": 1168,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -166,9 +166,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 2155,
-                                "y": 705,
-                                "size": 40,
+                                "x": 1616,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -192,9 +192,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 1729,
-                                "y": 920,
-                                "size": 40,
+                                "x": 1296,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -218,9 +218,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 2027,
-                                "y": 920,
-                                "size": 40,
+                                "x": 1520,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -244,9 +244,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 1174,
-                                "y": 1134,
-                                "size": 40,
+                                "x": 880,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -270,9 +270,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 1600,
-                                "y": 1176,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -296,9 +296,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 1174,
-                                "y": 1346,
-                                "size": 40,
+                                "x": 880,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -322,9 +322,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 1301,
-                                "y": 1347,
-                                "size": 40,
+                                "x": 976,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -348,9 +348,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 2113,
-                                "y": 1345,
-                                "size": 40,
+                                "x": 1584,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -374,9 +374,9 @@
                         "map_locations": [
                             {
                                 "map": "Sea Passage",
-                                "x": 2282,
-                                "y": 1347,
-                                "size": 40,
+                                "x": 1712,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -407,9 +407,9 @@
                             },
                             {
                                 "map": "Sea Passage",
-                                "x": 1729,
-                                "y": 1303,
-                                "size": 40,
+                                "x": 1296,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -444,9 +444,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1558,
-                                "y": 665,
-                                "size": 40,
+                                "x": 1168,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -470,9 +470,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1600,
-                                "y": 665,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -496,9 +496,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1641,
-                                "y": 665,
-                                "size": 40,
+                                "x": 1232,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -522,9 +522,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 2028,
-                                "y": 708,
-                                "size": 40,
+                                "x": 1520,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -548,9 +548,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1216,
-                                "y": 748,
-                                "size": 40,
+                                "x": 912,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -574,9 +574,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1428,
-                                "y": 749,
-                                "size": 40,
+                                "x": 1072,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -600,9 +600,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1814,
-                                "y": 750,
-                                "size": 40,
+                                "x": 1360,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -626,9 +626,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 2154,
-                                "y": 878,
-                                "size": 40,
+                                "x": 1616,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -652,9 +652,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1216,
-                                "y": 1006,
-                                "size": 40,
+                                "x": 912,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -678,9 +678,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1386,
-                                "y": 1005,
-                                "size": 40,
+                                "x": 1040,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -704,9 +704,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1515,
-                                "y": 1006,
-                                "size": 40,
+                                "x": 1136,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -730,9 +730,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1855,
-                                "y": 1050,
-                                "size": 40,
+                                "x": 1392,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -756,9 +756,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 2068,
-                                "y": 1007,
-                                "size": 40,
+                                "x": 1552,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -782,9 +782,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1598,
-                                "y": 1218,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -808,9 +808,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1386,
-                                "y": 1306,
-                                "size": 40,
+                                "x": 1040,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -834,9 +834,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 1386,
-                                "y": 1345,
-                                "size": 40,
+                                "x": 1040,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -860,9 +860,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 2113,
-                                "y": 1304,
-                                "size": 40,
+                                "x": 1584,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -886,9 +886,9 @@
                         "map_locations": [
                             {
                                 "map": "2F",
-                                "x": 2154,
-                                "y": 1304,
-                                "size": 40,
+                                "x": 1616,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -923,9 +923,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1388,
-                                "y": 238,
-                                "size": 40,
+                                "x": 1040,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -949,9 +949,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 2283,
-                                "y": 237,
-                                "size": 40,
+                                "x": 1712,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -975,9 +975,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 2240,
-                                "y": 279,
-                                "size": 40,
+                                "x": 1680,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1001,9 +1001,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 2281,
-                                "y": 323,
-                                "size": 40,
+                                "x": 1712,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1027,9 +1027,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1386,
-                                "y": 364,
-                                "size": 40,
+                                "x": 1040,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1053,9 +1053,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1813,
-                                "y": 365,
-                                "size": 40,
+                                "x": 1360,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1079,9 +1079,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1131,
-                                "y": 408,
-                                "size": 40,
+                                "x": 848,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1105,9 +1105,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 2240,
-                                "y": 408,
-                                "size": 40,
+                                "x": 1680,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1131,9 +1131,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1345,
-                                "y": 493,
-                                "size": 40,
+                                "x": 1008,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1157,9 +1157,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1344,
-                                "y": 534,
-                                "size": 40,
+                                "x": 1008,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1183,9 +1183,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1987,
-                                "y": 537,
-                                "size": 40,
+                                "x": 1488,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1209,9 +1209,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1475,
-                                "y": 578,
-                                "size": 40,
+                                "x": 1104,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1235,9 +1235,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1556,
-                                "y": 578,
-                                "size": 40,
+                                "x": 1168,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1261,9 +1261,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1772,
-                                "y": 877,
-                                "size": 40,
+                                "x": 1328,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1287,9 +1287,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1898,
-                                "y": 1219,
-                                "size": 40,
+                                "x": 1424,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1313,9 +1313,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1474,
-                                "y": 1262,
-                                "size": 40,
+                                "x": 1104,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1339,9 +1339,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1473,
-                                "y": 1304,
-                                "size": 40,
+                                "x": 1104,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1365,9 +1365,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1515,
-                                "y": 1303,
-                                "size": 40,
+                                "x": 1136,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1391,9 +1391,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1258,
-                                "y": 1347,
-                                "size": 40,
+                                "x": 944,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1417,9 +1417,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 1258,
-                                "y": 1388,
-                                "size": 40,
+                                "x": 944,
+                                "y": 982,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1443,9 +1443,9 @@
                         "map_locations": [
                             {
                                 "map": "B1",
-                                "x": 2112,
-                                "y": 1389,
-                                "size": 40,
+                                "x": 1584,
+                                "y": 982,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1480,9 +1480,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1601,
-                                "y": 238,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1506,9 +1506,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1301,
-                                "y": 405,
-                                "size": 40,
+                                "x": 976,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1532,9 +1532,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1558,
-                                "y": 452,
-                                "size": 40,
+                                "x": 1168,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1558,9 +1558,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1601,
-                                "y": 451,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1584,9 +1584,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1643,
-                                "y": 452,
-                                "size": 40,
+                                "x": 1232,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1610,9 +1610,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1174,
-                                "y": 664,
-                                "size": 40,
+                                "x": 880,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1636,9 +1636,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1387,
-                                "y": 792,
-                                "size": 40,
+                                "x": 1040,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1662,9 +1662,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1559,
-                                "y": 790,
-                                "size": 40,
+                                "x": 1168,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1688,9 +1688,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1601,
-                                "y": 790,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1714,9 +1714,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1643,
-                                "y": 789,
-                                "size": 40,
+                                "x": 1232,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1740,9 +1740,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1600,
-                                "y": 962,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1766,9 +1766,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1514,
-                                "y": 1005,
-                                "size": 40,
+                                "x": 1136,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1792,9 +1792,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1686,
-                                "y": 1005,
-                                "size": 40,
+                                "x": 1264,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1818,9 +1818,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 2070,
-                                "y": 1006,
-                                "size": 40,
+                                "x": 1552,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1844,9 +1844,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1173,
-                                "y": 1220,
-                                "size": 40,
+                                "x": 880,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1870,9 +1870,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1216,
-                                "y": 1220,
-                                "size": 40,
+                                "x": 912,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1896,9 +1896,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 2027,
-                                "y": 1176,
-                                "size": 40,
+                                "x": 1520,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1922,9 +1922,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 2027,
-                                "y": 1219,
-                                "size": 40,
+                                "x": 1520,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1948,9 +1948,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1856,
-                                "y": 1261,
-                                "size": 40,
+                                "x": 1392,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1974,9 +1974,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1899,
-                                "y": 1261,
-                                "size": 40,
+                                "x": 1424,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2000,9 +2000,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1557,
-                                "y": 1303,
-                                "size": 40,
+                                "x": 1168,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2026,9 +2026,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 1686,
-                                "y": 1303,
-                                "size": 40,
+                                "x": 1264,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2052,9 +2052,9 @@
                         "map_locations": [
                             {
                                 "map": "B2",
-                                "x": 2240,
-                                "y": 1389,
-                                "size": 40,
+                                "x": 1680,
+                                "y": 982,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2089,9 +2089,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 2198,
-                                "y": 238,
-                                "size": 40,
+                                "x": 1648,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2115,9 +2115,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1557,
-                                "y": 322,
-                                "size": 40,
+                                "x": 1168,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2141,9 +2141,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1215,
-                                "y": 363,
-                                "size": 40,
+                                "x": 912,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2167,9 +2167,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1387,
-                                "y": 366,
-                                "size": 40,
+                                "x": 1040,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2193,9 +2193,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1813,
-                                "y": 451,
-                                "size": 40,
+                                "x": 1360,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2219,9 +2219,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1855,
-                                "y": 451,
-                                "size": 40,
+                                "x": 1392,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2245,9 +2245,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 2069,
-                                "y": 536,
-                                "size": 40,
+                                "x": 1552,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2271,9 +2271,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1471,
-                                "y": 576,
-                                "size": 40,
+                                "x": 1104,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2297,9 +2297,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1558,
-                                "y": 579,
-                                "size": 40,
+                                "x": 1168,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2323,9 +2323,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1941,
-                                "y": 578,
-                                "size": 40,
+                                "x": 1456,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2349,9 +2349,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 2281,
-                                "y": 578,
-                                "size": 40,
+                                "x": 1712,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2375,9 +2375,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1131,
-                                "y": 706,
-                                "size": 40,
+                                "x": 848,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2401,9 +2401,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1642,
-                                "y": 706,
-                                "size": 40,
+                                "x": 1232,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2427,9 +2427,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1301,
-                                "y": 748,
-                                "size": 40,
+                                "x": 976,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2453,9 +2453,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1343,
-                                "y": 878,
-                                "size": 40,
+                                "x": 1008,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2479,9 +2479,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1600,
-                                "y": 876,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2505,9 +2505,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 2069,
-                                "y": 1004,
-                                "size": 40,
+                                "x": 1552,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2531,9 +2531,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1898,
-                                "y": 1048,
-                                "size": 40,
+                                "x": 1424,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2557,9 +2557,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1259,
-                                "y": 1089,
-                                "size": 40,
+                                "x": 944,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2583,9 +2583,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1728,
-                                "y": 1133,
-                                "size": 40,
+                                "x": 1296,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2609,9 +2609,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1941,
-                                "y": 1262,
-                                "size": 40,
+                                "x": 1456,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2635,9 +2635,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1132,
-                                "y": 1303,
-                                "size": 40,
+                                "x": 848,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2661,9 +2661,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1430,
-                                "y": 1303,
-                                "size": 40,
+                                "x": 1072,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2687,9 +2687,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 2068,
-                                "y": 1346,
-                                "size": 40,
+                                "x": 1552,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2713,9 +2713,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1386,
-                                "y": 1388,
-                                "size": 40,
+                                "x": 1040,
+                                "y": 982,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2739,9 +2739,9 @@
                         "map_locations": [
                             {
                                 "map": "Bottom",
-                                "x": 1601,
-                                "y": 1047,
-                                "size": 40,
+                                "x": 1200,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]

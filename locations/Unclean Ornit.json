@@ -36,9 +36,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 785,
-                                "y": 151,
-                                "size": 30,
+                                "x": 784,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -62,9 +62,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 1775,
-                                "y": 149,
-                                "size": 30,
+                                "x": 1776,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -88,9 +88,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 815,
+                                "x": 816,
                                 "y": 182,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -115,8 +115,8 @@
                             {
                                 "map": "Azu-Melm",
                                 "x": 1520,
-                                "y": 181,
-                                "size": 30,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -140,9 +140,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 785,
+                                "x": 784,
                                 "y": 214,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -166,9 +166,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 783,
+                                "x": 784,
                                 "y": 246,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -192,9 +192,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 1361,
-                                "y": 245,
-                                "size": 30,
+                                "x": 1360,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -218,9 +218,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 1007,
-                                "y": 375,
-                                "size": 30,
+                                "x": 1008,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -244,9 +244,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 1393,
-                                "y": 437,
-                                "size": 30,
+                                "x": 1392,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -270,9 +270,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 1586,
-                                "y": 437,
-                                "size": 30,
+                                "x": 1584,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -298,7 +298,7 @@
                                 "map": "Azu-Melm",
                                 "x": 976,
                                 "y": 502,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -322,9 +322,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 1455,
+                                "x": 1456,
                                 "y": 566,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -349,8 +349,8 @@
                             {
                                 "map": "Azu-Melm",
                                 "x": 1232,
-                                "y": 725,
-                                "size": 30,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -374,9 +374,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 1585,
-                                "y": 725,
-                                "size": 30,
+                                "x": 1584,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -401,8 +401,8 @@
                             {
                                 "map": "Azu-Melm",
                                 "x": 1072,
-                                "y": 756,
-                                "size": 30,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -426,9 +426,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 913,
-                                "y": 1012,
-                                "size": 30,
+                                "x": 912,
+                                "y": 1014,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -452,9 +452,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Melm",
-                                "x": 1777,
-                                "y": 1043,
-                                "size": 30,
+                                "x": 1776,
+                                "y": 1046,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -515,9 +515,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 1138,
+                                "x": 1136,
                                 "y": 118,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -543,7 +543,7 @@
                                 "map": "Azu-Amadeus",
                                 "x": 1392,
                                 "y": 118,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -569,7 +569,7 @@
                                 "map": "Azu-Amadeus",
                                 "x": 1616,
                                 "y": 150,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -593,9 +593,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 1199,
+                                "x": 1200,
                                 "y": 182,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -620,8 +620,8 @@
                             {
                                 "map": "Azu-Amadeus",
                                 "x": 1232,
-                                "y": 245,
-                                "size": 30,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -645,9 +645,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 1263,
+                                "x": 1264,
                                 "y": 246,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -671,9 +671,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 1263,
+                                "x": 1264,
                                 "y": 278,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -698,8 +698,8 @@
                             {
                                 "map": "Azu-Amadeus",
                                 "x": 1072,
-                                "y": 308,
-                                "size": 30,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -723,9 +723,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 1617,
-                                "y": 471,
-                                "size": 30,
+                                "x": 1616,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -750,8 +750,8 @@
                             {
                                 "map": "Azu-Amadeus",
                                 "x": 1168,
-                                "y": 535,
-                                "size": 30,
+                                "y": 534,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -777,7 +777,7 @@
                                 "map": "Azu-Amadeus",
                                 "x": 1200,
                                 "y": 534,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -802,8 +802,8 @@
                             {
                                 "map": "Azu-Amadeus",
                                 "x": 1616,
-                                "y": 597,
-                                "size": 30,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -827,9 +827,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 1265,
-                                "y": 693,
-                                "size": 30,
+                                "x": 1264,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -853,9 +853,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 1487,
-                                "y": 727,
-                                "size": 30,
+                                "x": 1488,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -881,7 +881,7 @@
                                 "map": "Azu-Amadeus",
                                 "x": 1552,
                                 "y": 726,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -907,7 +907,7 @@
                                 "map": "Azu-Amadeus",
                                 "x": 848,
                                 "y": 758,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -931,9 +931,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 879,
+                                "x": 880,
                                 "y": 790,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -957,9 +957,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 1134,
-                                "y": 789,
-                                "size": 30,
+                                "x": 1136,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -983,9 +983,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 1233,
+                                "x": 1232,
                                 "y": 822,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1009,9 +1009,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Amadeus",
-                                "x": 879,
+                                "x": 880,
                                 "y": 982,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1037,7 +1037,7 @@
                                 "map": "Azu-Amadeus",
                                 "x": 1616,
                                 "y": 982,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1072,9 +1072,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 817,
+                                "x": 816,
                                 "y": 86,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1098,9 +1098,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 911,
+                                "x": 912,
                                 "y": 86,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1124,9 +1124,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 1041,
+                                "x": 1040,
                                 "y": 86,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1151,8 +1151,8 @@
                             {
                                 "map": "Azu-Campanula",
                                 "x": 1168,
-                                "y": 117,
-                                "size": 30,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1176,9 +1176,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 1359,
-                                "y": 117,
-                                "size": 30,
+                                "x": 1360,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1204,7 +1204,7 @@
                                 "map": "Azu-Campanula",
                                 "x": 912,
                                 "y": 150,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1229,8 +1229,8 @@
                             {
                                 "map": "Azu-Campanula",
                                 "x": 1648,
-                                "y": 149,
-                                "size": 30,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1254,9 +1254,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 1071,
-                                "y": 181,
-                                "size": 30,
+                                "x": 1072,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1280,9 +1280,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 1550,
-                                "y": 181,
-                                "size": 30,
+                                "x": 1552,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1306,9 +1306,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 1649,
-                                "y": 248,
-                                "size": 30,
+                                "x": 1648,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1332,9 +1332,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 1679,
+                                "x": 1680,
                                 "y": 342,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1359,8 +1359,8 @@
                             {
                                 "map": "Azu-Campanula",
                                 "x": 1712,
-                                "y": 341,
-                                "size": 30,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1385,8 +1385,8 @@
                             {
                                 "map": "Azu-Campanula",
                                 "x": 912,
-                                "y": 373,
-                                "size": 30,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1411,8 +1411,8 @@
                             {
                                 "map": "Azu-Campanula",
                                 "x": 1072,
-                                "y": 375,
-                                "size": 30,
+                                "y": 374,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1437,8 +1437,8 @@
                             {
                                 "map": "Azu-Campanula",
                                 "x": 1008,
-                                "y": 437,
-                                "size": 30,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1464,7 +1464,7 @@
                                 "map": "Azu-Campanula",
                                 "x": 1392,
                                 "y": 470,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1490,7 +1490,7 @@
                                 "map": "Azu-Campanula",
                                 "x": 1712,
                                 "y": 470,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1514,9 +1514,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 879,
+                                "x": 880,
                                 "y": 502,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1540,9 +1540,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 1518,
+                                "x": 1520,
                                 "y": 598,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1567,8 +1567,8 @@
                             {
                                 "map": "Azu-Campanula",
                                 "x": 1392,
-                                "y": 661,
-                                "size": 30,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1592,9 +1592,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 1329,
-                                "y": 823,
-                                "size": 30,
+                                "x": 1328,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1619,8 +1619,8 @@
                             {
                                 "map": "Azu-Campanula",
                                 "x": 976,
-                                "y": 855,
-                                "size": 30,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1646,7 +1646,7 @@
                                 "map": "Azu-Campanula",
                                 "x": 880,
                                 "y": 886,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1670,9 +1670,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 1039,
-                                "y": 951,
-                                "size": 30,
+                                "x": 1040,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1696,9 +1696,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Campanula",
-                                "x": 1169,
+                                "x": 1168,
                                 "y": 950,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1723,8 +1723,8 @@
                             {
                                 "map": "Azu-Campanula",
                                 "x": 1520,
-                                "y": 951,
-                                "size": 30,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1812,8 +1812,8 @@
                             {
                                 "map": "Azu-Umbra",
                                 "x": 1072,
-                                "y": 119,
-                                "size": 30,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1837,9 +1837,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Umbra",
-                                "x": 1426,
+                                "x": 1424,
                                 "y": 118,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1864,8 +1864,8 @@
                             {
                                 "map": "Azu-Umbra",
                                 "x": 1328,
-                                "y": 181,
-                                "size": 30,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1889,9 +1889,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Umbra",
-                                "x": 1135,
-                                "y": 248,
-                                "size": 30,
+                                "x": 1136,
+                                "y": 246,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1916,8 +1916,8 @@
                             {
                                 "map": "Azu-Umbra",
                                 "x": 1168,
-                                "y": 439,
-                                "size": 30,
+                                "y": 438,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1941,9 +1941,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Umbra",
-                                "x": 1425,
+                                "x": 1424,
                                 "y": 470,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1967,9 +1967,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Umbra",
-                                "x": 974,
-                                "y": 664,
-                                "size": 30,
+                                "x": 976,
+                                "y": 662,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -1993,9 +1993,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Umbra",
-                                "x": 1006,
-                                "y": 695,
-                                "size": 30,
+                                "x": 1008,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2021,7 +2021,7 @@
                                 "map": "Azu-Umbra",
                                 "x": 912,
                                 "y": 758,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2045,9 +2045,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Umbra",
-                                "x": 786,
-                                "y": 820,
-                                "size": 30,
+                                "x": 784,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2072,8 +2072,8 @@
                             {
                                 "map": "Azu-Umbra",
                                 "x": 1104,
-                                "y": 855,
-                                "size": 30,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2097,9 +2097,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Umbra",
-                                "x": 1166,
+                                "x": 1168,
                                 "y": 854,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2123,9 +2123,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Umbra",
-                                "x": 1007,
-                                "y": 887,
-                                "size": 30,
+                                "x": 1008,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2150,8 +2150,8 @@
                             {
                                 "map": "Azu-Umbra",
                                 "x": 1712,
-                                "y": 724,
-                                "size": 30,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2176,8 +2176,8 @@
                             {
                                 "map": "Azu-Umbra",
                                 "x": 1680,
-                                "y": 791,
-                                "size": 30,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2203,7 +2203,7 @@
                                 "map": "Azu-Umbra",
                                 "x": 1360,
                                 "y": 790,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2227,9 +2227,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Umbra",
-                                "x": 1361,
-                                "y": 853,
-                                "size": 30,
+                                "x": 1360,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2254,8 +2254,8 @@
                             {
                                 "map": "Azu-Umbra",
                                 "x": 1456,
-                                "y": 887,
-                                "size": 30,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2280,8 +2280,8 @@
                             {
                                 "map": "Azu-Umbra",
                                 "x": 1552,
-                                "y": 919,
-                                "size": 30,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2306,8 +2306,8 @@
                             {
                                 "map": "Azu-Umbra",
                                 "x": 1712,
-                                "y": 919,
-                                "size": 30,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2344,7 +2344,7 @@
                                 "map": "Azu-Astrom",
                                 "x": 880,
                                 "y": 118,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2368,9 +2368,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Astrom",
-                                "x": 1070,
+                                "x": 1072,
                                 "y": 118,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2394,9 +2394,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Astrom",
-                                "x": 1327,
-                                "y": 181,
-                                "size": 30,
+                                "x": 1328,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2420,9 +2420,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Astrom",
-                                "x": 1263,
-                                "y": 408,
-                                "size": 30,
+                                "x": 1264,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2446,9 +2446,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Astrom",
-                                "x": 1646,
+                                "x": 1648,
                                 "y": 470,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2474,7 +2474,7 @@
                                 "map": "Azu-Astrom",
                                 "x": 1104,
                                 "y": 534,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2498,9 +2498,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Astrom",
-                                "x": 1394,
+                                "x": 1392,
                                 "y": 534,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2526,7 +2526,7 @@
                                 "map": "Azu-Astrom",
                                 "x": 1168,
                                 "y": 662,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2550,9 +2550,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Astrom",
-                                "x": 1359,
-                                "y": 695,
-                                "size": 30,
+                                "x": 1360,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2576,9 +2576,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Astrom",
-                                "x": 1137,
-                                "y": 853,
-                                "size": 30,
+                                "x": 1136,
+                                "y": 854,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2602,9 +2602,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Astrom",
-                                "x": 1553,
-                                "y": 920,
-                                "size": 30,
+                                "x": 1552,
+                                "y": 918,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2628,9 +2628,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Astrom",
-                                "x": 1009,
+                                "x": 1008,
                                 "y": 982,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2655,8 +2655,8 @@
                             {
                                 "map": "Azu-Astrom",
                                 "x": 1424,
-                                "y": 983,
-                                "size": 30,
+                                "y": 982,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2718,8 +2718,8 @@
                             {
                                 "map": "Azu-Phenom",
                                 "x": 816,
-                                "y": 152,
-                                "size": 30,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2743,9 +2743,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Phenom",
-                                "x": 1489,
+                                "x": 1488,
                                 "y": 86,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2770,8 +2770,8 @@
                             {
                                 "map": "Azu-Phenom",
                                 "x": 1552,
-                                "y": 87,
-                                "size": 30,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2795,9 +2795,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Phenom",
-                                "x": 1329,
-                                "y": 311,
-                                "size": 30,
+                                "x": 1328,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2822,8 +2822,8 @@
                             {
                                 "map": "Azu-Phenom",
                                 "x": 1424,
-                                "y": 311,
-                                "size": 30,
+                                "y": 310,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2847,9 +2847,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Phenom",
-                                "x": 1102,
-                                "y": 341,
-                                "size": 30,
+                                "x": 1104,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2873,9 +2873,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Phenom",
-                                "x": 1741,
+                                "x": 1744,
                                 "y": 406,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2900,8 +2900,8 @@
                             {
                                 "map": "Azu-Phenom",
                                 "x": 1712,
-                                "y": 501,
-                                "size": 30,
+                                "y": 502,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2925,9 +2925,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Phenom",
-                                "x": 1105,
-                                "y": 565,
-                                "size": 30,
+                                "x": 1104,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2951,9 +2951,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Phenom",
-                                "x": 1489,
+                                "x": 1488,
                                 "y": 566,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -2977,9 +2977,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Phenom",
-                                "x": 1710,
+                                "x": 1712,
                                 "y": 566,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3005,7 +3005,7 @@
                                 "map": "Azu-Phenom",
                                 "x": 1232,
                                 "y": 598,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3030,8 +3030,8 @@
                             {
                                 "map": "Azu-Phenom",
                                 "x": 880,
-                                "y": 693,
-                                "size": 30,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3057,7 +3057,7 @@
                                 "map": "Azu-Phenom",
                                 "x": 912,
                                 "y": 694,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3081,9 +3081,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Phenom",
-                                "x": 1007,
-                                "y": 757,
-                                "size": 30,
+                                "x": 1008,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3107,9 +3107,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Phenom",
-                                "x": 1357,
+                                "x": 1360,
                                 "y": 854,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3133,9 +3133,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Phenom",
-                                "x": 1041,
+                                "x": 1040,
                                 "y": 886,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3160,8 +3160,8 @@
                             {
                                 "map": "Azu-Phenom",
                                 "x": 848,
-                                "y": 981,
-                                "size": 30,
+                                "y": 982,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3224,7 +3224,7 @@
                                 "map": "Azu-Magia",
                                 "x": 880,
                                 "y": 118,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3248,9 +3248,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Magia",
-                                "x": 1137,
-                                "y": 119,
-                                "size": 30,
+                                "x": 1136,
+                                "y": 118,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3275,8 +3275,8 @@
                             {
                                 "map": "Azu-Magia",
                                 "x": 1488,
-                                "y": 215,
-                                "size": 30,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3300,9 +3300,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Magia",
-                                "x": 1519,
-                                "y": 343,
-                                "size": 30,
+                                "x": 1520,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3326,9 +3326,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Magia",
-                                "x": 1521,
-                                "y": 563,
-                                "size": 30,
+                                "x": 1520,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3353,8 +3353,8 @@
                             {
                                 "map": "Azu-Magia",
                                 "x": 1680,
-                                "y": 569,
-                                "size": 30,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3378,9 +3378,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Magia",
-                                "x": 1359,
+                                "x": 1360,
                                 "y": 694,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3404,9 +3404,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Magia",
-                                "x": 1519,
-                                "y": 693,
-                                "size": 30,
+                                "x": 1520,
+                                "y": 694,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3430,9 +3430,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Magia",
-                                "x": 1074,
-                                "y": 724,
-                                "size": 30,
+                                "x": 1072,
+                                "y": 726,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3456,9 +3456,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Magia",
-                                "x": 1359,
+                                "x": 1360,
                                 "y": 950,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3483,8 +3483,8 @@
                             {
                                 "map": "Azu-Magia",
                                 "x": 1680,
-                                "y": 948,
-                                "size": 30,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3509,8 +3509,8 @@
                             {
                                 "map": "Azu-Magia",
                                 "x": 944,
-                                "y": 981,
-                                "size": 30,
+                                "y": 982,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3572,8 +3572,8 @@
                             {
                                 "map": "Azu-Tanis",
                                 "x": 944,
-                                "y": 84,
-                                "size": 30,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3597,9 +3597,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 1006,
-                                "y": 87,
-                                "size": 30,
+                                "x": 1008,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3623,9 +3623,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 1585,
-                                "y": 84,
-                                "size": 30,
+                                "x": 1584,
+                                "y": 86,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3649,9 +3649,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 1007,
-                                "y": 181,
-                                "size": 30,
+                                "x": 1008,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3676,8 +3676,8 @@
                             {
                                 "map": "Azu-Tanis",
                                 "x": 1456,
-                                "y": 181,
-                                "size": 30,
+                                "y": 182,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3701,9 +3701,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 1263,
-                                "y": 213,
-                                "size": 30,
+                                "x": 1264,
+                                "y": 214,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3727,9 +3727,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 1137,
-                                "y": 340,
-                                "size": 30,
+                                "x": 1136,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3753,9 +3753,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 849,
-                                "y": 405,
-                                "size": 30,
+                                "x": 848,
+                                "y": 406,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3779,9 +3779,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 1393,
+                                "x": 1392,
                                 "y": 438,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3806,8 +3806,8 @@
                             {
                                 "map": "Azu-Tanis",
                                 "x": 1104,
-                                "y": 565,
-                                "size": 30,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3832,8 +3832,8 @@
                             {
                                 "map": "Azu-Tanis",
                                 "x": 1616,
-                                "y": 565,
-                                "size": 30,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3857,9 +3857,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 847,
+                                "x": 848,
                                 "y": 758,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3883,9 +3883,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 1615,
-                                "y": 791,
-                                "size": 30,
+                                "x": 1616,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3909,9 +3909,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 1490,
-                                "y": 884,
-                                "size": 30,
+                                "x": 1488,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3935,9 +3935,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 1615,
+                                "x": 1616,
                                 "y": 918,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -3961,9 +3961,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Tanis",
-                                "x": 1073,
+                                "x": 1072,
                                 "y": 982,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4024,9 +4024,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1649,
-                                "y": 149,
-                                "size": 30,
+                                "x": 1648,
+                                "y": 150,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4050,9 +4050,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1137,
+                                "x": 1136,
                                 "y": 214,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4076,9 +4076,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1617,
+                                "x": 1616,
                                 "y": 214,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4103,8 +4103,8 @@
                             {
                                 "map": "Azu-Cardia",
                                 "x": 976,
-                                "y": 277,
-                                "size": 30,
+                                "y": 278,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4128,9 +4128,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1746,
-                                "y": 343,
-                                "size": 30,
+                                "x": 1744,
+                                "y": 342,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4155,8 +4155,8 @@
                             {
                                 "map": "Azu-Cardia",
                                 "x": 816,
-                                "y": 471,
-                                "size": 30,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4180,9 +4180,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1746,
-                                "y": 471,
-                                "size": 30,
+                                "x": 1744,
+                                "y": 470,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4206,9 +4206,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1233,
-                                "y": 565,
-                                "size": 30,
+                                "x": 1232,
+                                "y": 566,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4233,8 +4233,8 @@
                             {
                                 "map": "Azu-Cardia",
                                 "x": 1008,
-                                "y": 599,
-                                "size": 30,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4258,9 +4258,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1361,
-                                "y": 599,
-                                "size": 30,
+                                "x": 1360,
+                                "y": 598,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4284,9 +4284,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 945,
-                                "y": 631,
-                                "size": 30,
+                                "x": 944,
+                                "y": 630,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4310,9 +4310,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1586,
+                                "x": 1584,
                                 "y": 630,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4336,9 +4336,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1394,
-                                "y": 757,
-                                "size": 30,
+                                "x": 1392,
+                                "y": 758,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4362,9 +4362,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1007,
-                                "y": 825,
-                                "size": 30,
+                                "x": 1008,
+                                "y": 822,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4389,8 +4389,8 @@
                             {
                                 "map": "Azu-Cardia",
                                 "x": 816,
-                                "y": 887,
-                                "size": 30,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4415,8 +4415,8 @@
                             {
                                 "map": "Azu-Cardia",
                                 "x": 1392,
-                                "y": 885,
-                                "size": 30,
+                                "y": 886,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4441,8 +4441,8 @@
                             {
                                 "map": "Azu-Cardia",
                                 "x": 1072,
-                                "y": 951,
-                                "size": 30,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4467,8 +4467,8 @@
                             {
                                 "map": "Azu-Cardia",
                                 "x": 1488,
-                                "y": 948,
-                                "size": 30,
+                                "y": 950,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
@@ -4492,9 +4492,9 @@
                         "map_locations": [
                             {
                                 "map": "Azu-Cardia",
-                                "x": 1393,
+                                "x": 1392,
                                 "y": 1014,
-                                "size": 30,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ]
