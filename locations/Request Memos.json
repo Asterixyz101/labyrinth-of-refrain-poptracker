@@ -239,6 +239,13 @@
                         "y": 233,
                         "size": 40,
                         "shape": "rect"
+                    },
+                    {
+                        "map": "Campanula B2",
+                        "x": 1200,
+                        "y": 694,
+                        "size": 32,
+                        "shape": "rect"
                     }
                 ]
             },
