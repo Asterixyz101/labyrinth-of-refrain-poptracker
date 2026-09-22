@@ -1,6 +1,6 @@
 LOCATION_MAPPING = {
 	[1] = {"@Campanula/B1/B1 Chest 11X 6Y/"},
-	[2] = {"@Campanula/B1/B1 Chest 13X Y6/"},
+	[2] = {"@Campanula/B1/B1 Chest 13X 6Y/"},
 	[3] = {"@Campanula/B1/B1 Chest 20X 7Y/"},
 	[4] = {"@Campanula/B1/B1 Chest 16X 10Y/"},
 	[5] = {"@Campanula/B1/B1 Chest 7X 11Y/"},
