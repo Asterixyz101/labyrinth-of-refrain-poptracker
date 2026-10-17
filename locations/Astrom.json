@@ -2502,7 +2502,7 @@
                             }
                         ],
                         "access_rules": [
-                            " "
+                            "$canReachTanisEast,$hasFuriasKey,$hasGreatSagesKey,rebirthpuppetsoldiers"
                         ],
                         "chest_unopened_img": "/images/items/close.png",
                         "chest_opened_img": "/images/items/open.png",
