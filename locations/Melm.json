@@ -867,9 +867,9 @@
                         "map_locations": [
                             {
                                 "map": "Hall of Champions",
-                                "x": 1944,
-                                "y": 1131,
-                                "size": 40,
+                                "x": 1456,
+                                "y": 790,
+                                "size": 32,
                                 "shape": "rect"
                             }
                         ],
