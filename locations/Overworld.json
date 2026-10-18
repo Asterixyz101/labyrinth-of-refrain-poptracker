@@ -416,10 +416,6 @@
           {
             "name": "Beat Zlavec",
             "ref": "Amadeus Necropolis/B3/Beat Zlavec/"
-          },
-          {
-            "name": "Beat Zlavec Event",
-            "ref": "Amadeus Necropolis/B3/Beat Zlavec Event/"
           }
         ],
         "map_locations": [
@@ -816,10 +812,6 @@
           {
             "name": "Beat Deus Ex Machina",
             "ref": "Astrom/North District/Beat Deus Ex Machina/"
-          },
-          {
-            "name": "Beat Deux Ex Machina Event",
-            "ref": "Astrom/North District/Beat Deux Ex Machina Event/"
           }
         ],
         "map_locations": [
@@ -1168,10 +1160,6 @@
           {
             "name": "Beat Devon",
             "ref": "Campanula/B6/Beat Devon/"
-          },
-          {
-            "name": "Beat Devon Event",
-            "ref": "Campanula/B6/Beat Devon Event/"
           },
           {
             "name": "B7 Chest 24X 6Y (Furias Key)",
@@ -2160,10 +2148,6 @@
           {
             "name": "Beat Empress Junon",
             "ref": "Melm/Divine Mausoleum/Beat Empress Junon/"
-          },
-          {
-            "name": "Beat Empress Junon Event",
-            "ref": "Melm/Divine Mausoleum/Beat Empress Junon Event/"
           }
         ],
         "map_locations": [
@@ -4356,10 +4340,6 @@
             "ref": "Umbra/Top/Beat Overlord Furfur/"
           },
           {
-            "name": "Beat Overlord Furfur Event",
-            "ref": "Umbra/Top/Beat Overlord Furfur Event/"
-          },
-          {
             "name": "Top Chest 30X 24Y",
             "ref": "Umbra/Top/Top Chest 30X 24Y/"
           },
@@ -5566,10 +5546,6 @@
           {
             "name": "Beat King Pecoro",
             "ref": "Verdant Phenom/Fallrealm Gem/Beat King Pecoro/"
-          },
-          {
-            "name": "Beat King Pecoro Event",
-            "ref": "Verdant Phenom/Fallrealm Gem/Beat King Pecoro Event/"
           },
           {
             "name": "Find Umbra Antechamber",
