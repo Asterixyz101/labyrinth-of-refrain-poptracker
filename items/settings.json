@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Goal",
+        "type": "progressive",
+        "initial_stage_idx": 0,
+        "loop": true,
+        "allow_disabled": false,
+        "stages": [
+            {
+                "name": "Bad Ending 1",
+                "img": "images/settings/bad_ending_1.png",
+                "img_mods": "@disabled",
+                "codes": "opt_goal,opt_bad_ending_1",
+                "inherit_codes": false
+            },
+            {
+                "name": "Bad Ending 2",
+                "img": "images/settings/bad_ending_2.png",
+                "img_mods": "@disabled",
+                "codes": "opt_goal,opt_bad_ending_2",
+                "inherit_codes": false
+            },
+            {
+                "name": "Bad Ending 3",
+                "img": "images/settings/bad_ending_3.png",
+                "img_mods": "@disabled",
+                "codes": "opt_goal,opt_bad_ending_3",
+                "inherit_codes": false
+            },
+            {
+                "name": "Normal Ending",
+                "img": "images/settings/normal_ending.png",
+                "img_mods": "@disabled",
+                "codes": "opt_goal,opt_normal_ending",
+                "inherit_codes": false
+            },
+            {
+                "name": "Superbosses",
+                "img": "images/settings/superbosses.png",
+                "img_mods": "@disabled",
+                "codes": "opt_goal,opt_superbosses",
+                "inherit_codes": false
+            },
+            {
+                "name": "Superbosses & Final Boss",
+                "img": "images/settings/superbosses_final_boss.png",
+                "img_mods": "@disabled",
+                "codes": "opt_goal,opt_superbosses_final_boss",
+                "inherit_codes": false
+            },
+            {
+                "name": "True Ending",
+                "img": "images/settings/true_ending.png",
+                "img_mods": "@disabled",
+                "codes": "opt_goal,opt_true_ending",
+                "inherit_codes": false
+            },
+            {
+                "name": "True Ending & Black Wanderer",
+                "img": "images/settings/true_ending_black_wanderer.png",
+                "img_mods": "@disabled",
+                "codes": "opt_goal,opt_true_ending_black_wanderer",
+                "inherit_codes": false
+            }
+        ]
+    }
+]

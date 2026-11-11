@@ -220,6 +220,12 @@ local function PreOnClear()
     end
 end
 
+--function for setting what goal we are going for
+function checkGoal(slot_data)
+    local opt_goal = Tracker:FindObjectForCode("opt_goal")
+    opt_goal.CurrentStage = slot_data["goal"] 
+end
+
 ---function that gets called when the pack connects to an AP server
 ---@param slot_data? table Slotdata send from AP server for the specific user/slot
 function OnClear(slot_data)
@@ -299,6 +305,9 @@ function OnClear(slot_data)
         Archipelago:SetNotify({HINTS_ID})
         Archipelago:Get({HINTS_ID})
     end
+
+    checkGoal(slot_data)
+
     ScriptHost:AddOnFrameHandler("load handler", OnFrameHandler)
     MANUAL_CHECKED = true
 end

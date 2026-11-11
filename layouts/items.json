@@ -138,5 +138,21 @@
         ]
       }
     ]
+  },
+  "setting_grid": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "itemgrid",
+        "margin": "0,0",
+        "item_margin": "0,0",
+        "item_size": "168,52",
+        "rows": [
+          [ "opt_goal"]
+        ]
+      }
+    ]
   }
 }
