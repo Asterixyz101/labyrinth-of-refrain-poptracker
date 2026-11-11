@@ -20,15 +20,15 @@
                     {
                         "name": "",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["opt_superbosses"],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Start Menu",
-                        "x": 38,
-                        "y": 332,
+                        "x": 230,
+                        "y": 249,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -46,7 +46,7 @@
                     {
                         "name": "",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["opt_superbosses_final_boss"],
                         "item_count": 1
                     }
                 ],
@@ -54,7 +54,7 @@
                     {
                         "map": "Start Menu",
                         "x": 230,
-                        "y": 332,
+                        "y": 249,
                         "size": 40,
                         "shape": "rect"
                     }
@@ -72,15 +72,15 @@
                     {
                         "name": "",
                         "access_rules": [],
-                        "visibility_rules": [],
+                        "visibility_rules": ["opt_true_ending_black_wanderer"],
                         "item_count": 1
                     }
                 ],
                 "map_locations": [
                     {
                         "map": "Start Menu",
-                        "x": 422,
-                        "y": 332,
+                        "x": 230,
+                        "y": 249,
                         "size": 40,
                         "shape": "rect"
                     }

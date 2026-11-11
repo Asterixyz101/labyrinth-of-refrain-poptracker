@@ -2903,14 +2903,14 @@
                             {
                                 "name": "",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": ["opt_bad_ending_2"],
                                 "item_count": 1
                             }
                         ],
                         "map_locations": [
                             {
                                 "map": "Start Menu",
-                                "x": 165,
+                                "x": 230,
                                 "y": 249,
                                 "size": 40,
                                 "shape": "rect"

@@ -5,7 +5,7 @@
         "chest_opened_img": "/images/items/open.png",
         "overlay_background": "#000000",
         "access_rules": [
-            "$canReachTanisEast"
+            "$canReachTanisEast,blackpages:6"
         ],
         "children": [
             {
@@ -4511,15 +4511,15 @@
                             {
                                 "name": "",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": ["opt_true_ending"],
                                 "item_count": 1
                             }
                         ],
                         "map_locations": [
                             {
                                 "map": "Start Menu",
-                                "x": 422,
-                                "y": 415,
+                                "x": 230,
+                                "y": 249,
                                 "size": 40,
                                 "shape": "rect"
                             },

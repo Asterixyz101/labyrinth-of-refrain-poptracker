@@ -2752,8 +2752,8 @@
                         "map_locations": [
                             {
                                 "map": "Start Menu",
-                                "x": 422,
-                                "y": 249,
+                                "x": 230,
+                                "y": 332,
                                 "size": 40,
                                 "shape": "rect"
                             }
@@ -2775,15 +2775,7 @@
                                 "item_count": 1
                             }
                         ],
-                        "map_locations": [
-                            {
-                                "map": "Start Menu",
-                                "x": 38,
-                                "y": 415,
-                                "size": 40,
-                                "shape": "rect"
-                            }
-                        ],
+                        "map_locations": [],
                         "access_rules": [
                             " "
                         ],

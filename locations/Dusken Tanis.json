@@ -2246,7 +2246,7 @@
                             {
                                 "name": "",
                                 "access_rules": [],
-                                "visibility_rules": [],
+                                "visibility_rules": ["opt_normal_ending"],
                                 "item_count": 1
                             }
                         ],
@@ -2254,7 +2254,7 @@
                             {
                                 "map": "Start Menu",
                                 "x": 230,
-                                "y": 415,
+                                "y": 249,
                                 "size": 40,
                                 "shape": "rect"
                             },
