@@ -39,3 +39,7 @@ end
 function hasWallbreaker()
     return ALL(HAS("wallbreaker",1),canReachCampanulaB3())
 end
+
+function hasFairyKingsPardon()
+    return ALL(HAS("fairykingspardon,1",canReachCampanulaB7()))
+end
